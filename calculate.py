@@ -1,6 +1,6 @@
 import json
+from statistics import mean
 import pandas as pd
-import re
 
 
 with open("data_out/data.json") as f:
@@ -42,38 +42,87 @@ def calc_times(entry):
 ranking = []
 unis = set(d["uni"] for d in data)
 for uni in unis:
-    libraries = [d for d in data if d["uni"] == uni]
-    times = [(library["name"], calc_times(library)) for library in libraries]
-    times = [t for t in times if t[1] is not None]
-    lib, time = max(times, key=lambda x: x[1], default=("-", 0))  # type: ignore
-    ranking.append({"uni": uni, "library": lib, "open_time": time})
+    libraries = [
+        {
+            "uni": uni,
+            "library": d["name"],
+            "gmaps_rating_original": d["rating"] if "rating" in d else None,
+            "gmaps_rating_count": d["user_ratings_total"]
+            if "user_ratings_total" in d
+            else None,
+            "opening_hours": calc_times(d),
+        }
+        for d in data
+        if d["uni"] == uni and calc_times(d) is not None
+    ]
+    if len(libraries) > 0:
+        lib = max(libraries, key=lambda x: x["opening_hours"])
+        ranking.append(lib)
 
 # library open time ranking
 
 df = pd.DataFrame(ranking)
-df = df.sort_values(by="open_time", ascending=False)
-df["rank"] = df["open_time"].rank(ascending=False, method="min")
+
+df["opening_hours"] = df["opening_hours"].apply(lambda s: f"{round(s*100)/100:.2f}")
+
+df["rank"] = df["opening_hours"].rank(ascending=False, method="min")
 df["rank"] = df["rank"].apply(round)
-df["open_time"] = df["open_time"].apply(lambda s: f"{round(s*100)/100:.2f}")
 cols = df.columns.to_list()
 df = df[[cols[-1], *cols[:-1]]]
 
 
 def get_rank(uni):
     rank = qs[qs["Institution Name"] == uni].iloc[0]["RANK"]
+    if isinstance(rank, int):
+        return str(rank)
     if isinstance(rank, float):
         if pd.isna(rank):
-            print(uni, rank)
-            return None
+            return "?"
         rank = int(rank)
     if isinstance(rank, str):
-        rank = rank.strip(" =")
+        rank = rank.strip(" =+")
         if "-" in rank:
             rank = rank.split("-")[0]
     return str(int(rank))
 
 
+# add qs ranks
+
 qs = pd.read_excel("data_in/2023 QS World University Rankings V2.1.xlsx")
 df["qs_rank"] = df["uni"].apply(get_rank)
 df["uni"] = df["uni"].apply(lambda s: s.strip())
+
+# bayesian average of gmaps ratings
+
+
+def bayesian_avg(row):
+    c = df["gmaps_rating_count"].quantile(0.25)
+    prior = df["gmaps_rating_original"].mean()
+    avg = (row["gmaps_rating_original"] * row["gmaps_rating_count"] + prior * c) / (
+        row["gmaps_rating_count"] + c
+    )
+    if pd.isna(avg):
+        return None
+    return avg
+
+
+def stretch(x):
+    if pd.isna(x):
+        return x
+    min = df["gmaps_rating"].min()
+    max = df["gmaps_rating"].max()
+    return round(((x - min) / (max - min) * 4 + 1) * 10) / 10
+
+
+df["gmaps_rating"] = df.apply(bayesian_avg, axis=1)
+df["gmaps_rating"] = df["gmaps_rating"].apply(stretch)
+
+df = df.sort_values(by=["opening_hours", "gmaps_rating"], ascending=[False, False])
 df.to_csv("data_out/ranking.csv", index=False)
+
+df = df[df["qs_rank"] != "?"]
+df["qs_rank"] = df["qs_rank"].astype(float)
+df["qs_rank"].hist()
+import matplotlib.pyplot as plt
+
+plt.show()

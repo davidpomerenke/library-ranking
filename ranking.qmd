@@ -1,0 +1,51 @@
+---
+title: "World University Library Ranking"
+author: David Pomerenke
+date: "2022-08-03"
+reference-location: margin
+citation-location: margin
+---
+
+There are many metrics for ranking universities, and with the exception of the [Nando's University Rankings](https://bantshire.github.io/blog-nandos.html) they are all scams. Nothing is more annoying than when the boomers close the library at 5pm, but politically nobody gives a fuck about this. This ranking aims to change that, by measuring the time proportion that the library is open. -- Turns out only 30% of "universities" have their libraries open more than half of the time, and a mere 6% fulfil our desires of always being open. Of course, there are methodical limitations.
+
+## Method
+
+Opening times are retrieved via Google Maps for all universities in the racist list of BS World University Ratings^[Officially, [_QS_ World University Rankings](https://www.topuniversities.com/university-rankings/world-university-rankings/2023).] and converted to percentages. Where there are multiple libraries, the one with the longest opening hours is selected. Rankings are also retrieved via Google Maps and reranked using [Bayesian averaging](https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/how-to/bayesian-average/). The table is sorted by opening hours first, and by ratings second.
+
+The limitations seem acceptable. Arguably, most opening hours on Google Maps are accurate, and the main problem is the retrieval of all relevant libraries. Faculties may have additional subject-specific libraries and in some fancy collegiate unis the dormitories may have their own libraries. Google Maps ratings are not very reliable, but at least there is little reason to assume they are manipulated like other online ratings, and they are only used for seconday sorting.
+
+```{python}
+#| echo: false
+#| label: fig-cap-margin
+#| fig-cap: "QS rank vs opening hours (1.0=always). Left: All universities. Right: Only top 100 QS ranked universities. The correlation is barely noticeable."
+#| fig-cap-location: margin
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+df = pd.read_csv("data_out/ranking.csv")
+df1 = df.copy()
+df1 = df1[df1["qs_rank"] != "?"]
+df1["qs_rank"] = df1["qs_rank"].astype(float)
+fig, ax = plt.subplots(1, 2)
+sns.regplot(data=df1, x="qs_rank", y="opening_hours", ax=ax[0])
+ax[0].set(xlim=(len(df), 1))
+df1 = df1[df1["qs_rank"] <= 100]
+sns.regplot(data=df1, x="qs_rank", y="opening_hours", ax=ax[1])
+ax[1].set(xlim=(100, 1))
+plt.show()
+```
+
+## Rankings
+
+Use `CTRL` + `F` to search.
+
+```{python}
+#| echo: false
+from IPython.display import HTML
+pd.set_option('display.max_rows', None)
+df["opening_hours"] = df["opening_hours"].apply(lambda x: str(int(x*100))+"%")
+df.drop(columns=["gmaps_rating"])
+display(HTML(df[["rank", "uni", "library", "gmaps_rating", "opening_hours"]].to_html(index=False)))
+```

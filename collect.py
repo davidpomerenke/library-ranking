@@ -51,9 +51,9 @@ def get_info(uni):
             get_details(candidate["place_id"], uni)
 
 
-df = pd.read_excel("data/2023 QS World University Rankings V2.1.xlsx")
+df = pd.read_excel("data_in/2023 QS World University Rankings V2.1.xlsx")
 
-for uni in list(df["Institution Name"])[:750]:
+for uni in list(df["Institution Name"])[:2000]:
     if uni not in {d["uni"] for d in data}:
         get_info(uni)
 

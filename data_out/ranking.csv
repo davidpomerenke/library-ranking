@@ -1,749 +1,1218 @@
-rank,uni,library,open_time,qs_rank
-1,Technical University of Denmark,DTU Library,1.00,99
-1,Coventry University,Lanchester Library,1.00,601
-1,Kyungpook National University,경북대학교 대구캠퍼스 중앙도서관,1.00,541
-1,University of Leicester,David Wilson Library,1.00,236
-1,Sungkyunkwan University(SKKU),Sungkyunkwan University Central Library,1.00,97
-1,University of Aveiro,Library of the University of Aveiro,1.00,601
-1,University of Surrey,University of Surrey Library,1.00,272
-1,Aberystwyth University,Hugh Owen Library,1.00,541
-1,"Stony Brook University, State University of New York",Frank Melville Jr. Memorial Library,1.00,378
-1,Istanbul Technical University,ITU Mustafa Inan Library,1.00,701
-1,Queensland University of Technology (QUT),QUT Gardens Point Library,1.00,213
-1,"Goldsmiths, University of London",Goldsmiths Library,1.00,461
-1,Lancaster University,Lancaster University Library,1.00,132
-1,Bond University,John and Alison Kearney Main Library,1.00,451
-1,Koç University,Suna Kıraç Kütüphanesi,1.00,511
-1,Charles Darwin University,Darwin College Library,1.00,701
-1,Oxford Brookes University,"Oxford Brookes University, Business School, Gipsy Lane Campus",1.00,429
-1,The University of Exeter,Forum Library,1.00,149
-1,King's College London,The Maughan Library,1.00,35
-1,The University of Warwick,University of Warwick Library,1.00,61
-1,"KIT, Karlsruhe Institute of Technology",KIT Library,1.00,136
-1,Pohang University of Science And Technology (POSTECH),PARK TAE-JOON Digital Library,1.00,81
-1,Technical University of Darmstadt,University and State Library Darmstadt,1.00,269
-1,Lappeenranta-Lahti University of Technology LUT,LUT University Library,1.00,414
-1,University of Plymouth,Charles Seale-Hayne Library,1.00,601
-1,Universidad de Alcalá,CRAI - Library - UAH,1.00,511
-1,University of East Anglia (UEA),Library,1.00,307
-1,Tecnológico de Monterrey,BiblioTEC,1.00,161
-1,Vilnius University,Vilnius University Library Scientific Communication and Information Center,1.00,400
-1,University of Bradford,JB Priestley Library,1.00,701
-1,Deakin University,Deakin Library Burwood,1.00,283
-1,Swansea University,Library and Information Centre,1.00,440
-1,University of Bath,University of Bath Library,1.00,166
-1,Royal Holloway University of London,Emily Wilding Davison Building,1.00,334
-1,The University of Edinburgh,Main Library,1.00,16
-1,The Australian National University,Chifley Library,1.00,27
-1,University of Macau,University of Macao,1.00,322
-1,Georgia Institute of Technology,Georgia Tech Library,1.00,88
-1,Universität Konstanz,Universität Konstanz - Bibliothek der Universität Konstanz,1.00,501
-1,Tokyo Medical and Dental University (TMDU),Tokyo Medical & Dental University,1.00,381
-41,Cornell University,Uris Library,0.95,21
-42,Imperial College London,Imperial College London Central Library,0.93,7
-42,Boston College,Thomas P. O'Neill Jr. Library,0.93,494
-44,Lincoln University,"University Library, University of Lincoln",0.93,372
-45,University of Delhi,South Campus Library,0.83,501
-46,Queen Mary University of London,Whitechapel Library,0.79,117
-47,University of Glasgow,University of Glasgow Library,0.78,73
-48,The University of Western Australia,Reid Library,0.78,93
-49,Indian Institute of Technology Guwahati (IITG),IITG Library (Lakshminath Bezbaruah Central Library),0.75,395
-50,IE University,Guillermo y Michèle de la Dehesa Library,0.71,317
-51,La Trobe University,Borchardt Library,0.71,362
-51,Queen's University Belfast,Queen’s University Belfast The McClay Library,0.71,216
-53,Albert-Ludwigs-Universitaet Freiburg,University Library Freiburg,0.71,172
-53,EPFL,EPFL Library,0.71,14
-55,Universitat Politècnica de València,UPV - Biblioteca Central,0.70,371
-56,Lehigh University,Linderman Library,0.70,531
-57,Universidad de Concepción,"Biblioteca Central UdeC ""Luis David Cruz Ocampo""",0.69,601
-58,Wesleyan University,Olin Memorial Library,0.69,
-58,Northeastern University,Northeastern University Law Library,0.69,342
-60,University of Connecticut,UConn Library,0.68,373
-61,Ruprecht-Karls-Universität Heidelberg,Heidelberg University Library,0.68,63
-62,Lahore University of Management Sciences (LUMS),Gad and Birgit Rausing Library,0.68,651
-63,University of South Australia,University of South Australia Library - Magill Campus,0.67,326
-64,Universidad Externado de Colombia,Biblioteca Universidad de La Salle,0.67,591
-64,Delft University of Technology,TU Delft Library,0.67,57
-64,University of Otago,"Central Library, University Of Otago",0.67,194
-64,University of Southampton,Hartley Library (36),0.67,77
-64,Northumbria University at Newcastle,"City Campus Library, Northumbria University",0.67,701
-64,Indian Institute of Technology Kharagpur (IIT-KGP),Central Library,0.67,280
-64,The London School of Economics and Political Science (LSE),The British Library of Political and Economic Science,0.67,49
-64,University of York,JB Morrell Library,0.67,151
-72,Politecnico di Milano,Leonardo Campus Library,0.66,142
-73,University of Dundee,Library & Learning Centre - University of Dundee,0.65,322
-74,Justus-Liebig-University Giessen,Universitätsbibliothek der Justus-Liebig-Universität Gießen,0.65,490
-74,National University of Sciences And Technology (NUST) Islamabad,Central Library - NUST H-12 Main Campus,0.65,358
-74,Boğaziçi University,Bogazici University Library,0.65,701
-77,Georgetown University,Joseph Mark Lauinger Memorial Library,0.64,248
-77,Tilburg University,Tilburg University Library,0.64,356
-77,Johannes Gutenberg Universität Mainz,University Library,0.64,427
-77,Rheinische Friedrich-Wilhelms-Universität Bonn,Abteilungsbibliothek MNL,0.64,226
-77,University of Notre Dame,Hesburgh Library,0.64,222
-77,Universität Stuttgart,University Library Stuttgart (city center),0.64,347
-83,Indian Institute of Science,JRD Tata Memorial Library,0.64,186
-84,The Ohio State University,The Ohio State University Library,0.64,120
-85,Universitat Pompeu Fabra (Barcelona),Biblioteca/CRAI de la Ciutadella,0.64,248
-86,Technical University of Munich,University Library of the Technische Universität München,0.63,50
-86,University of Göttingen,Central Library,0.63,204
-86,Universität Leipzig,Leipzig University Library,0.63,447
-86,University of Waterloo,University of Waterloo Davis Centre Library,0.63,149
-90,The University of New South Wales (UNSW Sydney),UNSW Library,0.62,43
-91,University of Groningen,University of Groningen Library,0.62,128
-92,Universität Rostock,UB Rostock: University Library Südstadt,0.62,651
-92,Bilkent University,Bilkent University Main Campus Library,0.62,591
-94,Eberhard Karls Universität Tübingen,University library,0.62,177
-94,Victoria University of Wellington,Victoria University of Wellington Kelburn Library,0.62,236
-96,SOAS University of London,SOAS Library,0.62,391
-96,Julius-Maximilians-Universität Würzburg,University Library,0.62,378
-98,Indian Institute of Technology Kanpur (IITK),P.K. Kelkar Library,0.62,277
-99,Aston University,Aston University Library,0.61,485
-99,Universität Hamburg,Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky,0.61,214
-101,Middle East Technical University,METU Library,0.61,551
-102,Erasmus University Rotterdam,University Library,0.61,179
-103,City University of Hong Kong,Run Run Shaw Library,0.60,53
-104,University of Trento,B.U.C.,0.60,440
-105,Universität Mannheim,Library area Schloss Ehrenhof,0.60,423
-106,Simon Fraser University,SFU Library,0.60,298
-107,Massey University,Massey University Library | Te Putanga Ki Te Ao Mātauranga,0.60,284
-108,"The University of Tennessee, Knoxville",John C. Hodges Library,0.60,541
-109,Indian Institute of Technology Madras (IITM),Central Library Indian Institute of Technology Madras,0.60,255
-110,Universität Innsbruck,Hauptbibliothek,0.60,281
-111,University of Virginia,University of Va Library,0.59,226
-112,Swinburne University of Technology,Swinburne University of Technology - Hawthorn Library,0.59,321
-112,University of Cologne,University and City Library of Cologne,0.59,311
-112,Indian Institute of Technology Delhi (IITD),"Central Library, IIT Delhi",0.59,185
-112,Eindhoven University of Technology,Universiteitsbibliotheek TU/e,0.59,125
-112,Indian Institute of Technology (BHU) Varanasi,IIT BHU Main Library,0.59,
-117,Singapore Management University,SMU Li Ka Shing Library,0.59,511
-118,O.P. Jindal Global University,OP Jindal Global Library,0.59,701
-119,North Carolina State University,D. H. Hill Jr. Library,0.58,300
-119,The Hong Kong University of Science and Technology,The Hong Kong University of Science and Technology Library,0.58,34
-121,RWTH Aachen University,University Library RWTH,0.58,165
-121,University of Technology Sydney,UTS Library,0.58,133
-121,Northwestern University,University Library,0.58,30
-121,Goethe-University Frankfurt am Main,Library for Law and Economics,0.58,340
-121,Macau University of Science and Technology,Macau University of Science and Technology Library,0.58,651
-126,Utrecht University,Universiteitsbibliotheek Utrecht Binnenstad (UBB),0.58,110
-127,Ruhr-Universität Bochum,University Library Bochum,0.58,393
-127,The University of Queensland,Central Library,0.58,47
-127,The Hong Kong Polytechnic University,"Pao Yue-kong Library, The Hong Kong Polytechnic University",0.58,66
-130,Drexel University,Hagerty Library,0.57,651
-130,Nagoya University,Nagoya University Library,0.57,118
-132,National Chengchi University,NCCU Main Library,0.57,591
-133,Durham University,Bill Bryson Library • Durham University,0.57,82
-133,South China University of Technology,South China University of Technology Library,0.57,407
-135,University of Hull,University of Hull,0.57,651
-135,University of Canterbury | Te Whare Wānanga o Waitaha,UC Central Library - Te Puna Mātauraka o Te Whare Wānanga o Waitaha,0.57,258
-137,"University of Alabama, Birmingham",Lister Hill Library,0.56,
-138,Technische Universität Braunschweig,University Library,0.56,561
-139,Westfälische Wilhelms-Universität Münster,University and State Library,0.56,411
-139,Monash University,Sir Louis Matheson Library,0.56,58
-139,Czech Technical University in Prague,National Library of Technology,0.56,403
-142,Chang Gung University,Chang-Gung University Library,0.56,480
-143,University of Massachusetts Amherst,W. E. B. Du Bois Library,0.55,246
-143,National Taiwan University (NTU),NTU Main Library,0.55,68
-145,Tufts University,Tisch Library,0.55,275
-146,Iowa State University,Parks Library,0.55,494
-147,Université de Fribourg,Bibliothèque de la Faculté de Droit (BFD),0.55,561
-148,Technische Universität Dresden,Saxon State and University Library Dresden,0.55,194
-148,"Universidad Central ""Marta Abreu"" de Las Villas","Central University ""Marta Abreu"" of Las Villas",0.55,521
-150,Newcastle University,Philip Robinson Library,0.54,134
-151,Jawaharlal Nehru University,Dr. B. R. Ambedkar Central Library,0.54,561
-151,Okayama University,Okayama University Central Library,0.54,581
-151,Iran University of Science and Technology,Iran University of Science and Technology (IUST),0.54,541
-151,University of Liverpool,Harold Cohen Library,0.54,189
-151,Illinois Institute of Technology,Paul V. Galvin Library,0.54,444
-156,Vrije Universiteit Amsterdam,Vu Pride Library,0.54,209
-157,Florida State University,Robert Manning Strozier Library,0.54,475
-158,University of Cincinnati,Langsam Library,0.54,601
-158,The University of Auckland,University of Auckland General Library,0.54,85
-158,American University of Sharjah,American University of Sharjah Library,0.54,383
-161,The University of Tokyo,University of Tokyo General Library,0.54,23
-161,University of Kent,Templeman Library,0.54,383
-161,University of Wollongong,UOW Library,0.54,193
-164,National Taipei University of Technology,National Taipei University of Technology Library,0.53,469
-165,Anna University,Anna University Central Library,0.53,801
-166,Wayne State University,David Adamany Undergraduate Library,0.53,511
-167,Technische Universität Berlin (TU Berlin),Technical University of Berlin University Library,0.53,159
-167,Purdue University,Purdue University Libraries and School of Information,0.53,116
-167,University of Nebraska - Lincoln,University of Nebraska-Lincoln Libraries,0.53,571
-170,Niigata University,Niigata University Library of Medical and Dental Library,0.53,541
-171,National Yang Ming Chiao Tung University,National Yang Ming Chiao Tung University Library,0.53,268
-172,Radboud University,Central Library,0.53,220
-173,Universität Bremen,State and University Library Bremen,0.52,571
-173,Universität Jena,Thuringian University and State Library,0.52,344
-173,National Central University,National Central University Library,0.52,521
-176,McMaster University,McMaster University Library,0.52,140
-177,University of Cyprus (UCY),Βιβλιοθήκη Πανεπιστημίου Κύπρου | University of Cyprus Library,0.52,440
-177,Nagasaki University,Central Library,0.52,531
-179,"University of California, Los Angeles (UCLA)",UCLA Science and Engineering Library,0.52,40
-180,"University of California, Berkeley (UCB)",Doe Library,0.52,32
-181,James Cook University,Eddie Koiki Mabo Library,0.51,424
-182,National Tsing Hua University,National Tsing Hua University Library,0.51,180
-182,Concordia University,"Webster Library, Concordia University",0.51,521
-182,York University,Scott Library,0.51,494
-182,The New School,"New School Libraries & Archives, University Center",0.51,561
-182,University of Portsmouth,University Library,0.51,651
-182,Sun Yat-sen University,National Sun Yat-Sen University Library,0.51,260
-182,National Chung Hsing University,National Chung Hsing University Library,0.51,651
-182,University of Strathclyde,Andersonian Library,0.51,302
-182,National Sun Yat-sen University,National Sun Yat-Sen University Library,0.51,412
-182,ETH Zurich - Swiss Federal Institute of Technology,ETH Library infoCenter,0.51,8
-182,California Institute of Technology (Caltech),Sherman Fairchild Library of Engineering and Applied Science,0.51,6
-182,Macquarie University,Macquarie University Library,0.51,200
-194,University of Tsukuba,University of Tsukuba Central Library,0.51,285
-195,National Taiwan Normal University,National Taiwan Normal University Library,0.51,334
-196,The Chinese University of Hong Kong (CUHK),The Chinese University of Hong Kong University Library,0.51,39
-197,Chiba University,The Library of Chiba University,0.51,477
-198,American University of Beirut (AUB),Nami Jafet Memorial Library - AUB,0.50,242
-198,Taipei Medical University (TMU),Taipei Medical University Library,0.50,407
-198,"University of California, San Diego (UCSD)",Geisel Library,0.50,48
-201,University of Nottingham,Hallward Library,0.50,103
-202,Pontificia Universidad Católica del Perú,PUCP Central Library,0.50,395
-203,University of Texas Dallas,Eugene McDermott Library,0.50,477
-203,Universiti Malaya (UM),"Main Library, University of Malaya",0.50,65
-203,University of Sussex,University of Sussex Library,0.50,226
-203,Indian Institute of Technology Bombay (IITB),Central Library,0.50,177
-203,Ajou University,Ajou University Central Library,0.50,531
-203,Columbia University,Butler Library,0.50,19
-209,University of Bristol,"Arts and Social Sciences Library, University of Bristol",0.50,62
-209,University of Madras,Madras University Library,0.50,
-209,McGill University,McLennan Library Building,0.50,27
-209,Aristotle University of Thessaloniki,Central Library A.U.TH.,0.50,551
-209,University College Cork,Boole Library,0.50,298
-209,Princess Nourah bint Abdulrahman University,PNU Library المكتبة المركزية,0.50,751
-209,University of Birmingham,"Main Library, University Of Birmingham",0.50,90
-216,"Birkbeck, University of London",Birkbeck Library,0.50,332
-217,Hitotsubashi University,University Library,0.50,531
-218,University of Victoria (UVic),UVic Library,0.50,334
-219,National Taiwan University of Science and Technology (Taiwan Tech),National Taiwan University of Science & Technology Library,0.50,314
-220,Tohoku University,Tohoku University Library,0.49,82
-220,Chulalongkorn University,"Office of Academic Resources, Chulalongkorn University",0.49,215
-220,Kyoto University,Kyoto University Library,0.49,33
-220,Arizona State University,Noble Library,0.49,216
-220,University of Sharjah,University of Sharjah Medical Library,0.49,601
-225,Universidad Anáhuac México,Universidad Anáhuac Mexico North Campus,0.49,601
-226,University of Navarra,University of Navarre: Library,0.49,266
-227,University of Pretoria,University of Pretoria Library Services,0.49,601
-227,"University of Maryland, College Park",McKeldin Library,0.49,158
-227,The University of Sheffield,Western Bank Library,0.49,95
-230,University of South Florida,Library,0.49,581
-230,Tokushima University,Tokushima University Library,0.49,651
-230,Ritsumeikan University,Hirai Kaichiro Memorial Library,0.49,751
-230,Universiti Tenaga Nasional (UNITEN),Uniten Library,0.49,751
-234,Duke University,Duke University Libraries,0.48,52
-235,University of Minho,University of Minho General Library,0.48,571
-235,Chiang Mai University,Chiang Mai University Library,0.48,601
-235,Kagoshima University,Kagoshima University Library,0.48,651
-235,Universiti Teknologi MARA - UiTM,Perpustakaan Tun Abdul Razak | Tun Abdul Razak Library,0.48,651
-235,Osaka City University,Osaka Metropolitan University Library Sugimoto Library,0.48,571
-240,Leibniz University Hannover,Technical Information Library,0.48,601
-240,Ludwig-Maximilians-Universität München,UB University of Munich - Central Library,0.48,64
-240,International Islamic University Malaysia (IIUM),IIUM Dar al-Hikmah Library,0.48,651
-243,University of Chicago,The University of Chicago Library,0.48,10
-244,Virginia Polytechnic Institute and State University,Newman Library,0.48,346
-245,University of Miami,Richter Library,0.48,311
-245,University of Massachusetts Boston,Healey Library,0.48,651
-245,University of St Andrews,Main Library,0.48,91
-248,École Normale Supérieure de Lyon,"Library of Lyon Diderot (Descartes site, LSHS)",0.48,130
-248,Universidad ICESI,Biblioteca Icesi,0.48,651
-248,Université de Montréal,Bibliothèque des lettres et sciences humaines,0.48,111
-248,Carleton University,MacOdrum Library,0.48,601
-248,Dartmouth College,Baker-Berry Library,0.48,191
-253,Michigan State University,Main Library,0.48,157
-254,University of Johannesburg,UJ Library,0.47,434
-255,University of Pittsburgh,Hillman Library at University of Pittsburgh,0.47,163
-255,"City, University of London",City Law School Private Library,0.47,330
-255,Universiti Brunei Darussalam (UBD),University Library,0.47,250
-258,Osaka University,Osaka University Science and Engineering Library,0.47,75
-259,University of Calgary,Taylor Family Digital Library,0.47,235
-259,"The University of Newcastle, Australia (UON)",Auchmuty Library,0.47,197
-259,Universidad de Montevideo (UM),University of Montevideo,0.47,469
-262,"University of North Carolina, Chapel Hill",Davis Library,0.47,100
-263,Universidad de Costa Rica,Carlos Monge Library,0.47,531
-264,University of Vermont,University of Vermont: Dana Medical Library,0.47,651
-265,Cardiff University,Science Library,0.47,151
-266,Princeton University,Lewis Science Library,0.46,20
-266,Waseda University,S. Takata Memorial Research Library,0.46,203
-268,Sogang University,Loyola Library,0.46,494
-268,Swarthmore College,McCabe Library,0.46,
-268,Ivane Javakhishvili Tbilisi State University,TSU Library,0.46,571
-268,Free University of Bozen-Bolzano,Library of the Free University of Bozen-Bolzano,0.46,651
-272,Southeast University,Southeast University Central Library,0.46,465
-273,The American University in Cairo,AUC Library,0.46,445
-273,University of Oklahoma,Bizzell Memorial Library,0.46,651
-275,Oregon State University,The Valley Library,0.46,531
-276,Indian Institute of Technology Roorkee (IITR),Mahatma Gandhi Central Library,0.46,400
-277,Universidad San Francisco de Quito (USFQ),Biblioteca USFQ,0.46,751
-277,Universidad de Antioquia,"Biblioteca Central Universidad de Antioquia ""Carlos Gaviria Diaz""",0.46,651
-277,George Washington University,Gelman Library,0.46,355
-277,UCSI University,UCSI University Library (South Wing),0.46,347
-281,University of Warsaw,Warsaw University Library,0.46,308
-282,"Kingston University, London",Nightingale Centre (LRC),0.46,601
-283,University of Utah,J. Willard Marriott Library,0.46,358
-283,University of Bordeaux,University Library Science and Technology,0.46,501
-285,Universidade Estadual de Campinas (Unicamp),Library System of Unicamp - SBU,0.45,219
-286,Hiroshima University,Central Library,0.45,343
-287,"Lingnan University, Hong Kong",Lingnan University Fong Sum Wood Library,0.45,581
-288,Amirkabir University of Technology,Tehran Library of Engineering and Technology,0.45,465
-288,Wake Forest University,ZSR Library,0.45,429
-288,Universidad de los Andes,Biblioteca Ramón de Zubiria,0.45,236
-291,The University of Manchester,Main Library,0.45,27
-291,Soochow University,Soochow University Library,0.45,601
-291,RMIT University,Swanston Library,0.45,206
-291,"Essex, University of",Albert Sloman Library,0.45,439
-295,University of South Carolina,Thomas Cooper Library,0.45,601
-295,Tulane University,Howard-Tilton Memorial Library,0.45,436
-297,"University of Missouri, Columbia","University of Missouri Libraries, Elmer Ellis Library",0.45,476
-298,University of Ottawa,Morisset Library,0.45,230
-299,University of Kentucky,William T Young Library,0.45,651
-300,Kanazawa University,Central Library,0.44,601
-300,Hasselt University,UHasselt - Universiteitsbibliotheek,0.44,471
-302,University of Illinois at Chicago (UIC),"Library of the Health Sciences-Chicago, University of Illinois at Chicago",0.44,285
-302,University of Cape Town,Chancellor Oppenheimer Library,0.44,226
-302,Western University,The D.B. Weldon Library,0.44,170
-305,University of Stirling,Library,0.44,471
-305,Edith Cowan University,"Library, ECU Joondalup Campus",0.44,651
-305,University of Oregon,Knight Library,0.44,651
-308,Kumamoto University,Kumamoto University Central Library,0.44,591
-309,"Nanyang Technological University, Singapore (NTU)",Lee Wee Nam Library,0.44,12
-309,Thammasat University,Thammasat University Library,0.44,601
-311,Murdoch University,Geoffrey Bolton Library,0.43,581
-311,University of Geneva,Bibliothèque de Genève,0.43,105
-311,University of Vienna,Universitätsbibliothek Wien,0.43,151
-311,Universität des Saarlandes,Saarland University and State Library,0.43,447
-315,Konkuk University,Konkuk University sangheo Memorial Library,0.43,601
-316,"University of California, Santa Cruz",McHenry Library,0.43,347
-317,Universidad Católica del Uruguay (UCU),Catholic University of Uruguay (UCU),0.43,801
-317,Universiti Putra Malaysia (UPM),Sultan Abdul Samad Library,0.43,143
-317,University of Iowa,Main Library,0.43,455
-317,Universitat Ramon Llull,URL Biblioteca Facultat Comunicació i Relacions Internacionals Blanquerna,0.43,601
-317,St. Louis University,Pius XII Memorial Library,0.43,
-317,Universidade Federal de Minas Gerais,Biblioteca Central da UFMG -,0.43,651
-323,University of Milano-Bicocca,Biblioteca di Ateneo - Sede Centrale,0.43,450
-324,Griffith University,Griffith University Library Gold Coast Campus,0.43,290
-324,Masaryk University,Masaryk University Campus Library,0.43,551
-324,Stellenbosch University,Stellenbosch University Library,0.43,482
-327,"University of California, Santa Barbara (UCSB)",UCSB Library,0.43,146
-327,National Research Tomsk Polytechnic University,TSU Scientific Library (Nauchnaya Biblioteka TGU),0.43,395
-327,Stanford University,Cecil H Green Library,0.43,3
-327,University Ulm,Bibliotheks-Zentrale der Universität Ulm,0.43,365
-327,L.N. Gumilyov Eurasian National University (ENU),L.N. Gumilyov Eurasian National University,0.43,328
-327,Tomsk State University,TSU Scientific Library (Nauchnaya Biblioteka TGU),0.43,272
-333,Sharif University of Technology,Sharif University Central Library,0.43,381
-334,Colorado School of Mines,Arthur Lakes Library,0.42,461
-334,The University of Arizona,Main Library - University of Arizona,0.42,268
-334,Hokkaido University,Hokkaido University Central Library,0.42,145
-334,Yonsei University,Yonsei University Central Library,0.42,79
-334,Korea University,Korea University Science Library,0.42,74
-339,American University,American University Library,0.42,651
-340,The University of Hong Kong,The University of Hong Kong - Main Library,0.42,22
-340,Ben-Gurion University of The Negev,Zalman Aranne Central Library,0.42,471
-340,Humboldt-Universität zu Berlin,"Universitätsbibliothek Humboldt-Universität zu Berlin, ZwB Rechtswissenschaften",0.42,128
-343,Washington University in St. Louis,John M. Olin Library,0.42,107
-344,New York University (NYU),Elmer Holmes Bobst Library,0.42,42
-345,Umea University,Umeå University Library,0.42,365
-345,"Sofia University ""St. Kliment Ohridski""",University Library,0.42,591
-345,University of Minnesota Twin Cities,Walter Library,0.42,186
-345,Universität Regensburg,Central Library,0.42,591
-345,Ateneo de Manila University,Rizal Library,0.42,601
-345,Hong Kong Baptist University,Hong Kong Baptist University Library,0.42,287
-351,Institut Polytechnique de Paris,Bibliothèque centrale de l’École Polytechnique (BCX),0.41,49
-352,University of Guelph,McLaughlin Library,0.41,581
-353,University of the Philippines,University of the Philippines Diliman Main Library,0.41,399
-353,University of Lisbon,Biblioteca da Faculdade de Letras,0.41,356
-353,University of Bayreuth,"Teilbibliothek für Mathematik, Physik, Informatik und Ingenieurwissenschaften, Universität Bayreuth",0.41,521
-356,"University of California, Davis",Peter J. Shields Library,0.41,108
-357,Ulster University,Ulster University Coleraine Library,0.41,651
-358,Rensselaer Polytechnic Institute,Folsom Library,0.40,431
-359,Dongguk University,동국대학교 중앙도서관,0.40,494
-360,Pontificia Universidad Católica de Chile (UC),Biblioteca Biomédica,0.40,135
-361,Tokyo Metropolitan University,Tokyo Metropolitan University Library,0.40,701
-361,"University of California, Riverside",Tomas Rivera Library,0.40,403
-363,Inha University,인하대학교 정석학술정보관,0.40,561
-364,Jadavpur University,Jadavpur University Central Library,0.40,651
-364,Universität Potsdam,Departmental Library Golm,0.40,701
-364,University of Michigan-Ann Arbor,Harlan Hatcher Graduate Library,0.40,23
-364,Quaid-i-Azam University,Dr.Raziuddin Siddiqi Memorial Library,0.40,378
-368,University of Coimbra,Joanina Library,0.40,455
-369,The University of Sydney,"Sydney Jones Library, University of Liverpool",0.40,38
-370,Johns Hopkins University,Brody Learning Commons,0.40,25
-370,Brunel University London,Brunel University Library,0.40,351
-372,"University of California, Irvine",Science Library SLIB,0.39,232
-373,Pontificia Universidad Javeriana,Library Alfonso Borrero Cabal S.J.,0.39,412
-374,Keio University,Keio Univ. Mita Campus Media Center,0.39,201
-375,Universiti Teknologi PETRONAS (UTP),Information Resource Centre (IRC) UTP,0.39,414
-375,Universidad de Zaragoza,Biblioteca de la Universidad de Zaragoza,0.39,531
-375,Universidad Pontificia Comillas,Comillas Pontifical University Library,0.39,601
-375,King Abdulaziz University (KAU),"Central Library, King Abdulaziz University",0.39,109
-379,University of Basel,Basel University Library,0.39,138
-379,Universidad ORT Uruguay,Biblioteca Centro (Universidad ORT Uruguay),0.39,471
-379,University of Tromsø The Arctic University of Norway,Kultur- og Samfunnsfagbiblioteket - UiT,0.39,440
-379,University of St.Gallen (HSG),HSG-Bibliothek,0.39,459
-383,Stevens Institute of Technology,Samuel C Williams Library,0.38,701
-384,Taylor's University,Taylor's University Library,0.38,332
-384,Vrije Universiteit Brussel (VUB),Centrale Bibliotheek VUB,0.38,221
-384,University of Zurich,Rechtswissenschaftliche Bibliothek,0.38,70
-384,Pontifícia Universidade Católica do Rio de Janeiro,Biblioteca Cardeal Frings - PUC-Rio,0.38,651
-384,Universidad Nacional de Colombia,Bloque U Biblioteca Carlos Enrique Ruiz Universidad Nacional de Colombia Campus La Nubia,0.38,258
-384,The University of Melbourne,Baillieu Library,0.38,37
-384,University of Leeds,"Edward Boyle Library, University of Leeds",0.38,92
-391,Carnegie Mellon University,Carnegie Mellon University - Sorrells Engineering and Science Library,0.38,53
-392,Technion - Israel Institute of Technology,"Elyachar Central Library - הספרייה המרכזית ע""ש אלישר",0.38,330
-392,Universitat de Valencia,Biblioteca d'Humanitats Joan Reglà. Universitat de València,0.38,571
-394,Yale University,Sterling Memorial Library,0.38,14
-394,"University of Colorado, Denver",Auraria Library,0.38,414
-396,Colorado State University,Morgan Library,0.38,431
-396,Université de Montpellier,University Library,0.38,521
-396,Ewha Womans University,Ewha Womans University Central Library,0.38,362
-399,Jeonbuk National University,Central Library of Jeonbuk Nat'l Univ.,0.38,571
-399,University of Alberta,Rutherford Library,0.38,126
-399,Politecnico di Torino,Turin Polytechnic - Engineering Central Library,0.38,334
-399,HSE University,"Gosudarstvennyy Universitet Vysshaya Shkola Ekonomiki, Biblioteka",0.38,305
-399,Saint Petersburg State University,Biblioteka Akademii Nauk,0.38,242
-404,Qatar University,Qatar University Library,0.37,224
-404,Universidad de La Sabana,Universidad de La Sabana,0.37,701
-406,Pennsylvania State University,Pattee and Paterno Library,0.37,96
-407,Gifu University,Gifu University Library,0.37,601
-407,University of Jyväskylä,Jyväskylä University Library,0.37,358
-407,University of Alaska Fairbanks,Elmer E. Rasmuson Library,0.37,
-410,Harvard University,Malmö University Orkanen Library,0.37,5
-410,University of Rochester,Rush Rhees Library,0.37,154
-412,Tel Aviv University,Elias Sourasky Central Library,0.37,255
-412,KTH Royal Institute of Technology,KTH Biblioteket,0.37,89
-414,University of the Basque Country,UPV/EHU Biblioteka Leioa,0.36,701
-415,Emory University,Robert W. Woodruff Library,0.36,160
-415,New Jersey Institute of Technology (NJIT),Robert W. Van Houten Library,0.36,701
-415,University of Saskatchewan,Murray Library,0.36,458
-415,University of Texas at Austin,Fine Arts Library,0.36,67
-419,University of Delaware,Morris Library,0.36,531
-420,Airlangga University,Universitas Airlangga Library Campus B,0.36,465
-421,Al Ain University,Zayed Central Library,0.36,701
-422,Case Western Reserve University,Kelvin Smith Library,0.36,161
-422,Karaganda State Technical University,Karaganda State Technical University,0.36,751
-422,Universidad Central de Venezuela,Central Library - UCV,0.36,701
-425,Complutense University of Madrid,Biblioteca Facultad Ciencias de la Información,0.36,223
-425,University of Colorado Boulder,Norlin Library,0.36,251
-425,Colegio de México,Daniel Cosío Villegas Library,0.36,
-425,Pontificia Universidad Católica Argentina,Biblioteca Central - UCA,0.36,322
-425,Universidad Carlos III de Madrid (UC3M),Biblioteca del Campus Madrid Puerta de Toledo UC3M,0.36,351
-425,Brno University of Technology,Brno University of Technology,0.36,701
-425,Sciences Po,SCIENCES-PO - BIBLIOTHÈQUE,0.36,261
-425,Ahlia University,Ahlia University,0.36,
-425,Universidad Pontificia Bolivariana,Library,0.36,651
-425,University of Trieste,Sala de Estudio Edificio D,0.36,651
-425,Universidade Federal do Rio de Janeiro,Central Library CCMN - UFRJ,0.36,369
-436,University of Jordan,Jordan University Library,0.35,601
-437,University of Pennsylvania,Van Pelt Library,0.35,13
-437,University of Bergen,University of Bergen Library,0.35,199
-437,University of Huddersfield,University of Huddersfield Library,0.35,701
-440,Prince Mohammad Bin Fahd university,The Library,0.35,701
-440,University of South Bohemia,Akademická knihovna Jihočeské univerzity v Českých Budějovicích,0.35,
-440,Belarusian State University,Fundamental'naya Biblioteka Bgu,0.35,295
-440,University of Cambridge,Cambridge University Library,0.35,3
-444,Khoja Akhmet Yassawi International Kazakh-Turkish University,Қожа Ахмет Ясауи атындағы Халықаралық Қазақ-Түрік Университеті,0.34,
-445,Université Paul Sabatier Toulouse III,Université Paul Sabatier - BU Santé Rangueil,0.34,551
-445,University of Porto,Library of the Faculty of Letters of the University of Porto,0.34,295
-445,Universidad Autónoma de Madrid,UAM Biblioteca,0.34,207
-445,Umm Al-Qura University,30-King Abdullah Library,0.34,447
-445,University of Balamand,Issam Fares Library Learning Center,0.34,511
-450,Yeshiva University,Mendel Gottesman Library,0.34,252
-451,V. N. Karazin Kharkiv National University,Tsentralʹna Naukova Biblioteka Kharkivsʹkoho Natsionalʹnoho Universytetu Im. V.n.karazina,0.34,511
-451,Lomonosov Moscow State University,Scientific Library,0.34,78
-451,University of Waikato,The University of Waikato Library,0.34,373
-451,MGIMO University,Scientific Library,0.34,362
-455,University College Dublin,James Joyce Library UCD,0.34,173
-456,University of Hawaiʻi at Mānoa,Thomas Hale Hamilton Library,0.33,340
-457,Plekhanov Russian University of Economics,Im. Plekhanova G.v. Ekonomicheskoy Akademii Ros. Bibliotechno-Informatsionnyy Tsentr,0.33,701
-457,S.D. Asfendiyarov Kazakh National Medical University,Asfendiyarov Kazakh National Medical University,0.33,601
-457,Wageningen University & Research,Wageningen University & Research,0.33,123
-460,Universiti Utara Malaysia (UUM),Perpustakaan Sultanah Bahiyah UUM,0.33,511
-461,Università di Padova,University Library of Padua,0.33,242
-462,Technische Universität Wien,TU Vienna University Library,0.33,180
-462,Kazan (Volga region) Federal University,Научная библиотека КФУ им. Н. И. Лобачевского,0.33,347
-462,Sapienza University of Rome,Biblioteca universitaria Alessandrina,0.33,171
-462,Università degli Studi di Pavia,University Library of Pavia,0.33,561
-462,Universidad Politécnica de Madrid (UPM),Servicio de Biblioteca Universitaria de la UPM,0.33,459
-462,Université Laval,Library of Laval University,0.33,414
-462,City University of New York,"The Graduate Center Library, CUNY",0.33,701
-462,Bar-Ilan University,The Wurzweiler Central Library,0.33,477
-462,KU Leuven,Universiteitsbibliotheek en bibliotheektoren,0.33,70
-462,"University of Rome ""Tor Vergata""","""Historical Philosophical Literary Area"" Library | Tor Vergata School of Humanities",0.33,494
-462,Universidade Nova de Lisboa,Biblioteca Almada Negreiros,0.33,431
-462,Université du Québec,Library of Laval University,0.33,591
-474,University of Florida,University of Florida Libraries,0.32,173
-475,University of Eastern Finland,Joensuu Campus Library | UEF Library,0.32,521
-475,King Fahd University of Petroleum & Minerals,King Fahd University of Petroleum and Minerals,0.32,163
-475,Samara National Research University (Samara University),Samara University,0.32,581
-475,Applied Science University - Bahrain,Applied Science University,0.32,591
-475,Université de Strasbourg,National University Library of Strasbourg,0.32,421
-475,University of Southern Queensland,UniSQ Library,0.32,701
-475,Abu Dhabi University,Abu Dhabi University,0.32,701
-482,National Cheng Kung University (NCKU),NCKU Main Library,0.32,252
-483,Alma Mater Studiorum - University of Bologna,University Library of Bologna,0.32,166
-484,Cairo University,New Central Library,0.32,571
-485,Rice University,Fondren Library,0.32,94
-485,University of New Brunswick,Harriet Irving Library,0.32,651
-485,Indiana University Bloomington,Herman B Wells Library,0.32,311
-488,Sultan Qaboos University,Main Library,0.31,368
-488,University of Florence,Architecture Library of the University of Florence,0.31,451
-488,University of Turin,Turin National University Library,0.31,485
-488,Universidade Federal de São Paulo,Biblioteca Campus São Paulo Unifesp,0.31,434
-492,Far Eastern Federal University,Biblioteka Dvfu,0.31,461
-492,"Trinity College Dublin, The University of Dublin",Trinity College Library,0.31,101
-492,University of Oxford,Bodleian Library,0.31,2
-495,University of Southern California,Doheny Memorial Library,0.31,112
-496,United Arab Emirates University,United Arab Emirates University,0.31,288
-497,Leiden University,Leiden University Library,0.31,112
-498,Universidad de Chile,Biblioteca Facultad de Filosofía y Humanidades de la Universidad de Chile,0.30,183
-499,Indian Institute of Technology Hyderabad,IITHLibrary,0.30,591
-499,Loughborough University,Pilkington Library,0.30,231
-501,University of Bern,Juristische Bibliothek (JBB),0.30,119
-501,Saint Joseph University of Beirut (USJ),Université Saint Joseph - Campus des Sciences Médicales,0.30,531
-501,University of Naples - Federico II,Biblioteca della Facoltà di Lettere e Filosofia dell'Università degli Studi di Napoli Federico II,0.30,424
-501,Institut National des Sciences Appliquées de Lyon (INSA),INSA Lyon,0.30,531
-501,Universidad Peruana Cayetano Heredia (UPCH),Universidad Peruana Cayetano Heredia,0.30,651
-501,University of New Mexico,Zimmerman Library,0.30,651
-501,University of Helsinki,Helsingin yliopiston pääkirjasto Kaisa-talo,0.30,104
-501,Sunway University,Sunway University,0.30,651
-501,Martin-Luther-Universität Halle-Wittenberg,University and State Library of Saxony-Anhalt,0.30,461
-501,Universidad de Sevilla,Library of the University of Seville,0.30,551
-501,Université Paris-Saclay,Bibliothèque CentraleSupélec campus Paris-Saclay (Eiffel),0.30,86
-501,Université de Liège,General Management Of The University Of Liege's Libraries,0.30,480
-501,The Hebrew University of Jerusalem,Bloomfield Library for the Humanities and Social Sciences,0.30,198
-501,Warsaw University of Technology,Biblioteka Główna Politechniki Warszawskiej,0.30,501
-501,University of Haifa,Younes and Soraya Nazarian Library,0.30,701
-516,Universiti Kebangsaan Malaysia (UKM),Tun Seri Lanang Library,0.29,144
-517,The National University of Science and Technology MISIS,MISIS,0.29,487
-518,Universiti Teknologi Brunei,UTB Library,0.29,344
-519,Al-Farabi Kazakh National University,Al'-Farabi Library,0.29,175
-520,HUFS - Hankuk (Korea) University of Foreign Studies,Hankuk University of Foreign Studies - Seoul Campus,0.29,445
-520,University of Pecs,South Transdanubian Regional Library and Knowledge Centre,0.29,651
-520,Bogor Agricultural University,Library,0.29,511
-520,Southern Federal University,Biblioteka Asa Dgtu,0.29,531
-524,Università Cattolica del Sacro Cuore,Università Cattolica del Sacro Cuore Library,0.28,551
-524,National Technical University of Athens,Βιβλιοθήκη Κτιρίου Αβέρωφ,0.28,421
-524,"National Technical University ""Kharkiv Polytechnic Institute""","NTU ""KhPI""",0.28,651
-524,Karl-Franzens-Universitaet Graz,University of Graz Library,0.28,651
-524,Université Claude Bernard Lyon 1,Claude Bernard University Lyon 1,0.28,651
-529,Washington State University,Washington State University Libraries,0.28,427
-530,National University of Ireland Galway,"James Hardiman Library, NUI Galway",0.27,258
-530,American University in Dubai,American University in Dubai (AUD) Library,0.27,601
-530,Universiti Teknologi Malaysia,"Raja Zarith Sofiah Library Building, UTM Library, UTM Johor Bahru",0.27,191
-530,University of Lausanne,BCUL website Unithèque,0.27,176
-530,Universiti Sains Malaysia (USM),"University of Science, Malaysia",0.27,147
-530,Ecole des Ponts ParisTech,École des ponts ParisTech,0.27,245
-530,Gwangju Institute of Science and Technology (GIST),GIST | Gwangju Institute of Science and Technology,0.27,305
-530,Satbayev University,Satbayev University,0.27,501
-530,Sorbonne University,Cujas Library,0.27,72
-530,Peter the Great St. Petersburg Polytechnic University,Informatsionno-Bibliotechnyy Kompleks Sankt-Peterburgskogo Politekhnicheskogo Universiteta Petra Velikogo,0.27,393
-530,Almaty Technological University,Almaty Technological University,0.27,
-530,Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),Moskovskiy Fiziko-Tekhnicheskiy Institut,0.27,290
-530,University of Witwatersrand,GeoMaths Library,0.27,424
-530,Université Paris 1 Panthéon-Sorbonne,Cujas Library,0.27,290
-530,Sechenov University,Фундаментальная учебная библиотека Первого МГМУ им. И.М. Сеченова,0.27,651
-530,Immanuel Kant Baltic Federal University,Балтийский федеральный университет имени Иммануила Канта,0.27,651
-530,Université Grenoble Alpes,Bibliothèque Universitaire Joseph-Fourier,0.27,314
-530,USI - Università della Svizzera italiana,Biblioteca universitaria Lugano,0.27,240
-530,Massachusetts Institute of Technology (MIT),Hayden Library,0.27,1
-530,University of Toronto,Engineering & Computer Science Library,0.27,26
-530,Management and Science University,Management & Science University,0.27,601
-530,Universidad Austral,Edificio de Grado - Universidad Austral,0.27,400
-530,Hallym University,Hallym University,0.27,561
-530,"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",Igor Sikorsky Kyiv Polytechnic Institute,0.27,701
-530,Taras Shevchenko National University of Kyiv,"M. Maksymovych Scientific Library, Taras Shevchenko National University of Kyiv",0.27,601
-530,University of Oulu,Oulun yliopiston kirjasto,0.27,377
-530,Université PSL,PSL Research University,0.27,44
-530,Abai Kazakh National Pedagogical University,The National Pedagogical University named after Abai,0.27,551
-530,Missouri University of Science and Technology,Curtis Laws Wilson Library,0.27,511
-530,KAIST - Korea Advanced Institute of Science & Technology,"Korea Advanced Institute of Science & Technology (KAIST), Daejeon",0.27,41
-530,Universidad de La Habana,Biblioteca Central de la Universidad de La Habana,0.27,501
-530,Hanyang University,Hanyang University,0.27,156
-530,Freie Universitaet Berlin,Library of the Free University Berlin,0.27,127
-530,The Catholic University of Korea,Catholic University of Korea Songsin Campus,0.27,482
-564,Université Paris Cité,Library of the International City,0.26,261
-564,University of Washington,Suzzallo and Allen Libraries,0.26,85
-564,Gadjah Mada University,Gadjah Mada University Library,0.26,254
-567,Tokyo University of Agriculture and Technology,Tokyo University of Agriculture and Technology,0.26,601
-568,Bauman Moscow State Technical University,Bauman Moscow State Technical University,0.26,281
-569,Universitat Politècnica de Catalunya · BarcelonaTech (UPC),"Universitat Politècnica de Catalunya. Servei de Biblioteques, Publicacions i Arxius",0.26,319
-570,Palacký University Olomouc,Knihovna Univerzity Palackého Zbrojnice,0.26,601
-571,Abo Akademi University,Boktornet,0.26,601
-571,University of British Columbia,Woodward Library,0.26,46
-573,University at Buffalo SUNY,University at Buffalo Library Administration,0.25,388
-573,University of Antwerp,UAntwerpen - Bibliotheek Stadscampus,0.25,233
-573,University of Reading,University of Reading Library,0.25,202
-573,Central Queensland University (CQUniversity Australia),CQUni Library Rockhampton North Campus,0.25,601
-573,Sejong University,Sejong University,0.25,601
-573,Kyung Hee University,Kyung Hee University Global Campus Library,0.25,264
-573,Vanderbilt University,Central Library,0.25,218
-573,Maastricht University,Maastricht University Inner City Library,0.25,233
-581,University of Debrecen,"Kenézy Life Sciences Library and National Library, University Of Debrecen",0.25,591
-581,Université catholique de Louvain (UCLouvain),Bibliothèque de philosophie (UCLouvain),0.25,188
-581,Canadian University Dubai,Canadian University Dubai,0.25,601
-584,Uppsala University,"Carolina Rediviva, Uppsala University Library",0.25,124
-585,Institut Teknologi Sepuluh Nopember (ITS Surabaya),ITS Library,0.25,751
-586,Khalifa University of Science and Technology,Khalifa University,0.25,183
-587,University of Tasmania,Morris Miller Library,0.25,303
-588,Tampere University,Tampere University Library LINNA,0.24,414
-588,University of Limerick,"Glucksman Library, University of Limerick",0.24,501
-590,University of Turku,Educarium Library,0.24,295
-591,Universite libre de Bruxelles,Université Libre de Bruxelles - Archives & Bibliothèques,0.24,207
-592,Yokohama City University,Yokohama City University Library and Information Center,0.24,487
-592,Kyushu University,Medical Library of Kyushu University,0.24,137
-592,University of Aberdeen,Taylor Library,0.24,205
-592,University of Kansas,Anschutz Library,0.24,387
-592,Flinders University,Flinders University Central Library,0.24,407
-592,Bangor University,"Deiniol Library, Bangor University",0.24,601
-592,Queen's University at Kingston,Douglas Library,0.24,240
-592,Heriot-Watt University,Cameron Smail Library,0.24,270
-592,University of Southern Denmark (SDU),University Library of Southern Denmark,0.24,309
-592,Aalborg University,Aalborg University Library (AUB),0.24,326
-592,Gunma University,Central Library,0.24,701
-592,University of Wisconsin-Madison,Steenbock Memorial Library,0.24,75
-592,Rutgers University–New Brunswick,Rutgers Art Library,0.24,264
-592,University of Copenhagen,"Copenhagen University Library, South Campus",0.24,79
-592,Altai State University,Altai State University,0.24,561
-592,Pavol Jozef Šafárik University in Košice,Košice Medical University,0.24,601
-592,Boston University,Michael D. Papagiannis Astronomy Library,0.24,112
-592,Aarhus University,Royal Danish Library - Aarhus,0.24,155
-592,The University of Adelaide,Barr Smith Library,0.24,108
-592,University of Szeged,SZTE Klebelsberg Library,0.24,551
-592,Pakistan Institute of Engineering and Applied Sciences (PIEAS),Pakistan Institute of Engineering & Applied Sciences (PIEAS),0.24,398
-592,Dublin City University,DCU - John & Aileen O'Reilly Library,0.24,490
-592,Ghent University,Universiteit Gent Universiteitsbibliotheek,0.24,141
-592,Christian-Albrechts-University zu Kiel,University of Kiel,0.24,494
-592,Universitat Autònoma de Barcelona,UAB Servei de Biblioteques,0.24,209
-617,Savitribai Phule Pune University,Jayakar Library,0.23,591
-618,Texas A&M University,Texas A/S,0.22,168
-618,National and Kapodistrian University of Athens,Library of the School of Philosophy (National and Kapodistrian University of Athens),0.22,651
-618,University of Tehran,Central Library of University of Tehran,0.22,521
-621,Aalto University,Harald Herlin Learning Centre,0.22,112
-622,Bandung Institute of Technology (ITB),Central Library,0.21,303
-623,Universitas Indonesia,Universitas Indonesia Library,0.21,290
-624,Universidad de Belgrano,Biblioteca Leopoldo Lugones,0.21,465
-624,Stockholm University,Stockholm University Library,0.21,148
-624,University of Illinois at Urbana-Champaign,Univ Illinois Library Urbana-Chmp,0.21,82
-624,King Khalid University,King Khalid University,0.21,651
-624,Lebanese American University,Riyad Nassar Library (LAU),0.21,581
-629,University of Ljubljana,National and University Library,0.20,591
-630,Lund University,Lund University Library,0.20,87
-630,National Research Saratov State University,Lund University Library,0.20,531
-632,Jagiellonian University,Jagiellonian Library,0.19,309
-632,Universitat de Barcelona,CRAI Biblioteca de Fons Antic - CRAI de la Universitat de Barcelona UB,0.19,168
-634,Tallinn University of Technology (TalTech),TalTech Raamatukogu,0.18,751
-635,University of Tartu,University of Tartu Library,0.18,300
-635,Ajman University,Library,0.18,701
-635,Poznan University of Life Sciences,"Biblioteka i Centrum Informacji Naukowej, Uniwersytet Przyrodniczy",0.18,
-635,Friedrich-Alexander-Universität Erlangen-Nürnberg,University Library of Erlangen-Nürnberg,0.18,322
-635,University of Canberra,University of Canberra Library,0.18,436
-635,Jouf University,Dar Al Uloom Al-Jouf Library,0.18,701
-641,University of Oslo,UiO Science Library,0.15,102
-641,Comenius University in Bratislava,Academic Library FM CU Academic Library Faculty of Medicine Comenius University in Bratislava,0.15,651
-641,University of Granada,Biblioteca de la Facultad de Filosofía y Letras de la Universidad de Granada,0.15,492
-644,University of Pisa,The UNIVERSITY LIBRARY SYSTEM,0.14,388
-644,Eötvös Loránd University,Eötvös Loránd University Institute of Art History and Library,0.14,651
-644,Mahidol University,Library and Knowledge Center,0.14,255
-647,Graz University of Technology,University Library of the Technical University of Graz,0.13,277
-648,University of Genoa,University Library of Genoa,0.12,601
-648,Linköping University,Linköping University Library,0.12,329
-650,University of Klagenfurt,Klagenfurt University Library,0.10,501
-651,Chalmers University of Technology,Chalmers bibliotek,0.09,121
-652,Dalhousie University,-,0.00,272
-652,Johannes Kepler University Linz,-,0.00,354
-652,Tianjin University,-,0.00,334
-652,Nanjing University of Science and Technology,-,0.00,601
-652,UNESP,-,0.00,492
-652,University of Salamanca,-,0.00,651
-652,Universidade de São Paulo,-,0.00,121
-652,Novosibirsk State University,-,0.00,246
-652,Zhejiang University,-,0.00,45
-652,Xi’an Jiaotong University,-,0.00,290
-652,University of Milan,-,0.00,316
-652,Peking University,-,0.00,18
-652,Kazakh National Agrarian University KazNAU,-,0.00,551
-652,King Saud University,-,0.00,277
-652,Charles University,-,0.00,266
-652,Norwegian University of Science And Technology,-,0.00,369
-652,Chongqing University,-,0.00,651
-652,"University of Chemistry and Technology, Prague",-,0.00,373
-652,China University of Geosciences,-,0.00,521
-652,Tsinghua University,-,0.00,17
-652,University of Amsterdam,-,0.00,55
-652,Kobe University,-,0.00,386
-652,Universidad de Santiago de Chile (USACH),-,0.00,487
-652,Central South University,-,0.00,521
-652,Alfaisal University,-,0.00,
-652,Hunan University,-,0.00,571
-652,Pusan National University,-,0.00,601
-652,University of Science and Technology of China,-,0.00,98
-652,Indian Institute of Technology Indore (IIT Indore),-,0.00,
-652,Auckland University of Technology (AUT),-,0.00,451
-652,Holy Spirit University of Kaslik,-,0.00,571
-652,China University of Petroleum,-,0.00,
-652,Renmin (People's) University of China,-,0.00,601
-652,University of Crete,-,0.00,651
-652,Universidad Panamericana (UP),-,0.00,551
-652,Chung-Ang University (CAU),-,0.00,414
-652,Harbin Institute of Technology,-,0.00,236
-652,Universidad de Buenos Aires (UBA),-,0.00,69
-652,Beijing University of Chemical Technology,-,0.00,
-652,Beijing Institute of Technology,-,0.00,373
-652,University of Gothenburg,-,0.00,180
-652,Beihang University (former BUAA),-,0.00,383
-652,Curtin University,-,0.00,194
-652,Shandong University,-,0.00,403
-652,East China University of Science and Technology,-,0.00,571
-652,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),-,0.00,319
-652,Southern University of Science and Technology,-,0.00,275
-652,Brown University,-,0.00,60
-652,Beijing Normal University,-,0.00,270
-652,Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN),-,0.00,601
-652,Brandeis University,-,0.00,455
-652,University of Manitoba,-,0.00,601
-652,Wuhan University,-,0.00,225
-652,Politecnico di Bari,-,0.00,701
-652,Sabanci University,-,0.00,541
-652,Sungshin Women's University,-,0.00,
-652,Nanjing University,-,0.00,131
-652,Sichuan University,-,0.00,451
-652,Ulsan National Institute of Science and Technology (UNIST),-,0.00,212
-652,Fudan University,-,0.00,31
-652,University of Twente,-,0.00,189
-652,University of Mons,-,0.00,651
-652,Jinan University (China),-,0.00,751
-652,Seoul National University,-,0.00,36
-652,RUDN University,-,0.00,317
-652,University Paris 2 Panthéon-Assas,-,0.00,601
-652,National University of Singapore (NUS),-,0.00,11
-652,Shanghai Jiao Tong University,-,0.00,50
-652,Xiamen University,-,0.00,407
-652,Nankai University,-,0.00,358
-652,UCL,-,0.00,8
-652,Ural Federal University - UrFU,-,0.00,351
-652,Huazhong University of Science and Technology,-,0.00,334
-652,ITMO University,-,0.00,365
-652,Shanghai University,-,0.00,436
-652,Shenzhen University,-,0.00,601
-652,Lebanese University,-,0.00,701
-652,Aix-Marseille University,-,0.00,501
-652,China Agricultural University,-,0.00,601
-652,Western Sydney University,-,0.00,494
-652,The University of Georgia,-,0.00,541
-652,Universidad Nacional de La Plata (UNLP),-,0.00,581
-652,Universidad Nacional Autónoma de México (UNAM),-,0.00,105
-652,Imam Abdulrahman Bin Faisal University (IAU) (formerly UNIVERSITY OF DAMMAM),-,0.00,521
-652,East China Normal University,-,0.00,531
-652,University of Science and Technology Beijing,-,0.00,414
-652,Universidad de Palermo (UP),-,0.00,391
-652,Universidad Iberoamericana IBERO,-,0.00,701
-652,Tokyo Institute of Technology (Tokyo Tech),-,0.00,56
-652,University of Ulsan,-,0.00,541
-652,Jilin University,-,0.00,501
-652,Università Vita-Salute San Raffaele,-,0.00,390
-652,Dalian University of Technology,-,0.00,571
-652,University of Electronic Science and Technology of China,-,0.00,591
-652,American University of the Middle East,-,0.00,751
-652,Tongji University,-,0.00,211
-652,Northwestern Polytechnical University,-,0.00,541
+rank,uni,library,gmaps_rating_original,gmaps_rating_count,opening_hours,qs_rank,gmaps_rating
+1,Tecnológico de Monterrey,BiblioTEC,4.9,115.0,1.00,161,4.9
+1,Benemérita Universidad Autónoma de Puebla,Central University Library BUAP,4.8,285.0,1.00,1001,4.8
+1,University of Salford,Clifford Whitworth Library,4.8,57.0,1.00,801,4.7
+1,Auburn University,Ralph Brown Draughon Library,4.8,106.0,1.00,801,4.7
+1,University of Aveiro,Library of the University of Aveiro,4.7,95.0,1.00,601,4.6
+1,Istanbul Technical University,ITU Mustafa Inan Library,4.7,232.0,1.00,701,4.6
+1,Anadolu University,Anadolu Üniversitesi Kütüphanesi,4.7,227.0,1.00,1001,4.6
+1,Deakin University,Deakin Library Burwood,4.7,115.0,1.00,283,4.6
+1,Chungnam National University,CNU Central Library (N1),4.7,118.0,1.00,751,4.6
+1,King's College London,The Maughan Library,4.7,149.0,1.00,35,4.6
+1,Kyungpook National University,경북대학교 대구캠퍼스 중앙도서관,4.7,125.0,1.00,541,4.6
+1,University of Bradford,JB Priestley Library,4.8,35.0,1.00,701,4.6
+1,The University of Texas at Arlington,UTA Central Library,4.7,258.0,1.00,1001,4.6
+1,Lancaster University,Lancaster University Library,4.7,71.0,1.00,132,4.5
+1,"Stony Brook University, State University of New York",Frank Melville Jr. Memorial Library,4.7,38.0,1.00,378,4.5
+1,University of East London,Docklands Library,4.7,64.0,1.00,801,4.5
+1,Royal Holloway University of London,Emily Wilding Davison Building,4.8,23.0,1.00,334,4.5
+1,University of the West of England,Frenchay Campus Library,4.7,64.0,1.00,801,4.5
+1,University of Surrey,University of Surrey Library,4.7,63.0,1.00,272,4.5
+1,Pohang University of Science And Technology (POSTECH),PARK TAE-JOON Digital Library,4.7,30.0,1.00,81,4.5
+1,Shahid Beheshti University (SBU),Frank Melville Jr. Memorial Library,4.7,38.0,1.00,1001,4.5
+1,University of Plymouth,Charles Seale-Hayne Library,4.7,41.0,1.00,601,4.5
+1,Bond University,John and Alison Kearney Main Library,5.0,6.0,1.00,451,4.5
+1,Technical University of Denmark,DTU Library,4.7,69.0,1.00,99,4.5
+1,Khon Kaen University,Khon Kaen University Library,4.6,60.0,1.00,801,4.4
+1,Queensland University of Technology (QUT),QUT Gardens Point Library,4.6,84.0,1.00,213,4.4
+1,Hacettepe University,Hacettepe University Beytepe Library,4.6,126.0,1.00,801,4.4
+1,University of East Anglia (UEA),Library,4.6,72.0,1.00,307,4.4
+1,Universidad del Cauca,University of Cauca,4.6,302.0,1.00,?,4.4
+1,Coventry University,Lanchester Library,4.6,164.0,1.00,601,4.4
+1,Sungkyunkwan University(SKKU),Sungkyunkwan University Central Library,4.6,55.0,1.00,97,4.4
+1,The University of Exeter,Forum Library,4.6,70.0,1.00,149,4.4
+1,University of Hertfordshire,University of Hertfordshire - LRC (College Lane),4.6,84.0,1.00,801,4.4
+1,Vilnius University,Vilnius University Library Scientific Communication and Information Center,4.6,196.0,1.00,400,4.4
+1,Oxford Brookes University,"Oxford Brookes University, Business School, Gipsy Lane Campus",4.9,7.0,1.00,429,4.4
+1,"Birla Institute of Technology and Science, Pilani",Birla Institute Of Technology And Science–Pilani (BITS–Pilani),4.6,2085.0,1.00,1001,4.4
+1,University of Leicester,David Wilson Library,4.6,109.0,1.00,236,4.4
+1,Aberystwyth University,Hugh Owen Library,4.7,13.0,1.00,541,4.4
+1,Lappeenranta-Lahti University of Technology LUT,LUT University Library,4.7,16.0,1.00,414,4.4
+1,Jeju National University,제주대학교 중앙도서관,4.7,19.0,1.00,1001,4.4
+1,Sheffield Hallam University,Adsetts Centre,4.6,78.0,1.00,1001,4.4
+1,Georgia Institute of Technology,Georgia Tech Library,4.6,90.0,1.00,88,4.4
+1,University of Bath,University of Bath Library,4.6,43.0,1.00,166,4.3
+1,Marmara University,Prof. Dr. Orhan Oğuz Kütüphanesi,4.6,38.0,1.00,1201,4.3
+1,Koç University,Suna Kıraç Kütüphanesi,4.6,13.0,1.00,511,4.3
+1,Charles Darwin University,Darwin College Library,5.0,1.0,1.00,701,4.3
+1,Harper Adams University,Bamford Library and Engineering Design Centre,4.8,5.0,1.00,1001,4.3
+1,Universität Konstanz,Universität Konstanz - Bibliothek der Universität Konstanz,4.6,38.0,1.00,501,4.3
+1,Sathyabama Institute of Science and Technology (deemed to be university),Sathyabama University,4.5,151.0,1.00,?,4.2
+1,Middlesex University,Sheppard Library,4.5,28.0,1.00,701,4.2
+1,The University of Edinburgh,Main Library,4.5,146.0,1.00,16,4.2
+1,Swansea University,Library and Information Centre,4.5,36.0,1.00,440,4.2
+1,Keele University,Keele University Library,4.5,32.0,1.00,751,4.2
+1,Universidad Católica de Santiago de Guayaquil,Universidad Catolica Santiago De Guayaquil,4.5,900.0,1.00,1201,4.2
+1,Leeds Beckett University,Sheila Silver Library,4.4,21.0,1.00,1001,4.1
+1,"KIT, Karlsruhe Institute of Technology",KIT Library,4.4,202.0,1.00,136,4.0
+1,"Goldsmiths, University of London",Goldsmiths Library,4.3,21.0,1.00,461,4.0
+1,Sakarya University,Sakarya University Central Library,4.4,94.0,1.00,1201,4.0
+1,The Australian National University,Chifley Library,4.4,76.0,1.00,27,4.0
+1,Vilnius Gediminas Technical University,Vilnius Gediminas Technical University Library,4.3,24.0,1.00,751,3.9
+1,University of Warmia and Mazury in Olsztyn,University of Warmia and Mazury in Olsztyn,4.3,182.0,1.00,?,3.8
+1,Istanbul Aydin University,Istanbul Aydin University Information Center,4.2,45.0,1.00,1001,3.7
+1,Dokuz Eylül Üniversitesi,Dokuz Eylül University Central Library,4.1,150.0,1.00,1201,3.4
+1,Technical University of Darmstadt,University and State Library Darmstadt,4.1,176.0,1.00,269,3.4
+1,University of Macau,University of Macao,4.0,58.0,1.00,322,3.4
+1,The University of Warwick,University of Warwick Library,4.0,97.0,1.00,61,3.3
+1,Tokyo Medical and Dental University (TMDU),Tokyo Medical & Dental University,4.0,528.0,1.00,381,3.1
+1,Universidad de Alcalá,CRAI - Library - UAH,3.7,213.0,1.00,511,2.6
+1,Edinburgh Napier University,Edinburgh Napier University Library,,,1.00,801,
+70,Cornell University,Uris Library,4.6,52.0,0.95,21,4.3
+71,Boston College,Thomas P. O'Neill Jr. Library,4.8,24.0,0.93,494,4.6
+71,Lincoln University,"University Library, University of Lincoln",4.7,57.0,0.93,372,4.5
+71,University of Lincoln,"University Library, University of Lincoln",4.7,57.0,0.93,801,4.5
+71,Imperial College London,Imperial College London Central Library,4.6,57.0,0.93,7,4.4
+75,Université Mohammed V de Rabat,المكتبة المركزية لجامعة محمد الخامس -أگدال,5.0,4.0,0.86,1201,4.4
+76,University of Delhi,South Campus Library,4.6,76.0,0.83,501,4.4
+77,"Universidad Tecnológica de la Habana José Antonio Echeverría, Cujae",Polytechnic José Antonio Echeverría,4.7,57.0,0.80,1001,4.5
+78,Queen Mary University of London,Whitechapel Library,4.4,28.0,0.79,117,4.1
+79,University of Glasgow,University of Glasgow Library,4.6,202.0,0.78,73,4.4
+79,The University of Western Australia,Reid Library,4.5,128.0,0.78,93,4.2
+81,Aligarh Muslim University,Maulana Azad Library,4.8,859.0,0.75,1001,4.8
+81,Indian Institute of Technology Guwahati (IITG),IITG Library (Lakshminath Bezbaruah Central Library),4.7,151.0,0.75,395,4.6
+83,Canterbury Christ Church University,"Augustine House Library, Canterbury Christ Church University",4.7,43.0,0.72,1001,4.5
+84,EPFL,EPFL Library,5.0,14.0,0.71,14,4.7
+84,Queen's University Belfast,Queen’s University Belfast The McClay Library,4.7,89.0,0.71,216,4.5
+84,IE University,Guillermo y Michèle de la Dehesa Library,5.0,2.0,0.71,317,4.3
+84,La Trobe University,Borchardt Library,4.6,52.0,0.71,362,4.3
+84,Universidad Técnica Federico Santa María (USM),Federico Santa María Technical University,4.3,484.0,0.71,801,3.8
+84,Albert-Ludwigs-Universitaet Freiburg,University Library Freiburg,3.6,260.0,0.71,172,2.4
+90,Lehigh University,Linderman Library,4.7,16.0,0.70,531,4.4
+90,Universitat Politècnica de València,UPV - Biblioteca Central,4.4,114.0,0.70,371,4.0
+90,TU Dortmund University,Library,4.0,62.0,0.70,801,3.4
+93,Universidad de Concepción,"Biblioteca Central UdeC ""Luis David Cruz Ocampo""",4.8,142.0,0.69,601,4.8
+93,SRM INSTITUTE OF SCIENCE AND TECHNOLOGY,SRM Central Library,4.6,151.0,0.69,1201,4.4
+93,Wesleyan University,Olin Memorial Library,4.8,9.0,0.69,?,4.4
+93,University of Toledo,The University of Toledo Mulford Health Science Library,4.6,23.0,0.69,?,4.3
+93,Northeastern University,Northeastern University Law Library,,,0.69,342,
+98,Lahore University of Management Sciences (LUMS),Gad and Birgit Rausing Library,4.8,53.0,0.68,651,4.7
+98,Ruprecht-Karls-Universität Heidelberg,Heidelberg University Library,4.6,236.0,0.68,63,4.4
+98,University of Connecticut,UConn Library,4.6,8.0,0.68,373,4.3
+98,The University of Alabama,Amelia Gayle Gorgas Library,4.6,44.0,0.68,801,4.3
+98,University of Idaho,University of Idaho Library,4.5,4.0,0.68,?,4.2
+103,Indian Institute of Technology Kharagpur (IIT-KGP),Central Library,4.8,179.0,0.67,280,4.8
+103,University of Otago,"Central Library, University Of Otago",4.8,98.0,0.67,194,4.7
+103,University of Southampton,Hartley Library (36),4.7,81.0,0.67,77,4.5
+103,Universidad Externado de Colombia,Biblioteca Universidad de La Salle,4.7,18.0,0.67,591,4.4
+103,Universidad de La Salle,Biblioteca Universidad de La Salle,4.7,18.0,0.67,1201,4.4
+103,Northumbria University at Newcastle,"City Campus Library, Northumbria University",4.6,81.0,0.67,701,4.4
+103,Delft University of Technology,TU Delft Library,4.6,234.0,0.67,57,4.4
+103,University of York,JB Morrell Library,4.6,51.0,0.67,151,4.3
+103,Kuwait University,Kuwait University Library,4.5,11.0,0.67,1001,4.2
+103,California Polytechnic State University,Robert E. Kennedy Library,4.5,37.0,0.67,?,4.2
+103,Philipps-Universität Marburg,Marburg University Library,4.3,152.0,0.67,701,3.8
+103,University of South Australia,University of South Australia Library - Magill Campus,3.8,13.0,0.67,326,3.6
+103,The London School of Economics and Political Science (LSE),The British Library of Political and Economic Science,4.0,112.0,0.67,49,3.3
+116,Bielefeld University,University Library Bielefeld,4.4,58.0,0.66,801,4.0
+116,Politecnico di Milano,Leonardo Campus Library,4.3,158.0,0.66,142,3.8
+118,National University of Sciences And Technology (NUST) Islamabad,Central Library - NUST H-12 Main Campus,4.8,295.0,0.65,358,4.8
+118,University of Dundee,Library & Learning Centre - University of Dundee,4.8,55.0,0.65,322,4.7
+118,Boğaziçi University,Bogazici University Library,4.7,118.0,0.65,701,4.6
+118,Rutgers University–Newark,Rutgers Law Library,5.0,5.0,0.65,801,4.4
+118,Vellore Institute of Technology (VIT),VIT University Library,4.5,188.0,0.65,1001,4.2
+118,University Duesseldorf,University and State Library,4.3,133.0,0.65,751,3.8
+118,Justus-Liebig-University Giessen,Universitätsbibliothek der Justus-Liebig-Universität Gießen,4.1,86.0,0.65,490,3.5
+118,Akdeniz Üniversitesi,Merkezkütüphane of Akdeniz University,3.6,173.0,0.65,1201,2.4
+126,Indian Institute of Science,JRD Tata Memorial Library,4.8,159.0,0.64,186,4.8
+126,University of Notre Dame,Hesburgh Library,4.8,81.0,0.64,222,4.7
+126,The Ohio State University,The Ohio State University Library,4.7,39.0,0.64,120,4.5
+126,Clemson University,Clemson University Libraries,4.7,31.0,0.64,801,4.5
+126,Memorial University of Newfoundland,Queen Elizabeth II Library,4.6,32.0,0.64,751,4.3
+126,University of San Diego,Pardee Legal Research Center,4.6,10.0,0.64,1001,4.3
+126,Universitat Pompeu Fabra (Barcelona),Biblioteca/CRAI de la Ciutadella,4.5,130.0,0.64,248,4.2
+126,Georgetown University,Joseph Mark Lauinger Memorial Library,4.3,34.0,0.64,248,3.9
+126,Rheinische Friedrich-Wilhelms-Universität Bonn,Abteilungsbibliothek MNL,4.1,8.0,0.64,226,3.9
+126,Izmir Institute of Technology (IZTECH),Izmir Institute of Technology Library iYTE Library,4.3,36.0,0.64,1001,3.9
+126,Tilburg University,Tilburg University Library,4.2,33.0,0.64,356,3.8
+126,Johannes Gutenberg Universität Mainz,University Library,4.0,65.0,0.64,427,3.3
+126,Universität Stuttgart,University Library Stuttgart (city center),3.3,78.0,0.64,347,2.1
+139,University of Texas at San Antonio,John Peace Library,4.8,85.0,0.63,801,4.7
+139,Universität Leipzig,Leipzig University Library,4.7,155.0,0.63,447,4.6
+139,Universidade de Brasília,Central Library,4.7,232.0,0.63,801,4.6
+139,University of Central Oklahoma,Chambers Library,4.7,47.0,0.63,?,4.5
+139,Binghamton University SUNY,Glenn G. Bartle Library,4.7,50.0,0.63,801,4.5
+139,University of Göttingen,Central Library,4.5,129.0,0.63,204,4.2
+139,Technical University of Munich,University Library of the Technische Universität München,4.3,92.0,0.63,50,3.8
+139,University of Waterloo,University of Waterloo Davis Centre Library,4.3,121.0,0.63,149,3.8
+139,Temple University,Charles Library,3.4,64.0,0.63,751,2.3
+148,Indian Institute of Technology Kanpur (IITK),P.K. Kelkar Library,4.8,297.0,0.62,277,4.8
+148,Bilkent University,Bilkent University Main Campus Library,4.8,46.0,0.62,591,4.7
+148,"Manipal Academy of Higher Education, Manipal, Karnataka, India",Search - The Health Sciences Library,4.8,76.0,0.62,751,4.7
+148,Universidad de las Fuerzas Armadas ESPE (Ex - Escuela Politécnica del Ejército),UNIVERSITY OF THE ARMED FORCES ESPE,4.7,1026.0,0.62,1201,4.6
+148,Soongsil University,숭실대학교 중앙도서관,4.8,33.0,0.62,?,4.6
+148,Universität Rostock,UB Rostock: University Library Südstadt,4.7,81.0,0.62,651,4.5
+148,SOAS University of London,SOAS Library,4.7,29.0,0.62,391,4.5
+148,Texas Tech University,University Library,4.6,84.0,0.62,801,4.4
+148,Victoria University of Wellington,Victoria University of Wellington Kelburn Library,4.6,50.0,0.62,236,4.3
+148,Eberhard Karls Universität Tübingen,University library,4.5,97.0,0.62,177,4.2
+148,The University of New South Wales (UNSW Sydney),UNSW Library,4.5,178.0,0.62,43,4.2
+148,University of Groningen,University of Groningen Library,4.4,102.0,0.62,128,4.0
+148,Julius-Maximilians-Universität Würzburg,University Library,4.0,100.0,0.62,378,3.3
+161,Middle East Technical University,METU Library,4.7,177.0,0.61,551,4.6
+161,Universidade Federal do Ceará (UFC),Universidade Federal do Ceará,4.6,710.0,0.61,1001,4.4
+161,Erasmus University Rotterdam,University Library,4.5,32.0,0.61,179,4.2
+161,Aston University,Aston University Library,4.4,57.0,0.61,485,4.0
+161,Universität Hamburg,Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky,3.7,223.0,0.61,214,2.6
+166,Brigham Young University,Harold B. Lee Library (HBLL),4.8,243.0,0.60,1001,4.8
+166,University of Memphis,Ned R. McWherter Library,4.8,37.0,0.60,?,4.6
+166,University of Central Lancashire,Library and Learning & Information Services,4.7,132.0,0.60,801,4.6
+166,Indian Institute of Technology Madras (IITM),Central Library Indian Institute of Technology Madras,4.7,183.0,0.60,255,4.6
+166,Nova Southeastern University,"Alvin Sherman Library, Research, and Information Technology Center",4.7,155.0,0.60,?,4.6
+166,"The University of Tennessee, Knoxville",John C. Hodges Library,4.7,70.0,0.60,541,4.5
+166,Massey University,Massey University Library | Te Putanga Ki Te Ao Mātauranga,4.7,61.0,0.60,284,4.5
+166,University of Trento,B.U.C.,4.5,163.0,0.60,440,4.2
+166,Universität Innsbruck,Hauptbibliothek,4.4,42.0,0.60,281,4.0
+166,City University of Hong Kong,Run Run Shaw Library,4.3,15.0,0.60,53,4.0
+166,Utah State University,Utah State University-Libraries,4.3,31.0,0.60,1001,3.9
+166,Birmingham City University,Birmingham City University Library,4.1,20.0,0.60,1001,3.7
+166,Simon Fraser University,SFU Library,4.1,71.0,0.60,298,3.5
+166,Universität Mannheim,Library area Schloss Ehrenhof,3.9,56.0,0.60,423,3.2
+166,Erciyes Üniversitesi,Erciyes Üniversitesi Kadir Has Merkez Kütüphanesi (Kütüphane ve Dökümantasyon Daire Başkanlığı),3.8,66.0,0.60,?,3.0
+181,Universidad de las Américas Puebla (UDLAP),Biblioteca UDLAP,4.8,28.0,0.59,801,4.6
+181,Indian Institute of Technology (BHU) Varanasi,IIT BHU Main Library,4.7,204.0,0.59,?,4.6
+181,Indian Institute of Technology Delhi (IITD),"Central Library, IIT Delhi",4.7,251.0,0.59,185,4.6
+181,Singapore Management University,SMU Li Ka Shing Library,4.6,69.0,0.59,511,4.4
+181,Pontifícia Universidade Católica do Paraná,"Pontifical Catholic University of Paraná, Curitiba Campus",4.5,1403.0,0.59,1201,4.2
+181,O.P. Jindal Global University,OP Jindal Global Library,4.4,13.0,0.59,701,4.1
+181,University of Virginia,University of Va Library,4.0,5.0,0.59,226,4.0
+181,Swinburne University of Technology,Swinburne University of Technology - Hawthorn Library,4.4,42.0,0.59,321,4.0
+181,Eindhoven University of Technology,Universiteitsbibliotheek TU/e,4.2,14.0,0.59,125,3.9
+181,De Montfort University,Kimberlin Library,4.2,30.0,0.59,801,3.8
+181,University of Cologne,University and City Library of Cologne,2.9,193.0,0.59,311,1.0
+192,The University of Queensland,Central Library,4.8,57.0,0.58,47,4.7
+192,North Carolina State University,D. H. Hill Jr. Library,4.7,133.0,0.58,300,4.6
+192,University of Technology Sydney,UTS Library,4.7,195.0,0.58,133,4.6
+192,The Hong Kong University of Science and Technology,The Hong Kong University of Science and Technology Library,4.7,62.0,0.58,34,4.5
+192,Northwestern University,University Library,4.7,37.0,0.58,30,4.5
+192,Mississippi State University,Mitchell Memorial Library,4.7,25.0,0.58,1001,4.4
+192,University of San Francisco,"USF School of Law, Zief Law Library",5.0,4.0,0.58,1001,4.4
+192,The Hong Kong Polytechnic University,"Pao Yue-kong Library, The Hong Kong Polytechnic University",4.4,290.0,0.58,66,4.0
+192,Utrecht University,Universiteitsbibliotheek Utrecht Binnenstad (UBB),4.1,101.0,0.58,110,3.5
+192,RWTH Aachen University,University Library RWTH,4.1,101.0,0.58,165,3.5
+192,Ruhr-Universität Bochum,University Library Bochum,4.0,58.0,0.58,393,3.4
+192,Goethe-University Frankfurt am Main,Library for Law and Economics,3.9,76.0,0.58,340,3.1
+192,Macau University of Science and Technology,Macau University of Science and Technology Library,,,0.58,651,
+205,Durham University,Bill Bryson Library • Durham University,4.7,79.0,0.57,82,4.5
+205,Nagoya University,Nagoya University Library,4.6,62.0,0.57,118,4.4
+205,National Chengchi University,NCCU Main Library,4.6,174.0,0.57,591,4.4
+205,Glasgow Caledonian University,Sir Alex Ferguson Library,4.6,29.0,0.57,1001,4.3
+205,University of Mississippi,J D Williams Library,4.5,13.0,0.57,801,4.2
+205,University of Hull,University of Hull,4.5,391.0,0.57,651,4.2
+205,Makerere University,Makerere University Library,4.4,157.0,0.57,1001,4.0
+205,South China University of Technology,South China University of Technology Library,4.2,11.0,0.57,407,4.0
+205,University of Canterbury | Te Whare Wānanga o Waitaha,UC Central Library - Te Puna Mātauraka o Te Whare Wānanga o Waitaha,4.3,42.0,0.57,258,3.9
+205,Drexel University,Hagerty Library,3.2,34.0,0.57,651,2.4
+215,Czech Technical University in Prague,National Library of Technology,4.7,459.0,0.56,403,4.6
+215,"University of Alabama, Birmingham",Lister Hill Library,4.8,17.0,0.56,?,4.5
+215,Fordham University,William D. Walsh Family Library,4.7,27.0,0.56,801,4.4
+215,Ritsumeikan Asia Pacific University,APU Library,4.8,5.0,0.56,?,4.3
+215,Florida Atlantic University - Boca Raton,S. E. Wimberly Library,4.5,33.0,0.56,1001,4.2
+215,Monash University,Sir Louis Matheson Library,4.5,110.0,0.56,58,4.2
+215,Chang Gung University,Chang-Gung University Library,4.3,34.0,0.56,480,3.9
+215,Universität Duisburg-Essen,Duisburg-Essen University Library,4.2,56.0,0.56,801,3.7
+215,Technische Universität Braunschweig,University Library,4.2,134.0,0.56,561,3.6
+215,Westfälische Wilhelms-Universität Münster,University and State Library,4.2,100.0,0.56,411,3.6
+225,University of Massachusetts Amherst,W. E. B. Du Bois Library,4.9,97.0,0.55,246,4.9
+225,Iowa State University,Parks Library,4.7,109.0,0.55,494,4.6
+225,Instituto Tecnológico de Santo Domingo (INTEC),Instituto Tecnológico de Santo Domingo,4.7,646.0,0.55,?,4.6
+225,University of North Texas,Willis Library,4.7,165.0,0.55,1001,4.6
+225,National Taiwan University (NTU),NTU Main Library,4.6,621.0,0.55,68,4.4
+225,Technische Universität Dresden,Saxon State and University Library Dresden,4.6,300.0,0.55,194,4.4
+225,Indiana State University,Cunningham Memorial Library,4.7,24.0,0.55,1201,4.4
+225,Tufts University,Tisch Library,4.6,38.0,0.55,275,4.3
+225,"Universidad Central ""Marta Abreu"" de Las Villas","Central University ""Marta Abreu"" of Las Villas",4.6,45.0,0.55,521,4.3
+225,Université de Fribourg,Bibliothèque de la Faculté de Droit (BFD),4.4,19.0,0.55,561,4.1
+225,University of Central Florida,John C. Hitt Library,4.3,114.0,0.55,751,3.8
+225,EGE UNIVERSITY,Kütüphane,4.3,187.0,0.55,1001,3.8
+237,Australian Catholic University,ACU Brisbane Library,4.9,20.0,0.54,801,4.6
+237,University of Wollongong,UOW Library,4.7,114.0,0.54,193,4.6
+237,Jawaharlal Nehru University,Dr. B. R. Ambedkar Central Library,4.7,103.0,0.54,561,4.6
+237,Newcastle University,Philip Robinson Library,4.7,106.0,0.54,134,4.6
+237,University of Kent,Templeman Library,4.7,67.0,0.54,383,4.5
+237,Howard University,Howard University Libraries System,5.0,6.0,0.54,651,4.5
+237,University of Cincinnati,Langsam Library,4.7,60.0,0.54,601,4.5
+237,Universidad Autónoma del Estado de Hidalgo (UAEH),"Central Library, UAEH",4.6,42.0,0.54,801,4.3
+237,University of Liverpool,Harold Cohen Library,4.6,49.0,0.54,189,4.3
+237,Illinois Institute of Technology,Paul V. Galvin Library,4.6,48.0,0.54,444,4.3
+237,Ton Duc Thang University,Inspire Library,4.7,6.0,0.54,1001,4.3
+237,Universidad del Pacífico,Universidad del Pacífico,4.5,373.0,0.54,1001,4.2
+237,The Herzen State Pedagogical University of Russia,Российский Государственный Педагогический Университет им. А. И. Герцена,4.5,468.0,0.54,1001,4.2
+237,American University of Sharjah,American University of Sharjah Library,4.5,39.0,0.54,383,4.2
+237,Liverpool John Moores University,"Avril Robarts Library, Liverpool John Moores University",4.4,29.0,0.54,801,4.1
+237,The University of Auckland,University of Auckland General Library,4.4,158.0,0.54,85,4.0
+237,The University of Tokyo,University of Tokyo General Library,4.4,62.0,0.54,23,4.0
+237,CEU Universities,Central European University,4.4,197.0,0.54,?,4.0
+237,Florida State University,Robert Manning Strozier Library,4.3,43.0,0.54,475,3.9
+237,Iran University of Science and Technology,Iran University of Science and Technology (IUST),4.2,284.0,0.54,541,3.6
+237,Okayama University,Okayama University Central Library,3.9,19.0,0.54,581,3.5
+237,Universidad Mayor de San Simón Cochabamba,Universidad Mayor de San Simon,4.2,1291.0,0.54,?,3.5
+237,Vrije Universiteit Amsterdam,Vu Pride Library,,,0.54,209,
+260,Purdue University,Purdue University Libraries and School of Information,4.9,27.0,0.53,116,4.7
+260,National Yang Ming Chiao Tung University,National Yang Ming Chiao Tung University Library,4.7,296.0,0.53,268,4.6
+260,University of Texas El Paso,University Library,4.7,90.0,0.53,1001,4.5
+260,Seattle University,Lemieux Library and McGoldrick Learning Commons,5.0,9.0,0.53,801,4.5
+260,Anna University,Anna University Central Library,4.6,119.0,0.53,801,4.4
+260,Universidad Torcuato Di Tella,Torcuato Di Tella University,4.6,401.0,0.53,751,4.4
+260,National Taipei University of Technology,National Taipei University of Technology Library,4.6,133.0,0.53,469,4.4
+260,Yildiz Technical University,Yıldız Teknik Üniversitesi Şevket Sabancı Kütüphanesi,4.6,27.0,0.53,1201,4.3
+260,Sophia University,Sophia University Central Library,4.6,10.0,0.53,801,4.3
+260,University of Arkansas Fayetteville,David W. Mullins Library,4.6,43.0,0.53,1001,4.3
+260,Rikkyo University,Rikkyō University Ikebukuro Library,4.5,25.0,0.53,1001,4.2
+260,University of Nebraska - Lincoln,University of Nebraska-Lincoln Libraries,4.4,21.0,0.53,571,4.1
+260,Radboud University,Central Library,4.4,60.0,0.53,220,4.0
+260,Wayne State University,David Adamany Undergraduate Library,4.3,38.0,0.53,511,3.9
+260,Niigata University,Niigata University Library of Medical and Dental Library,3.2,10.0,0.53,541,3.2
+260,Technische Universität Berlin (TU Berlin),Technical University of Berlin University Library,3.3,271.0,0.53,159,1.7
+276,Russian-Armenian (Slavonic) State University,Russian-Armenian University,4.8,116.0,0.52,?,4.8
+276,"University of California, Berkeley (UCB)",Doe Library,4.8,41.0,0.52,32,4.6
+276,National Central University,National Central University Library,4.6,152.0,0.52,521,4.4
+276,Western Michigan University,Waldo Library,4.6,37.0,0.52,1001,4.3
+276,University of Cyprus (UCY),Βιβλιοθήκη Πανεπιστημίου Κύπρου | University of Cyprus Library,4.6,48.0,0.52,440,4.3
+276,McMaster University,McMaster University Library,4.5,22.0,0.52,140,4.2
+276,Universidad del Magdalena,German Bula Meyer Library,4.4,21.0,0.52,?,4.1
+276,Universität Jena,Thuringian University and State Library,4.4,84.0,0.52,344,4.0
+276,University of Hohenheim,Central Library,4.3,22.0,0.52,601,4.0
+276,"University of California, Los Angeles (UCLA)",UCLA Science and Engineering Library,4.0,10.0,0.52,40,3.8
+276,Nagasaki University,Central Library,3.8,6.0,0.52,531,3.8
+276,Kindai University (Kinki University),Kindai University Central Library,4.0,15.0,0.52,1201,3.7
+276,Universität Bremen,State and University Library Bremen,4.2,111.0,0.52,571,3.6
+276,University of Westminster,University of Westminster,4.1,187.0,0.52,701,3.4
+276,Universidad del Rosario,CRAI-Universidad del Rosario,,,0.52,751,
+291,Universidad del Norte,Biblioteca Karl C. Parrish Jr.,4.9,55.0,0.51,1001,4.8
+291,The Chinese University of Hong Kong (CUHK),The Chinese University of Hong Kong University Library,4.7,102.0,0.51,39,4.6
+291,National Dong Hwa University,National Dong Hwa University Library,4.7,122.0,0.51,1001,4.6
+291,ETH Zurich - Swiss Federal Institute of Technology,ETH Library infoCenter,4.8,43.0,0.51,8,4.6
+291,University of Louisville,Ekstrom Library,4.7,56.0,0.51,?,4.5
+291,National Chung Hsing University,National Chung Hsing University Library,4.6,371.0,0.51,651,4.4
+291,University of Greenwich,"University of Greenwich, Stockwell Street Library",4.6,121.0,0.51,751,4.4
+291,University of Strathclyde,Andersonian Library,4.6,74.0,0.51,302,4.4
+291,National Tsing Hua University,National Tsing Hua University Library,4.6,422.0,0.51,180,4.4
+291,University of Dhaka,Dhaka University Library,4.6,686.0,0.51,801,4.4
+291,University of Portsmouth,University Library,4.6,164.0,0.51,651,4.4
+291,Concordia University,"Webster Library, Concordia University",4.6,171.0,0.51,521,4.4
+291,Istanbul University,Konstbiblioteket,5.0,1.0,0.51,801,4.3
+291,"The University of Notre Dame, Australia",The University of Notre Dame Australia Library,4.8,5.0,0.51,1201,4.3
+291,Doshisha University,Doshisha University Library,4.6,8.0,0.51,1001,4.3
+291,California Institute of Technology (Caltech),Sherman Fairchild Library of Engineering and Applied Science,4.7,10.0,0.51,6,4.3
+291,National Taiwan Normal University,National Taiwan Normal University Library,4.5,217.0,0.51,334,4.2
+291,North South University,North South University Central Library,4.5,171.0,0.51,1001,4.2
+291,Meiji University,Meiji University Central Library,4.5,19.0,0.51,1001,4.2
+291,James Cook University,Eddie Koiki Mabo Library,4.5,35.0,0.51,424,4.2
+291,Fu Jen Catholic University,Fu Jen Catholic University Library - Fahy Library (Main Library),4.5,104.0,0.51,1001,4.2
+291,Asia University Taiwan,Asian University Library,4.5,70.0,0.51,?,4.2
+291,University of Tsukuba,University of Tsukuba Central Library,4.5,41.0,0.51,285,4.2
+291,Saint Petersburg Electrotechnical University ETU-LETI,Saint Petersburg Electrotechnical University,4.5,521.0,0.51,701,4.2
+291,Maynooth University,"John Paul II Library, Maynooth University",4.4,17.0,0.51,751,4.1
+291,Chiba University,The Library of Chiba University,4.4,17.0,0.51,477,4.1
+291,The New School,"New School Libraries & Archives, University Center",4.3,6.0,0.51,561,4.1
+291,University of Nairobi,Jomo Kenyatta Memorial Library,4.4,85.0,0.51,1001,4.0
+291,Tunghai University,Tunghai University Library,4.4,161.0,0.51,1201,4.0
+291,Ataturk University,Ataturk University Library,4.4,112.0,0.51,?,4.0
+291,Macquarie University,Macquarie University Library,4.3,210.0,0.51,200,3.8
+291,University of Split,University of Split Library,4.3,73.0,0.51,1201,3.8
+291,Universidad de Puerto Rico,"Biblioteca Santiago Iglesias, hijo / Biblioteca de Arquitectura UPR",2.5,2.0,0.51,1001,3.8
+291,Sun Yat-sen University,National Sun Yat-Sen University Library,4.2,117.0,0.51,260,3.6
+291,National Sun Yat-sen University,National Sun Yat-Sen University Library,4.2,117.0,0.51,412,3.6
+291,York University,Scott Library,4.0,116.0,0.51,494,3.2
+291,Kwansei Gakuin University,"Kwansei Gakuin University Library, Nishinomiya Seiwa Campus",,,0.51,?,
+328,Universidad Católica Andres Bello,Andrés Bello Catholic University,4.8,908.0,0.50,801,4.8
+328,Indian Institute of Technology Bombay (IITB),Central Library,4.7,165.0,0.50,177,4.6
+328,University of Texas Dallas,Eugene McDermott Library,4.7,206.0,0.50,477,4.6
+328,National Taiwan University of Science and Technology (Taiwan Tech),National Taiwan University of Science & Technology Library,4.7,119.0,0.50,314,4.6
+328,"University of California, San Diego (UCSD)",Geisel Library,4.7,205.0,0.50,48,4.6
+328,University of Birmingham,"Main Library, University Of Birmingham",4.7,116.0,0.50,90,4.6
+328,Banaras Hindu University,"Sayaji Rao Gaekwad Central Library, BHU",4.7,508.0,0.50,1001,4.6
+328,Pondicherry University,Ananda Rangapillai Library,4.7,53.0,0.50,801,4.5
+328,Ajou University,Ajou University Central Library,4.8,22.0,0.50,531,4.5
+328,University of Victoria (UVic),UVic Library,4.8,16.0,0.50,334,4.5
+328,University College Cork,Boole Library,4.7,81.0,0.50,298,4.5
+328,Syracuse University,Bird Library,4.7,50.0,0.50,651,4.5
+328,University of Windsor,Leddy Library,4.6,87.0,0.50,701,4.4
+328,University of Sussex,University of Sussex Library,4.6,64.0,0.50,226,4.4
+328,McGill University,McLennan Library Building,4.6,99.0,0.50,27,4.4
+328,National Taiwan Ocean University,National Taiwan Ocean University Library,4.6,60.0,0.50,1001,4.4
+328,Columbia University,Butler Library,4.6,109.0,0.50,19,4.4
+328,University of Nottingham,Hallward Library,4.6,67.0,0.50,103,4.4
+328,Pontificia Universidade Católica do Campinas - PUC Campinas,Library Unit-1,4.6,40.0,0.50,?,4.3
+328,"Birkbeck, University of London",Birkbeck Library,4.6,31.0,0.50,332,4.3
+328,American University of Beirut (AUB),Nami Jafet Memorial Library - AUB,4.7,7.0,0.50,242,4.3
+328,University of Madras,Madras University Library,4.6,25.0,0.50,?,4.3
+328,Taipei Medical University (TMU),Taipei Medical University Library,4.6,47.0,0.50,407,4.3
+328,Universiti Malaya (UM),"Main Library, University of Malaya",4.5,128.0,0.50,65,4.2
+328,Universidad Bernardo O'Higgins,Bernardo O'Higgins University,4.5,199.0,0.50,1201,4.2
+328,Azerbaijan State University of Economics,Economics Library,4.5,6.0,0.50,1001,4.2
+328,University of International Business and Economics,Economics Library,4.5,6.0,0.50,1001,4.2
+328,Pontificia Universidad Católica del Perú,PUCP Central Library,4.5,36.0,0.50,395,4.2
+328,Hitotsubashi University,University Library,4.4,24.0,0.50,531,4.1
+328,Universidad Nacional del Comahue,Biblioteca Central Francisco P. Moreno,4.4,14.0,0.50,?,4.1
+328,Baylor University,Moody Memorial Library,4.4,33.0,0.50,1001,4.1
+328,Universidad Peruana de Ciencias Aplicadas,UPC Campus Monterrico,4.4,984.0,0.50,1001,4.0
+328,Aristotle University of Thessaloniki,Central Library A.U.TH.,4.4,119.0,0.50,551,4.0
+328,Saint-Petersburg Mining University,Saint Petersburg Mining University,4.4,394.0,0.50,1001,4.0
+328,"Vietnam National University, Hanoi",National Library of Vietnam,4.3,444.0,0.50,801,3.8
+328,London Metropolitan University,"London Metropolitan University, Aldgate LIbrary",4.2,27.0,0.50,801,3.8
+328,University of Bristol,"Arts and Social Sciences Library, University of Bristol",4.2,49.0,0.50,62,3.7
+328,Russian State University for the Humanities,Russian State University for the Humanities,4.2,336.0,0.50,1001,3.6
+328,Princess Nourah bint Abdulrahman University,PNU Library المكتبة المركزية,3.4,8.0,0.50,751,3.5
+367,University of Navarra,University of Navarre: Library,4.8,141.0,0.49,266,4.8
+367,Arizona State University,Noble Library,4.8,151.0,0.49,216,4.8
+367,"ITESO, Universidad Jesuita de Guadalajara",Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO),4.8,962.0,0.49,1201,4.8
+367,Universidad de San Carlos de Guatemala - USAC,"Biblioteca Central, USAC",4.8,53.0,0.49,?,4.7
+367,The University of Sheffield,Western Bank Library,4.8,29.0,0.49,95,4.6
+367,Fundación Universidad De Bogotá-Jorge Tadeo Lozano,Library University of Bogota Jorge Tadeo Lozano,4.8,30.0,0.49,?,4.6
+367,University of Hartford,Harrison Libraries,5.0,10.0,0.49,801,4.6
+367,"University of Maryland, College Park",McKeldin Library,4.7,106.0,0.49,158,4.6
+367,Tamkang University,Tamkang University Chueh Sheng Memorial Library,4.7,201.0,0.49,1201,4.6
+367,Kyoto University,Kyoto University Library,4.7,43.0,0.49,33,4.5
+367,University of North Carolina at Greensboro,Walter Clinton Jackson Library,4.7,48.0,0.49,?,4.5
+367,Oklahoma State University,Edmon Low Library,4.7,92.0,0.49,801,4.5
+367,Ritsumeikan University,Hirai Kaichiro Memorial Library,4.7,34.0,0.49,751,4.5
+367,Bangladesh University of Engineering and Technology,"Central Library, BUET",4.6,129.0,0.49,801,4.4
+367,Chulalongkorn University,"Office of Academic Resources, Chulalongkorn University",4.6,114.0,0.49,215,4.4
+367,University of Pretoria,University of Pretoria Library Services,4.6,135.0,0.49,601,4.4
+367,Rhodes University,Rhodes Library,4.6,76.0,0.49,801,4.4
+367,Università degli Studi di Udine,"Biblioteca Umanistica e della Formazione, Università di Udine / Biblioteche Umanistiche e de Formazion",4.7,18.0,0.49,801,4.4
+367,Yamaguchi University,Yamaguchi University Main Library,4.6,10.0,0.49,801,4.3
+367,University of Sharjah,University of Sharjah Medical Library,4.6,11.0,0.49,601,4.3
+367,Universidad Anáhuac México,Universidad Anáhuac Mexico North Campus,4.5,749.0,0.49,601,4.2
+367,Feng Chia University,Feng Chia University Library,4.5,214.0,0.49,1001,4.2
+367,Aoyama Gakuin University,Aoyama Gakuin University library,4.3,8.0,0.49,1201,4.1
+367,Tokushima University,Tokushima University Library,4.4,15.0,0.49,651,4.1
+367,University of Houston,M.D. Anderson Library,4.4,173.0,0.49,701,4.0
+367,Tohoku University,Tohoku University Library,4.4,39.0,0.49,82,4.0
+367,University of South Florida,Library,4.4,275.0,0.49,581,4.0
+367,Cukurova University,Çukurova Üniversitesi Kütüphanesi,4.1,51.0,0.49,1201,3.6
+367,Universiti Tenaga Nasional (UNITEN),Uniten Library,4.0,31.0,0.49,751,3.5
+367,University of Wolverhampton,Harrison Library,3.9,25.0,0.49,1001,3.4
+397,Universidad EAFIT,Centro Cultural Luis Echavarría Villegas-Library,4.9,66.0,0.48,801,4.9
+397,University of Miami,Richter Library,4.9,36.0,0.48,311,4.8
+397,University of Belgrade,"Univerzitetska biblioteka ""Svetozar Marković""",4.8,86.0,0.48,1001,4.7
+397,École Normale Supérieure de Lyon,"Library of Lyon Diderot (Descartes site, LSHS)",4.8,63.0,0.48,130,4.7
+397,Universidade Federal de Viçosa (UFV),Central Federal University of Viçosa Library,4.8,82.0,0.48,1001,4.7
+397,Michigan State University,Main Library,4.8,112.0,0.48,157,4.7
+397,Universidad La Salle (ULSA),Biblioteca La Salle,4.9,17.0,0.48,?,4.6
+397,International Islamic University Malaysia (IIUM),IIUM Dar al-Hikmah Library,4.7,108.0,0.48,651,4.6
+397,University of Denver,Anderson Academic Commons,4.8,38.0,0.48,751,4.6
+397,Dartmouth College,Baker-Berry Library,4.8,29.0,0.48,191,4.6
+397,Universidad ICESI,Biblioteca Icesi,4.8,26.0,0.48,651,4.6
+397,Université de Montréal,Bibliothèque des lettres et sciences humaines,4.8,45.0,0.48,111,4.6
+397,Kagoshima University,Kagoshima University Library,4.8,14.0,0.48,651,4.5
+397,Shoolini University of Biotechnology and Management Sciences,Yogananda Libarary,5.0,6.0,0.48,?,4.5
+397,University of Minho,University of Minho General Library,4.7,18.0,0.48,571,4.4
+397,"University of Agriculture, Faisalabad",UAF Main Library,4.6,204.0,0.48,1001,4.4
+397,Carleton University,MacOdrum Library,4.6,82.0,0.48,601,4.4
+397,University of Chicago,The University of Chicago Library,4.6,45.0,0.48,10,4.3
+397,University of St Andrews,Main Library,4.5,29.0,0.48,91,4.2
+397,Chiang Mai University,Chiang Mai University Library,4.5,77.0,0.48,601,4.2
+397,Universiti Teknologi MARA - UiTM,Perpustakaan Tun Abdul Razak | Tun Abdul Razak Library,4.5,46.0,0.48,651,4.2
+397,University of Massachusetts Boston,Healey Library,4.5,8.0,0.48,651,4.2
+397,Universiti Tunku Abdul Rahman (UTAR),UTAR Main Library,4.5,38.0,0.48,801,4.2
+397,Virginia Polytechnic Institute and State University,Newman Library,4.5,93.0,0.48,346,4.2
+397,Duke University,Duke University Libraries,4.4,13.0,0.48,52,4.1
+397,Universidad Popular Autónoma del Estado de Puebla (UPAEP),UPAEP Biblioteca,4.3,18.0,0.48,?,4.0
+397,Shibaura Institute of Technology,Shibaura Institute of Technology Library,4.1,7.0,0.48,1201,4.0
+397,Universiti Malaysia Perlis,Library UniMAP,4.3,20.0,0.48,801,4.0
+397,Leibniz University Hannover,Technical Information Library,4.3,129.0,0.48,601,3.8
+397,Gazi Üniversitesi,Gazı Üniversitesi Merkez Kütüphanesi,4.3,164.0,0.48,1001,3.8
+397,International Christian University,International Christian University Library,3.9,8.0,0.48,801,3.8
+397,Ludwig-Maximilians-Universität München,UB University of Munich - Central Library,4.2,45.0,0.48,64,3.7
+397,Universidad Nacional de Rosario (UNR),Virtual Library University of Rosario,4.0,23.0,0.48,801,3.6
+397,Osaka City University,Osaka Metropolitan University Library Sugimoto Library,3.9,22.0,0.48,571,3.5
+397,Toronto Metropolitan University,Toronto Metropolitan University Library,4.0,41.0,0.48,801,3.4
+397,Yokohama National University,Yokohama National University Library,3.8,26.0,0.48,801,3.3
+433,Universidad de Costa Rica,Carlos Monge Library,4.9,60.0,0.47,531,4.9
+433,Pontificia Universidade Católica do Minas Gerais - PUC Minas,Father Alberto Antoniazzi Library,4.8,104.0,0.47,?,4.7
+433,"The University of Newcastle, Australia (UON)",Auchmuty Library,4.8,44.0,0.47,197,4.6
+433,University of Pittsburgh,Hillman Library at University of Pittsburgh,4.7,89.0,0.47,163,4.5
+433,Universidad de Montevideo (UM),University of Montevideo,4.6,129.0,0.47,469,4.4
+433,University of Johannesburg,UJ Library,4.6,321.0,0.47,434,4.4
+433,National Taipei University,National Taipei University Library,4.6,152.0,0.47,1201,4.4
+433,University of Vermont,University of Vermont: Dana Medical Library,5.0,5.0,0.47,651,4.4
+433,Universiti Brunei Darussalam (UBD),University Library,4.7,11.0,0.47,250,4.4
+433,OSMANIA UNIVERSITY,Osmania Univeristy Library,4.6,167.0,0.47,1001,4.4
+433,"City, University of London",City Law School Private Library,5.0,2.0,0.47,330,4.3
+433,Chang Jung Christian University,蘭大衛紀念圖書館,4.6,20.0,0.47,1001,4.3
+433,Cardiff University,Science Library,4.7,6.0,0.47,151,4.3
+433,"University of North Carolina, Chapel Hill",Davis Library,4.5,49.0,0.47,100,4.2
+433,Saitama University,Saitama University Library,4.2,9.0,0.47,1001,4.0
+433,University of Calgary,Taylor Family Digital Library,4.4,90.0,0.47,235,4.0
+433,BRAC University,"Ayesha Abed Library, Brac University",4.1,24.0,0.47,1001,3.7
+433,Osaka University,Osaka University Science and Engineering Library,3.9,11.0,0.47,75,3.7
+451,Indian Institute of Technology Roorkee (IITR),Mahatma Gandhi Central Library,4.9,222.0,0.46,400,5.0
+451,Universidad de Antioquia,"Biblioteca Central Universidad de Antioquia ""Carlos Gaviria Diaz""",4.9,118.0,0.46,651,4.9
+451,Universidad de Medellín,"Biblioteca Central Universidad de Antioquia ""Carlos Gaviria Diaz""",4.9,119.0,0.46,1201,4.9
+451,University of Warsaw,Warsaw University Library,4.8,1929.0,0.46,308,4.8
+451,University of the Western Cape,University of the Western Cape Library,4.8,54.0,0.46,1001,4.7
+451,COMSATS University Islamabad,Junaid Zaidi Library,4.7,211.0,0.46,1001,4.6
+451,Universidad Nacional de San Martín (UNSAM),National University of General San Martin,4.7,336.0,0.46,1001,4.6
+451,Free University of Bozen-Bolzano,Library of the Free University of Bozen-Bolzano,4.8,25.0,0.46,651,4.6
+451,Ivane Javakhishvili Tbilisi State University,TSU Library,4.9,8.0,0.46,571,4.5
+451,The American University in Cairo,AUC Library,4.7,55.0,0.46,445,4.5
+451,Bournemouth University,AUB Library,5.0,7.0,0.46,751,4.5
+451,University of Oklahoma,Bizzell Memorial Library,4.7,71.0,0.46,651,4.5
+451,Southern Methodist University,Fondren Library,4.7,29.0,0.46,801,4.5
+451,Oregon State University,The Valley Library,4.7,92.0,0.46,531,4.5
+451,Universidad de Lima,Biblioteca Universidad de Lima,4.7,52.0,0.46,1001,4.5
+451,Universidad San Francisco de Quito (USFQ),Biblioteca USFQ,4.8,17.0,0.46,751,4.5
+451,University of Rhode Island,Robert L. Carothers Library & Learning Commons,4.7,12.0,0.46,1001,4.4
+451,Universidade Presbiteriana Mackenzie,George Alexander Library - Mackenzie,4.8,10.0,0.46,?,4.4
+451,Waseda University,S. Takata Memorial Research Library,5.0,5.0,0.46,203,4.4
+451,Swarthmore College,McCabe Library,4.7,12.0,0.46,?,4.4
+451,"Kingston University, London",Nightingale Centre (LRC),4.8,9.0,0.46,601,4.4
+451,UCSI University,UCSI University Library (South Wing),5.0,1.0,0.46,347,4.3
+451,Sogang University,Loyola Library,4.6,30.0,0.46,494,4.3
+451,"Universidad Nacional, Costa Rica",Biblioteca Joaquín García Monge,4.6,50.0,0.46,1001,4.3
+451,Southeast University,Southeast University Central Library,4.7,9.0,0.46,465,4.3
+451,University of Montana Missoula,University of Montana Law Library,5.0,1.0,0.46,1001,4.3
+451,University of Utah,J. Willard Marriott Library,4.5,175.0,0.46,358,4.2
+451,Indiana University–Purdue University Indianapolis,University Library,4.5,74.0,0.46,801,4.2
+451,Princeton University,Lewis Science Library,4.5,18.0,0.46,20,4.2
+451,Universidad Autónoma de Guadalajara (UAG),Dr. Fernando Banda Central Library (UAG),4.3,6.0,0.46,?,4.1
+451,University of New England Australia,Dixson Library,4.4,11.0,0.46,801,4.1
+451,George Washington University,Gelman Library,4.4,45.0,0.46,355,4.0
+451,The University of Lahore,Library,4.4,111.0,0.46,1001,4.0
+451,University of Bordeaux,University Library Science and Technology,4.1,87.0,0.46,501,3.5
+451,Universidade Federal da Paraíba,Central Library,4.0,34.0,0.46,1201,3.5
+451,Universidad del Valle de Mexico (UVM),"UVM - Campus Sur, Sede Tlalpan",3.6,283.0,0.46,?,2.3
+487,Universidad de los Andes,Biblioteca Ramón de Zubiria,5.0,34.0,0.45,236,4.9
+487,Universidade Federal de Juiz de Fora- (UFJF),Central Library,4.8,57.0,0.45,1001,4.7
+487,"Essex, University of",Albert Sloman Library,4.9,18.0,0.45,439,4.6
+487,Suranaree University of Technology,The Center for Library Resources and Educational Media,4.8,45.0,0.45,1201,4.6
+487,Université de Sherbrooke,Frère-Théode's Library (sciences and engineering),5.0,10.0,0.45,751,4.6
+487,Universidade Estadual de Campinas (Unicamp),Library System of Unicamp - SBU,4.8,24.0,0.45,219,4.6
+487,University of Regina,Dr. John Archer Library,4.7,30.0,0.45,?,4.5
+487,Universidade Federal de Uberlândia,Santa Mônica Central Library,4.7,78.0,0.45,?,4.5
+487,"University of Missouri, Columbia","University of Missouri Libraries, Elmer Ellis Library",4.7,51.0,0.45,476,4.5
+487,Universidade Federal de São Carlos (UFSCar),UFSCar Community Library,4.7,90.0,0.45,801,4.5
+487,Tulane University,Howard-Tilton Memorial Library,4.7,23.0,0.45,436,4.4
+487,The University of Manchester,Main Library,4.6,157.0,0.45,27,4.4
+487,University of South Carolina,Thomas Cooper Library,4.5,65.0,0.45,601,4.2
+487,Universidad San Ignacio de Loyola,Cudahy Library,4.5,11.0,0.45,1201,4.2
+487,Miami University,Edgar W King Library,4.5,20.0,0.45,1001,4.2
+487,University of Kentucky,William T Young Library,4.5,83.0,0.45,651,4.2
+487,Pontificia Universidad Catolica Madre y Maestra,Biblioteca PUCMM,4.5,22.0,0.45,?,4.2
+487,National Institute of Technology Tiruchirappalli,Library,4.5,46.0,0.45,?,4.2
+487,"Rutgers, The State University of New Jersey, Camden",Paul Robeson Library,4.5,17.0,0.45,?,4.2
+487,University of Ottawa,Morisset Library,4.5,46.0,0.45,230,4.2
+487,Loyola University Chicago,Cudahy Library,4.5,11.0,0.45,801,4.2
+487,RMIT University,Swanston Library,4.5,91.0,0.45,206,4.2
+487,Wake Forest University,ZSR Library,4.4,10.0,0.45,429,4.1
+487,Marquette University,Marquette University Raynor Memorial Libraries,4.4,20.0,0.45,1001,4.1
+487,"Lingnan University, Hong Kong",Lingnan University Fong Sum Wood Library,4.4,7.0,0.45,581,4.1
+487,North-West University,NWU Education Sciences Library,4.0,2.0,0.45,1001,4.1
+487,Soochow University (Taiwan),Soochow University Library,4.4,47.0,0.45,1201,4.0
+487,Soochow University,Soochow University Library,4.4,47.0,0.45,601,4.0
+487,Amrita Vishwa Vidyapeetham,Amrita Vishwa Vidyapeetham Main Library,4.4,75.0,0.45,1001,4.0
+487,Hiroshima University,Central Library,4.2,19.0,0.45,343,3.9
+487,King Mongkut\'s Institute of Technology Ladkrabang,KMITL Central Library,4.3,51.0,0.45,1001,3.9
+487,Amirkabir University of Technology,Tehran Library of Engineering and Technology,3.9,18.0,0.45,465,3.6
+519,University of Stirling,Library,4.9,54.0,0.44,471,4.8
+519,University of Oregon,Knight Library,4.8,46.0,0.44,651,4.7
+519,Instituto Tecnológico Autónomo de México (ITAM),Biblioteca Raúl Baillères Jr.,5.0,15.0,0.44,751,4.7
+519,Edith Cowan University,"Library, ECU Joondalup Campus",4.8,70.0,0.44,651,4.7
+519,Universidade Federal de Goiás,Central Library,4.7,100.0,0.44,1201,4.6
+519,University of Cape Town,Chancellor Oppenheimer Library,4.9,15.0,0.44,226,4.6
+519,"Nanyang Technological University, Singapore (NTU)",Lee Wee Nam Library,4.6,92.0,0.44,12,4.4
+519,Kaunas University of Technology,KTU Central Library,4.6,8.0,0.44,801,4.3
+519,Thammasat University,Thammasat University Library,4.8,5.0,0.44,601,4.3
+519,Northern Arizona University,Cline Library,4.5,63.0,0.44,1001,4.2
+519,Central Michigan University,Park Library,4.5,17.0,0.44,?,4.2
+519,Hasselt University,UHasselt - Universiteitsbibliotheek,4.3,3.0,0.44,471,4.1
+519,University of Illinois at Chicago (UIC),"Library of the Health Sciences-Chicago, University of Illinois at Chicago",4.4,55.0,0.44,285,4.0
+519,Western University,The D.B. Weldon Library,4.2,56.0,0.44,170,3.7
+519,Kumamoto University,Kumamoto University Central Library,3.8,9.0,0.44,591,3.7
+519,"Universidad Católica Boliviana ""San Pablo""","Biblioteca Central - Universidad Católica Boliviana ""San Pablo"" - La Paz",4.0,17.0,0.44,1201,3.7
+519,Kanazawa University,Central Library,3.9,14.0,0.44,601,3.6
+536,Instituto Politécnico Nacional (IPN),"Biblioteca Nacional de Ciencia y Tecnología ""Víctor Bravo Ahuja"" - IPN",4.9,253.0,0.43,751,5.0
+536,Universität des Saarlandes,Saarland University and State Library,4.9,34.0,0.43,447,4.8
+536,Masaryk University,Masaryk University Campus Library,5.0,24.0,0.43,551,4.8
+536,Universidade Federal de Santa Catarina,Central Library,4.8,151.0,0.43,801,4.8
+536,Universidad Tecnológica de Bolívar,The Technological University of Bolivar,4.8,263.0,0.43,1201,4.8
+536,Universidad Católica de La Santísima Concepción - UCSC,McHenry Library,4.9,27.0,0.43,?,4.7
+536,University of Vienna,Universitätsbibliothek Wien,4.8,80.0,0.43,151,4.7
+536,"University of California, Santa Cruz",McHenry Library,4.9,27.0,0.43,347,4.7
+536,National Research Tomsk Polytechnic University,TSU Scientific Library (Nauchnaya Biblioteka TGU),4.7,105.0,0.43,395,4.6
+536,Tomsk State University,TSU Scientific Library (Nauchnaya Biblioteka TGU),4.7,105.0,0.43,272,4.6
+536,University of Iowa,Main Library,4.7,61.0,0.43,455,4.5
+536,Griffith University,Griffith University Library Gold Coast Campus,4.7,45.0,0.43,290,4.5
+536,Stellenbosch University,Stellenbosch University Library,4.6,72.0,0.43,482,4.4
+536,Stanford University,Cecil H Green Library,4.6,59.0,0.43,3,4.4
+536,Universidade Federal de Minas Gerais,Biblioteca Central da UFMG -,4.6,98.0,0.43,651,4.4
+536,St. Louis University,Pius XII Memorial Library,4.7,23.0,0.43,?,4.4
+536,Universiti Putra Malaysia (UPM),Sultan Abdul Samad Library,4.6,73.0,0.43,143,4.4
+536,University of the Punjab,Main Library PU,4.6,14.0,0.43,801,4.3
+536,Universidad de Cartagena,Corporación Universitaria Rafael Núñez | Sede Miguel Henríquez Casteñeda,4.6,17.0,0.43,?,4.3
+536,Universidad Nacional de Quilmes,Biblioteca Laura Manzo. Universidad Nacional de Quilmes,4.8,4.0,0.43,1201,4.3
+536,Murdoch University,Geoffrey Bolton Library,4.6,52.0,0.43,581,4.3
+536,University of Milano-Bicocca,Biblioteca di Ateneo - Sede Centrale,4.6,24.0,0.43,450,4.3
+536,University of Santo Tomas,Miguel de Benavides Library,4.6,25.0,0.43,801,4.3
+536,Universidad Católica del Uruguay (UCU),Catholic University of Uruguay (UCU),4.5,305.0,0.43,801,4.2
+536,Amity University,Central Library,4.5,533.0,0.43,1001,4.2
+536,"University of California, Santa Barbara (UCSB)",UCSB Library,4.5,50.0,0.43,146,4.2
+536,West Virginia University,Downtown Campus Library,4.5,43.0,0.43,801,4.2
+536,Mendeleev University of Chemical Technology,РХТУ им. Д.И. Менделеева,4.4,279.0,0.43,801,4.0
+536,University of Geneva,Bibliothèque de Genève,4.4,53.0,0.43,105,4.0
+536,Gulf University for Science and Technology,Gulf University for Science and Technology,4.4,165.0,0.43,801,4.0
+536,Konkuk University,Konkuk University sangheo Memorial Library,4.3,53.0,0.43,601,3.9
+536,University Ulm,Bibliotheks-Zentrale der Universität Ulm,4.1,10.0,0.43,365,3.9
+536,L.N. Gumilyov Eurasian National University (ENU),L.N. Gumilyov Eurasian National University,4.2,490.0,0.43,328,3.6
+536,Sharif University of Technology,Sharif University Central Library,3.8,20.0,0.43,381,3.4
+536,Universitat Ramon Llull,URL Biblioteca Facultat Comunicació i Relacions Internacionals Blanquerna,3.8,27.0,0.43,601,3.3
+536,Universidad Autónoma Metropolitana (UAM),Fred J. Taylor Library and Technology Center,,,0.43,801,
+572,University of Minnesota Twin Cities,Walter Library,4.9,76.0,0.42,186,4.9
+572,Universidade Federal do Rio Grande Do Sul,Biblioteca Central - FURG,4.8,66.0,0.42,751,4.7
+572,Yonsei University,Yonsei University Central Library,4.7,147.0,0.42,79,4.6
+572,New York University (NYU),Elmer Holmes Bobst Library,4.7,141.0,0.42,42,4.6
+572,Universidade Federal do Parà - UFPA,Central Library - Pará Federal University,4.7,168.0,0.42,?,4.6
+572,Universidad Metropolitana,Library,4.7,220.0,0.42,1001,4.6
+572,Universidad de Panama,Biblioteca Simon Bolívar,4.7,52.0,0.42,1201,4.5
+572,Universidad Autónoma Chapingo,Biblioteca Central,4.7,51.0,0.42,801,4.5
+572,Ateneo de Manila University,Rizal Library,4.8,22.0,0.42,601,4.5
+572,Kent State University,Kent State University Library,4.7,70.0,0.42,1001,4.5
+572,Umea University,Umeå University Library,4.7,52.0,0.42,365,4.5
+572,Universidad Tecnológica Nacional (UTN),Biblioteca de la UTN,5.0,4.0,0.42,801,4.4
+572,Korea University,Korea University Science Library,4.6,82.0,0.42,74,4.4
+572,The University of Arizona,Main Library - University of Arizona,4.6,83.0,0.42,268,4.4
+572,Czech University of Life Sciences in Prague,Czech University of Life Sciences Prague (CZU),4.6,540.0,0.42,801,4.4
+572,Hanoi University of Science and Technology,Hanoi University of Science & Technology (HUST),4.6,2782.0,0.42,1201,4.4
+572,Universidad de Monterrey (UDEM),Library,4.8,12.0,0.42,1001,4.4
+572,Universität Regensburg,Central Library,4.6,34.0,0.42,591,4.3
+572,"Sofia University ""St. Kliment Ohridski""",University Library,4.6,24.0,0.42,591,4.3
+572,Washington University in St. Louis,John M. Olin Library,4.6,27.0,0.42,107,4.3
+572,Universidad Autónoma de Baja California,Central Library Tijuana - UABC,4.6,20.0,0.42,1201,4.3
+572,Universidade Estadual de Londrina,Biblioteca Central,4.6,37.0,0.42,1201,4.3
+572,Colorado School of Mines,Arthur Lakes Library,4.6,21.0,0.42,461,4.3
+572,Kansas State University,Hale Library,4.5,53.0,0.42,801,4.2
+572,Hokkaido University,Hokkaido University Central Library,4.5,34.0,0.42,145,4.2
+572,Universidad Adolfo Ibáñez,Universidad Adolfo Ibáñez,4.5,234.0,0.42,751,4.2
+572,Universidad Nacional Mayor de San Marcos,"Central Library ""Pedro Zulen""",4.4,54.0,0.42,801,4.0
+572,Shiraz University,Central Library and Documentation Center of Shiraz University,4.1,7.0,0.42,751,4.0
+572,Tokyo University of Science,Tokyo University of Science Katsushika Library,4.3,17.0,0.42,801,4.0
+572,American University,American University Library,4.3,24.0,0.42,651,3.9
+572,The University of Hong Kong,The University of Hong Kong - Main Library,4.3,110.0,0.42,22,3.8
+572,Hong Kong Baptist University,Hong Kong Baptist University Library,4.1,24.0,0.42,287,3.7
+572,Ben-Gurion University of The Negev,Zalman Aranne Central Library,4.1,45.0,0.42,471,3.6
+572,Humboldt-Universität zu Berlin,"Universitätsbibliothek Humboldt-Universität zu Berlin, ZwB Rechtswissenschaften",3.7,43.0,0.42,128,3.0
+572,Universidade Federal do Rio Grande Do Norte,Biblioteca Setorial do CCSA - UFRN,,,0.42,?,
+607,Ohio University,Vernon R. Alden Library,4.9,42.0,0.41,1001,4.8
+607,Universidad Tecnológica de Pereira,UTP: Edificio 9: Biblioteca Jorge Roa Martinez,4.8,317.0,0.41,1201,4.8
+607,University of Lisbon,Biblioteca da Faculdade de Letras,4.8,36.0,0.41,356,4.6
+607,Islamic University of Madinah,المكتبة المركزية Central Library,4.7,108.0,0.41,801,4.6
+607,National Chung Cheng University,National Chung Cheng University Library,4.7,203.0,0.41,801,4.6
+607,University of the Philippines,University of the Philippines Diliman Main Library,4.8,20.0,0.41,399,4.5
+607,"University of California, Davis",Peter J. Shields Library,4.6,91.0,0.41,108,4.4
+607,International Islamic University Islamabad (IIU),Central Library University,4.6,136.0,0.41,?,4.4
+607,Universidad Autónoma de San Luis de Potosí,Biblioteca Pública Universitaria,4.6,115.0,0.41,1201,4.4
+607,University of Guelph,McLaughlin Library,4.6,50.0,0.41,581,4.3
+607,University of Bayreuth,"Teilbibliothek für Mathematik, Physik, Informatik und Ingenieurwissenschaften, Universität Bayreuth",5.0,2.0,0.41,521,4.3
+607,Ulster University,Ulster University Coleraine Library,4.7,3.0,0.41,651,4.3
+607,Institut Polytechnique de Paris,Bibliothèque centrale de l’École Polytechnique (BCX),4.7,7.0,0.41,49,4.3
+607,University of Malta,University of Malta Library,4.5,32.0,0.41,801,4.2
+607,University of the Pacific,William Knox Holt Memorial Library,4.3,25.0,0.41,1001,3.9
+607,MIREA - Russian Technological University,Rtu Mirea,4.3,754.0,0.41,1201,3.8
+623,Quaid-i-Azam University,Dr.Raziuddin Siddiqi Memorial Library,4.8,299.0,0.40,378,4.8
+623,Inha University,인하대학교 정석학술정보관,4.9,40.0,0.40,561,4.8
+623,Universidad Autónoma de Querétaro (UAQ),"UAQ Central Library, Information Services Coordination, Computer Center",4.8,49.0,0.40,1201,4.7
+623,Universidad Autonoma de Yucatan,CENTRAL LIBRARY UADY,4.9,33.0,0.40,1201,4.7
+623,Universität Potsdam,Departmental Library Golm,4.9,31.0,0.40,701,4.7
+623,Universidad Veracruzana,USBI Veracruz,4.8,92.0,0.40,?,4.7
+623,Johns Hopkins University,Brody Learning Commons,4.9,25.0,0.40,25,4.7
+623,Dongguk University,동국대학교 중앙도서관,4.9,21.0,0.40,494,4.6
+623,University of Miskolc,"Miskolci Egyetem Könyvtár, Levéltár, Múzeum",4.8,31.0,0.40,1001,4.6
+623,Universidad Diego Portales (UDP),Nicanor Parra UDP library,4.7,74.0,0.40,801,4.5
+623,University of Colombo,Main Library - University of Colombo,4.7,48.0,0.40,1001,4.5
+623,Jadavpur University,Jadavpur University Central Library,4.7,60.0,0.40,651,4.5
+623,Brunel University London,Brunel University Library,4.6,65.0,0.40,351,4.4
+623,Bina Nusantara University (BINUS),Library Binus University,4.7,18.0,0.40,1001,4.4
+623,Robert Gordon University,Robert Gordon University Library,4.7,21.0,0.40,801,4.4
+623,Universidad del Bío-Bío,"Biblioteca Universidad del Bio-Bio ""Hilario Hernandez Gurruchaga""",4.8,9.0,0.40,1201,4.4
+623,Pontifícia Universidade Católica de São Paulo,Biblioteca Professor Geraldo Ataliba - PUC,4.7,14.0,0.40,801,4.4
+623,University of Missouri Saint Louis,Thomas Jefferson Library,4.7,22.0,0.40,?,4.4
+623,Rensselaer Polytechnic Institute,Folsom Library,4.6,29.0,0.40,431,4.3
+623,Pontificia Universidad Católica de Chile (UC),Biblioteca Biomédica,5.0,1.0,0.40,135,4.3
+623,University of Michigan-Ann Arbor,Harlan Hatcher Graduate Library,4.6,36.0,0.40,23,4.3
+623,"University of California, Riverside",Tomas Rivera Library,4.5,30.0,0.40,403,4.2
+623,The University of Sydney,"Sydney Jones Library, University of Liverpool",4.5,64.0,0.40,38,4.2
+623,Tokyo Metropolitan University,Tokyo Metropolitan University Library,4.3,16.0,0.40,701,4.0
+623,University of Coimbra,Joanina Library,4.4,933.0,0.40,455,4.0
+623,Shinshu University,Shinshu University Medical Library,4.0,3.0,0.40,801,4.0
+649,Pontificia Universidad Javeriana,Library Alfonso Borrero Cabal S.J.,4.9,73.0,0.39,412,4.9
+649,University of North Carolina at Charlotte,J. Murrey Atkins Library,4.8,123.0,0.39,1001,4.8
+649,Universidade do Estado de Santa Catarina,UDESC - Central Library,4.9,41.0,0.39,?,4.8
+649,Universiti Teknologi PETRONAS (UTP),Information Resource Centre (IRC) UTP,4.8,52.0,0.39,414,4.7
+649,King Abdulaziz University (KAU),"Central Library, King Abdulaziz University",4.7,157.0,0.39,109,4.6
+649,Universidade Federal de Pernambuco (UFPE),Central Library,4.7,79.0,0.39,801,4.5
+649,Keio University,Keio Univ. Mita Campus Media Center,4.8,17.0,0.39,201,4.5
+649,Stefan cel Mare University of Suceava,Stefan cel Mare University,4.6,436.0,0.39,1201,4.4
+649,University of Basel,Basel University Library,4.6,71.0,0.39,138,4.4
+649,University of Bucharest,Central University Library Carol I,4.6,213.0,0.39,1001,4.4
+649,Universidad de Zaragoza,Biblioteca de la Universidad de Zaragoza,4.6,24.0,0.39,531,4.3
+649,"University of Maryland, Baltimore County",Albin O. Kuhn Library and Gallery,4.6,39.0,0.39,751,4.3
+649,Charles Sturt University,Charles Sturt University Library Bathurst,4.7,6.0,0.39,801,4.3
+649,"University of California, Irvine",Science Library SLIB,4.6,45.0,0.39,232,4.3
+649,Zagazig University,المكتبة اليابانية للخدمات الطلابيه,5.0,1.0,0.39,1201,4.3
+649,Università degli studi di Bergamo,University of Bergamo - Humanities Library,4.6,35.0,0.39,1201,4.3
+649,Universidad ORT Uruguay,Biblioteca Centro (Universidad ORT Uruguay),4.5,13.0,0.39,471,4.2
+649,University of St.Gallen (HSG),HSG-Bibliothek,4.5,25.0,0.39,459,4.2
+649,University of Tromsø The Arctic University of Norway,Kultur- og Samfunnsfagbiblioteket - UiT,4.4,5.0,0.39,440,4.1
+649,King Mongkut's University of Technology Thonburi,KMUTT Library,4.4,38.0,0.39,801,4.0
+649,Portland State University,Portland State University Library,4.3,81.0,0.39,1001,3.8
+649,Universidad Mayor de San Andrés (UMSA),Biblioteca Central,3.7,11.0,0.39,1201,3.6
+649,"The National Research University ""Belgorod State University""",Belgorod State University,4.1,466.0,0.39,1001,3.3
+649,Universidad Pontificia Comillas,Comillas Pontifical University Library,3.4,21.0,0.39,601,2.9
+649,Université de Toulouse II-Le Mirail,University of Toulouse-Jean Jaurès,3.7,433.0,0.39,1001,2.5
+649,Western Washington University,Hacherl Research & Writing Studio at WWU,,,0.39,?,
+675,Yale University,Sterling Memorial Library,4.8,88.0,0.38,14,4.7
+675,University of Leeds,"Edward Boyle Library, University of Leeds",4.8,78.0,0.38,92,4.7
+675,University of Zurich,Rechtswissenschaftliche Bibliothek,4.8,60.0,0.38,70,4.7
+675,Ewha Womans University,Ewha Womans University Central Library,4.8,34.0,0.38,362,4.6
+675,Universidad de La Frontera (UFRO),Biblioteca Central de la Universidad de La Frontera,4.9,14.0,0.38,1001,4.6
+675,Jeonbuk National University,Central Library of Jeonbuk Nat'l Univ.,4.7,62.0,0.38,571,4.5
+675,Stevens Institute of Technology,Samuel C Williams Library,4.7,30.0,0.38,701,4.5
+675,Saint Petersburg State University,Biblioteka Akademii Nauk,4.7,39.0,0.38,242,4.5
+675,Universidad Nacional de Colombia,Bloque U Biblioteca Carlos Enrique Ruiz Universidad Nacional de Colombia Campus La Nubia,4.9,11.0,0.38,258,4.5
+675,Technion - Israel Institute of Technology,"Elyachar Central Library - הספרייה המרכזית ע""ש אלישר",4.7,23.0,0.38,330,4.4
+675,Nottingham Trent University,Boots Library,4.6,76.0,0.38,801,4.4
+675,Carnegie Mellon University,Carnegie Mellon University - Sorrells Engineering and Science Library,4.7,12.0,0.38,53,4.4
+675,Mykolas Romeris University,Mykolas Romeris university library,4.6,72.0,0.38,?,4.4
+675,Notre Dame University-Louaize NDU,NDU Library,4.7,7.0,0.38,701,4.3
+675,Pontifícia Universidade Católica do Rio de Janeiro,Biblioteca Cardeal Frings - PUC-Rio,4.6,16.0,0.38,651,4.3
+675,Illinois State University,Milner Library,4.6,37.0,0.38,?,4.3
+675,Colorado State University,Morgan Library,4.6,35.0,0.38,431,4.3
+675,University of Alberta,Rutherford Library,4.6,43.0,0.38,126,4.3
+675,Paul Valéry University Montpellier,University Library,4.5,53.0,0.38,1001,4.2
+675,Université de Montpellier,University Library,4.5,53.0,0.38,521,4.2
+675,Politecnico di Torino,Turin Polytechnic - Engineering Central Library,4.4,56.0,0.38,334,4.0
+675,HSE University,"Gosudarstvennyy Universitet Vysshaya Shkola Ekonomiki, Biblioteka",4.0,4.0,0.38,305,4.0
+675,Universidad de Valladolid,Universidad de Valladolid. Biblioteca de la Facultad de Filosofía y Letras,3.7,3.0,0.38,?,4.0
+675,Taylor's University,Taylor's University Library,4.0,4.0,0.38,332,4.0
+675,The University of Melbourne,Baillieu Library,4.4,87.0,0.38,37,4.0
+675,Transilvania University of Brasov,Transilvania University Library,4.2,23.0,0.38,1201,3.8
+675,Duy Tan University,Duy Tan University,4.2,504.0,0.38,?,3.6
+675,Universität Siegen,Main Library,4.0,33.0,0.38,1001,3.5
+675,Vrije Universiteit Brussel (VUB),Centrale Bibliotheek VUB,3.7,16.0,0.38,221,3.4
+675,Tokai University,Tokai University Yoyogi Library,2.5,4.0,0.38,1001,3.4
+675,Universitat de Valencia,Biblioteca d'Humanitats Joan Reglà. Universitat de València,3.9,147.0,0.38,571,3.0
+675,"University of Colorado, Denver",Auraria Library,3.8,83.0,0.38,414,2.9
+707,Universidad de La Sabana,Universidad de La Sabana,4.8,1034.0,0.37,701,4.8
+707,KTH Royal Institute of Technology,KTH Biblioteket,4.8,93.0,0.37,89,4.7
+707,University of Rochester,Rush Rhees Library,4.8,28.0,0.37,154,4.6
+707,"Adam Mickiewicz University, Poznań","Library of the Faculty of Polish and Classical Philology, Adam Mickiewicz University",5.0,8.0,0.37,801,4.5
+707,California State University Long Beach,CSULB University Library,4.6,102.0,0.37,?,4.4
+707,University of Alaska Fairbanks,Elmer E. Rasmuson Library,4.7,20.0,0.37,?,4.4
+707,The Josip Juraj Strossmayer University of Osijek,City and University Library in Osijek,4.6,73.0,0.37,1001,4.4
+707,Pennsylvania State University,Pattee and Paterno Library,4.6,91.0,0.37,96,4.4
+707,UNIVERSITY OF GDANSK,Main Library of Medical University of Gdansk,4.6,36.0,0.37,801,4.3
+707,University of Murcia,General Library María Moliner,4.6,49.0,0.37,801,4.3
+707,Gifu University,Gifu University Library,4.6,8.0,0.37,601,4.3
+707,University of Jyväskylä,Jyväskylä University Library,4.6,47.0,0.37,358,4.3
+707,Universiti Malaysia Pahang,Perpustakaan Universiti Malaysia Pahang (UMP) Kampus Pekan,4.5,24.0,0.37,801,4.2
+707,Harvard University,Malmö University Orkanen Library,4.5,36.0,0.37,5,4.2
+707,Qatar University,Qatar University Library,4.5,101.0,0.37,224,4.2
+707,Tel Aviv University,Elias Sourasky Central Library,4.5,54.0,0.37,255,4.2
+707,Indian Institute of Technology Bhubaneswar,"Central Library, IIT Bhubaneswar",4.2,6.0,0.37,701,4.0
+707,George Mason University,Fenwick Library,4.4,55.0,0.37,801,4.0
+707,Universidad Nacional del Sur,Biblioteca Central UNS,1.0,1.0,0.37,1201,3.8
+707,Universidade de Vigo,Central Library of Vigo,4.1,24.0,0.37,1001,3.7
+707,Universidade de Santiago de Compostela,University Library,4.0,48.0,0.37,701,3.4
+728,University of New Hampshire,Dimond Library,5.0,20.0,0.36,801,4.8
+728,University of Delaware,Morris Library,4.8,47.0,0.36,531,4.7
+728,Universidad Nacional de Río Cuarto - UNRC,Biblioteca Central UNRC Juan Filloy,4.8,57.0,0.36,1001,4.7
+728,Universidad Michoacana de San Nicolás de Hidalgo,Biblioteca Pública Universitaria y Fondo Antiguo,4.8,51.0,0.36,?,4.7
+728,Budapest University of Technology and Economics,BME OMIKK,4.8,65.0,0.36,801,4.7
+728,Colegio de México,Daniel Cosío Villegas Library,4.8,38.0,0.36,?,4.6
+728,Universitatea de Vest din Timisoara / West University of Timisoara,Central University Library Eugen Todoran,4.8,33.0,0.36,1001,4.6
+728,Lucian Blaga University of Sibiu,Central University Library,4.9,15.0,0.36,1201,4.6
+728,Universidad Nacional de Mar del Plata,Biblioteca Central de la Universidad Nacional de Mar del Plata,4.8,30.0,0.36,1001,4.6
+728,University of Niš,Никола Тесла 💡,4.9,18.0,0.36,1001,4.6
+728,University of Texas at Austin,Fine Arts Library,4.8,13.0,0.36,67,4.5
+728,Universidad de Cuenca,Documentation Center Juan Bautista Vázquez,4.7,54.0,0.36,?,4.5
+728,Universidad Católica de Colombia,Biblioteca Cardenal Darío Castrillón Hoyos,5.0,8.0,0.36,1201,4.5
+728,Airlangga University,Universitas Airlangga Library Campus B,4.7,46.0,0.36,465,4.5
+728,Brno University of Technology,Brno University of Technology,4.7,68.0,0.36,701,4.5
+728,Case Western Reserve University,Kelvin Smith Library,4.7,47.0,0.36,161,4.5
+728,Seoul National University of Science and Technology,Central library,4.8,20.0,0.36,1001,4.5
+728,University of Kragujevac,Univerzitetska biblioteka u Kragujevcu,4.8,16.0,0.36,1201,4.5
+728,Al Ain University,Zayed Central Library,4.6,84.0,0.36,701,4.4
+728,Universidad Nacional del Litoral,Universidad Nacional del Litoral - Rectorado,4.6,400.0,0.36,1201,4.4
+728,Universidad Central del Ecuador,Biblioteca Central UCE,4.7,27.0,0.36,1001,4.4
+728,Victoria University,University of Houston-Victoria Library,4.7,12.0,0.36,601,4.4
+728,Universidade Federal de Pelotas,Biblioteca de Ciências Sociais - Universidade Federal de Pelotas (UFPEL),4.7,6.0,0.36,1001,4.3
+728,Universidad Pontificia Bolivariana,Library,4.6,51.0,0.36,651,4.3
+728,Universidade Federal do Rio de Janeiro,Central Library CCMN - UFRJ,4.6,24.0,0.36,369,4.3
+728,Complutense University of Madrid,Biblioteca Facultad Ciencias de la Información,5.0,3.0,0.36,223,4.3
+728,New Jersey Institute of Technology (NJIT),Robert W. Van Houten Library,4.6,54.0,0.36,701,4.3
+728,University of Saskatchewan,Murray Library,4.5,17.0,0.36,458,4.2
+728,Universidad Autónoma del Estado de Morelos (UAEM),Biblioteca Central UAEM,4.5,62.0,0.36,1201,4.2
+728,University of Colorado Boulder,Norlin Library,4.5,66.0,0.36,251,4.2
+728,Católica de Córdoba,Library System. Catholic University of Córdoba,4.5,2.0,0.36,1001,4.2
+728,Universidad Nacional Autónoma de Honduras (UNAH),UNAH Library,4.5,31.0,0.36,1201,4.2
+728,Sciences Po,SCIENCES-PO - BIBLIOTHÈQUE,4.5,21.0,0.36,261,4.2
+728,Pontificia Universidad Católica Argentina,Biblioteca Central - UCA,4.3,7.0,0.36,322,4.1
+728,Emory University,Robert W. Woodruff Library,4.4,26.0,0.36,160,4.1
+728,Universidade Federal do Estado do Rio de Janeiro - UNIRIO,UNIRIO - Central Library,4.4,20.0,0.36,?,4.1
+728,University of Bialystok,Library of Bialystok Technical University,4.4,50.0,0.36,1001,4.0
+728,Universidad Central de Venezuela,Central Library - UCV,4.4,85.0,0.36,701,4.0
+728,University of Messina (UniME),Biblioteca di Economia,4.3,18.0,0.36,801,4.0
+728,Università degli Studi della Tuscia (University of Tuscia),Tuscia University,4.4,69.0,0.36,1001,4.0
+728,Karaganda State Technical University,Karaganda State Technical University,4.4,424.0,0.36,751,4.0
+728,Kyoto Institute of Technology,Kyoto Institute of Technology Library,3.8,4.0,0.36,801,3.9
+728,University of Babylon,the central Library,1.0,1.0,0.36,1201,3.8
+728,Universidad Carlos III de Madrid (UC3M),Biblioteca del Campus Madrid Puerta de Toledo UC3M,3.9,7.0,0.36,351,3.8
+728,Ahlia University,Ahlia University,4.3,151.0,0.36,?,3.8
+728,Universidade Católica Portuguesa - UCP,University Library S. John Paul II,4.0,10.0,0.36,801,3.8
+728,Wroclaw University of Science and Technology (WRUST),Wrocław University Library,4.2,117.0,0.36,801,3.6
+728,University of Wroclaw,Wrocław University Library,4.2,117.0,0.36,801,3.6
+728,University of the Basque Country,UPV/EHU Biblioteka Leioa,3.8,43.0,0.36,701,3.1
+728,Universidad Autónoma de Aguascalientes,Biblioteca de la Infotéca Universitaria UAA,,,0.36,?,
+728,University of Trieste,Sala de Estudio Edificio D,,,0.36,651,
+779,University of Pennsylvania,Van Pelt Library,4.8,72.0,0.35,13,4.7
+779,Universitas Andalas,Perpustakaan Universitas Andalas,4.7,182.0,0.35,1201,4.6
+779,University of South Bohemia,Akademická knihovna Jihočeské univerzity v Českých Budějovicích,4.8,24.0,0.35,?,4.6
+779,Universidad de los Andes - Chile,Universidad de los Andes,4.7,582.0,0.35,801,4.6
+779,Technical University of Lublin,University of Technology Library,4.8,15.0,0.35,1001,4.5
+779,University of Peradeniya,University Main Library,4.8,20.0,0.35,1001,4.5
+779,Belarusian State University,Fundamental'naya Biblioteka Bgu,4.9,9.0,0.35,295,4.5
+779,University of Cambridge,Cambridge University Library,4.6,137.0,0.35,3,4.4
+779,Kasetsart University,"Main Library, Kasetsart University",4.6,67.0,0.35,801,4.4
+779,University of Bergen,University of Bergen Library,4.7,19.0,0.35,199,4.4
+779,University of Rzeszów,Library of the University of Rzeszow,4.6,41.0,0.35,?,4.3
+779,Riga Stradins University,"Rīgas Centrālās bibliotēkas filiālbibliotēka ""Pārdaugava""",4.5,11.0,0.35,801,4.2
+779,University of Huddersfield,University of Huddersfield Library,4.5,26.0,0.35,701,4.2
+779,Universidade Federal do Paraná - UFPR,UFPR - Central Library,4.5,15.0,0.35,801,4.2
+779,University of Jordan,Jordan University Library,4.4,196.0,0.35,601,4.0
+779,Universiti Malaysia Sarawak (UNIMAS),Centre for Academic Information Services (CAIS),4.3,21.0,0.35,1001,4.0
+779,University of Alicante,General Library,4.3,156.0,0.35,801,3.8
+779,Prince Mohammad Bin Fahd university,The Library,3.9,7.0,0.35,701,3.8
+779,Osaka Prefecture University,Library and Science Informationa Center(C5),3.4,7.0,0.35,701,3.5
+798,Michigan Technological University,J. Robert Van Pelt and John and Ruanne Opie Library,4.9,46.0,0.34,651,4.8
+798,University of Hyderabad,"IGM Library, UoH",4.8,76.0,0.34,651,4.7
+798,University of Balamand,Issam Fares Library Learning Center,5.0,9.0,0.34,511,4.5
+798,Ivan Franko National University of Lviv,Naukova Biblioteka Lʹvivsʹkoho Natsionalʹnoho Universytetu Imeni Ivana Franka,4.7,86.0,0.34,1001,4.5
+798,Universidad de San Andrés - UdeSA,Max von Buch Library,5.0,8.0,0.34,701,4.5
+798,V. N. Karazin Kharkiv National University,Tsentralʹna Naukova Biblioteka Kharkivsʹkoho Natsionalʹnoho Universytetu Im. V.n.karazina,4.8,16.0,0.34,511,4.5
+798,Tecnológico de Costa Rica -TEC,Learning Commons. Sistema de Bibliotecas del TEC,4.8,13.0,0.34,801,4.5
+798,Universidade da Coruña,Biblioteca de Socioloxía e CC. da Comunicación,5.0,7.0,0.34,801,4.5
+798,Khoja Akhmet Yassawi International Kazakh-Turkish University,Қожа Ахмет Ясауи атындағы Халықаралық Қазақ-Түрік Университеті,4.6,539.0,0.34,?,4.4
+798,University of Waikato,The University of Waikato Library,4.6,34.0,0.34,373,4.3
+798,University of Porto,Library of the Faculty of Letters of the University of Porto,4.6,10.0,0.34,295,4.3
+798,Athens University of Economics and Business,Library of Athens University of Economics and Business,4.7,3.0,0.34,1001,4.3
+798,University of Calcutta,"Central Library, University Of Calcutta",4.6,27.0,0.34,801,4.3
+798,Universidad Rey Juan Carlos,Biblioteca Universidad Rey Juan Carlos,4.5,60.0,0.34,1001,4.2
+798,Moscow City University,Scientific Library,4.5,51.0,0.34,1201,4.2
+798,MGIMO University,Scientific Library,4.5,51.0,0.34,362,4.2
+798,Umm Al-Qura University,30-King Abdullah Library,4.5,142.0,0.34,447,4.2
+798,Moscow Pedagogical State University,Scientific Library,4.5,51.0,0.34,1201,4.2
+798,Lomonosov Moscow State University,Scientific Library,4.5,51.0,0.34,78,4.2
+798,University College Dublin,James Joyce Library UCD,4.3,80.0,0.34,173,3.8
+798,Yeshiva University,Mendel Gottesman Library,4.0,15.0,0.34,252,3.7
+798,Université Paul Sabatier Toulouse III,Université Paul Sabatier - BU Santé Rangueil,3.9,21.0,0.34,551,3.5
+798,Universidad Autónoma de Madrid,UAM Biblioteca,3.3,10.0,0.34,207,3.3
+821,Escuela Politécnica Nacional,Escuela Politecnica Nacional,4.7,329.0,0.33,1001,4.6
+821,Wageningen University & Research,Wageningen University & Research,4.7,462.0,0.33,123,4.6
+821,Università degli Studi di Pavia,University Library of Pavia,4.8,33.0,0.33,561,4.6
+821,Universidad de La Serena,Biblioteca Central Irma Salas Silva,5.0,13.0,0.33,1201,4.6
+821,Universidad Simón Bolívar (USB),Simón Bolívar University,4.7,436.0,0.33,801,4.6
+821,KU Leuven,Universiteitsbibliotheek en bibliotheektoren,4.7,236.0,0.33,70,4.6
+821,Universiti Utara Malaysia (UUM),Perpustakaan Sultanah Bahiyah UUM,4.7,86.0,0.33,511,4.5
+821,Kazan (Volga region) Federal University,Научная библиотека КФУ им. Н. И. Лобачевского,4.7,79.0,0.33,347,4.5
+821,Yarmouk University,مكتبة الحسين بن طلال - جامعة اليرموك,4.7,91.0,0.33,1201,4.5
+821,Manchester Metropolitan University (MMU),All Saints Library,4.6,77.0,0.33,801,4.4
+821,Universidad Politécnica de Madrid (UPM),Servicio de Biblioteca Universitaria de la UPM,5.0,1.0,0.33,459,4.3
+821,Plekhanov Russian University of Economics,Im. Plekhanova G.v. Ekonomicheskoy Akademii Ros. Bibliotechno-Informatsionnyy Tsentr,5.0,2.0,0.33,701,4.3
+821,Bar-Ilan University,The Wurzweiler Central Library,4.6,23.0,0.33,477,4.3
+821,Hongik University,Hongik University Law Library,5.0,1.0,0.33,1201,4.3
+821,Université de Lorraine,"Bibliothèque universitaire Droit & Sciences économiques, Nancy",4.6,20.0,0.33,801,4.3
+821,University of Hawaiʻi at Mānoa,Thomas Hale Hamilton Library,4.6,23.0,0.33,340,4.3
+821,Universidade Nova de Lisboa,Biblioteca Almada Negreiros,5.0,1.0,0.33,431,4.3
+821,Universidad Industrial de Santander - UIS,Brookens Library,4.4,10.0,0.33,1001,4.1
+821,"University of Rome ""Tor Vergata""","""Historical Philosophical Literary Area"" Library | Tor Vergata School of Humanities",4.4,7.0,0.33,494,4.1
+821,University of West Bohemia,"Filozofická a právnická knihovna, Západočeská univerzita v Plzni",4.0,3.0,0.33,1001,4.0
+821,Technische Universität Wien,TU Vienna University Library,4.4,118.0,0.33,180,4.0
+821,Università di Padova,University Library of Padua,4.3,22.0,0.33,242,4.0
+821,City University of New York,"The Graduate Center Library, CUNY",4.3,20.0,0.33,701,4.0
+821,University at Albany SUNY,University Library,4.2,17.0,0.33,751,3.9
+821,Université Laval,Library of Laval University,4.2,14.0,0.33,414,3.9
+821,Université du Québec,Library of Laval University,4.2,14.0,0.33,591,3.9
+821,Birzeit university,BZU HUB,4.3,292.0,0.33,1201,3.8
+821,S.D. Asfendiyarov Kazakh National Medical University,Asfendiyarov Kazakh National Medical University,4.3,738.0,0.33,601,3.8
+821,Sapienza University of Rome,Biblioteca universitaria Alessandrina,3.9,27.0,0.33,171,3.4
+821,South Ural State University (National Research University),"Yuzhno-Ural'skiy Gosudarstvennyy Universitet, Zaochnyy Inzhenerno-Ekonomicheskiy Fakul'tet",4.1,594.0,0.33,801,3.3
+851,Rice University,Fondren Library,4.8,107.0,0.32,94,4.7
+851,Jamia Millia Islamia,Dr. Zakir Husain Library,4.7,250.0,0.32,751,4.6
+851,Universidad de Sonora,Tuolumne County Library,4.8,28.0,0.32,1201,4.6
+851,Indiana University Bloomington,Herman B Wells Library,4.7,82.0,0.32,311,4.5
+851,Financial University under the Government of the Russian Federation,Financial University under the Government of the Russian Federation,4.6,328.0,0.32,801,4.4
+851,Ufa State Aviation Technical University,Nauchno-Tekhnicheskaya Biblioteka Ugatu,4.8,9.0,0.32,701,4.4
+851,University of Primorska,Education Library,4.7,21.0,0.32,?,4.4
+851,University of Calabria,"Biblioteca interdipartimentale di Scienze Economiche e Sociali ""Ezio Tarantelli""",4.9,7.0,0.32,1001,4.4
+851,University of Southern Queensland,UniSQ Library,4.7,15.0,0.32,701,4.4
+851,San Francisco State University,J. Paul Leonard Library,4.6,51.0,0.32,?,4.3
+851,University of Eastern Finland,Joensuu Campus Library | UEF Library,4.6,26.0,0.32,521,4.3
+851,Humboldt State University,Cal Poly Humboldt Library,4.6,27.0,0.32,?,4.3
+851,Universidad de Castilla-La Mancha,Biblioteca Facultad de Derecho y Ciencias Sociales (UCLM),5.0,1.0,0.32,1001,4.3
+851,Széchenyi István University,University Library,4.7,3.0,0.32,801,4.3
+851,University of Florida,University of Florida Libraries,4.6,14.0,0.32,173,4.3
+851,Samara National Research University (Samara University),Samara University,4.5,490.0,0.32,581,4.2
+851,King Fahd University of Petroleum & Minerals,King Fahd University of Petroleum and Minerals,4.5,1459.0,0.32,163,4.2
+851,National Cheng Kung University (NCKU),NCKU Main Library,4.5,307.0,0.32,252,4.2
+851,Universidad de Caldas,Biblioteca Central Universidad de Caldas,4.0,1.0,0.32,?,4.1
+851,University of New Brunswick,Harriet Irving Library,4.4,23.0,0.32,651,4.1
+851,Université de Strasbourg,National University Library of Strasbourg,4.4,237.0,0.32,421,4.0
+851,Saken Seifullin Kazakh Agrotechnical University,Kazakh State Agrotechnical University,4.4,483.0,0.32,1001,4.0
+851,Abu Dhabi University,Abu Dhabi University,4.4,518.0,0.32,701,4.0
+851,University of Palermo,Communal Library Palermo,4.3,36.0,0.32,801,3.9
+851,National Research University Moscow Power Engineering Institute (MPEI),Moscow Power Engineering Institute,4.3,534.0,0.32,1201,3.8
+851,Applied Science University - Bahrain,Applied Science University,4.3,107.0,0.32,591,3.8
+851,University of Pannonia,Veszprémi Pannon Egyetem Egyetemi Könyvtár és Levéltár,3.9,8.0,0.32,?,3.8
+851,Cairo University,New Central Library,4.2,105.0,0.32,571,3.6
+851,Alma Mater Studiorum - University of Bologna,University Library of Bologna,4.1,57.0,0.32,166,3.5
+880,Sultan Qaboos University,Main Library,4.7,167.0,0.31,368,4.6
+880,University of Southern California,Doheny Memorial Library,4.8,29.0,0.31,112,4.6
+880,Rochester Institute of Technology (RIT),Wallace Library,4.7,48.0,0.31,1001,4.5
+880,Leiden University,Leiden University Library,4.6,102.0,0.31,112,4.4
+880,University of Oxford,Bodleian Library,4.6,427.0,0.31,2,4.4
+880,College of William and Mary,Earl Gregg Swem Library,4.6,35.0,0.31,651,4.3
+880,Universidade Federal de São Paulo,Biblioteca Campus São Paulo Unifesp,5.0,2.0,0.31,434,4.3
+880,University of Florence,Architecture Library of the University of Florence,4.6,26.0,0.31,451,4.3
+880,"Trinity College Dublin, The University of Dublin",Trinity College Library,4.5,533.0,0.31,101,4.2
+880,United Arab Emirates University,United Arab Emirates University,4.5,554.0,0.31,288,4.2
+880,Far Eastern Federal University,Biblioteka Dvfu,4.0,6.0,0.31,461,3.9
+880,University of Turin,Turin National University Library,3.9,130.0,0.31,485,3.0
+892,Universidad Nacional de Córdoba - UNC,Biblioteca Mayor | U.N.C.,4.9,50.0,0.30,801,4.8
+892,University of New Mexico,Zimmerman Library,4.8,46.0,0.30,651,4.7
+892,Florida International University,Steven and Dorothea Green Library,4.8,80.0,0.30,801,4.7
+892,Saint Joseph University of Beirut (USJ),Université Saint Joseph - Campus des Sciences Médicales,4.8,28.0,0.30,531,4.6
+892,Yuan Ze University,Yuan-Ze University Library,4.7,114.0,0.30,1001,4.6
+892,Universidad de Talca,Central Library University of Talca,4.9,15.0,0.30,1001,4.6
+892,Universidad Nacional de Cuyo,Central Library UNCUYO-SID,4.8,44.0,0.30,1001,4.6
+892,University of Rijeka,Sveučilište u Rijeci,4.7,142.0,0.30,1001,4.6
+892,University of Naples - Federico II,Biblioteca della Facoltà di Lettere e Filosofia dell'Università degli Studi di Napoli Federico II,4.8,16.0,0.30,424,4.5
+892,University of Haifa,Younes and Soraya Nazarian Library,4.8,17.0,0.30,701,4.5
+892,University of Northern British Columbia,Geoffrey R. Weller Library,5.0,6.0,0.30,?,4.5
+892,Warsaw University of Technology,Biblioteka Główna Politechniki Warszawskiej,4.7,59.0,0.30,501,4.5
+892,Université Paris-Saclay,Bibliothèque CentraleSupélec campus Paris-Saclay (Eiffel),4.8,6.0,0.30,86,4.4
+892,Institut National des Sciences Appliquées de Lyon (INSA),INSA Lyon,4.6,270.0,0.30,531,4.4
+892,Georgia State University,Georgia State University Library,4.6,83.0,0.30,751,4.4
+892,The Hebrew University of Jerusalem,Bloomfield Library for the Humanities and Social Sciences,4.6,71.0,0.30,198,4.4
+892,Universidad de Córdoba - Colombia,University of Córdoba,4.6,516.0,0.30,1001,4.4
+892,Loughborough University,Pilkington Library,4.6,66.0,0.30,231,4.4
+892,University of Helsinki,Helsingin yliopiston pääkirjasto Kaisa-talo,4.6,160.0,0.30,104,4.4
+892,University of Karachi,Mahmood Husain Main Library Karachi University,4.6,71.0,0.30,1001,4.4
+892,Universidade do Estado do Rio de Janeiro (UERJ),Rede Sirius - Rio de Janeiro State University - Library Network,5.0,3.0,0.30,1001,4.3
+892,Universidad de Chile,Biblioteca Facultad de Filosofía y Humanidades de la Universidad de Chile,5.0,1.0,0.30,183,4.3
+892,Babes-Bolyai University,Lucian Blaga Central University Library,4.5,83.0,0.30,1001,4.2
+892,"University of Missouri, Kansas City",Miller Nichols Library,4.5,77.0,0.30,801,4.2
+892,University of Basrah,Basra book bank,4.5,2.0,0.30,1201,4.2
+892,Technical University of Cluj-Napoca,Lucian Blaga Central University Library,4.5,83.0,0.30,1201,4.2
+892,Technical University of Liberec,TUL University Library,4.5,8.0,0.30,801,4.2
+892,NJSC KIMEP University,KIMEP,4.5,190.0,0.30,801,4.2
+892,Indian Institute of Technology Hyderabad,IITHLibrary,4.3,3.0,0.30,591,4.1
+892,Université de Liège,General Management Of The University Of Liege's Libraries,3.7,3.0,0.30,480,4.0
+892,University of Bern,Juristische Bibliothek (JBB),4.0,5.0,0.30,119,4.0
+892,Universidad Peruana Cayetano Heredia (UPCH),Universidad Peruana Cayetano Heredia,4.4,717.0,0.30,651,4.0
+892,University of Ghana,Balme Library,4.4,340.0,0.30,1001,4.0
+892,Sunway University,Sunway University,4.4,514.0,0.30,651,4.0
+892,Warsaw University of Life Sciences – SGGW (WULS-SGGW),Agricultural University Library,4.1,8.0,0.30,1001,3.9
+892,Martin-Luther-Universität Halle-Wittenberg,University and State Library of Saxony-Anhalt,4.1,24.0,0.30,461,3.7
+892,Universidad de Sevilla,Library of the University of Seville,4.0,47.0,0.30,551,3.4
+892,Cleveland State University,Cleveland State University Library,3.2,13.0,0.30,?,3.0
+930,Bogor Agricultural University,Library,4.8,394.0,0.29,511,4.8
+930,Kazakh-British Technical University,Al'-Farabi Library,4.7,138.0,0.29,801,4.6
+930,Al-Farabi Kazakh National University,Al'-Farabi Library,4.7,138.0,0.29,175,4.6
+930,Universiti Kebangsaan Malaysia (UKM),Tun Seri Lanang Library,4.7,99.0,0.29,144,4.6
+930,University of Pecs,South Transdanubian Regional Library and Knowledge Centre,4.7,166.0,0.29,651,4.6
+930,HUFS - Hankuk (Korea) University of Foreign Studies,Hankuk University of Foreign Studies - Seoul Campus,4.6,606.0,0.29,445,4.4
+930,Universidad Austral de Chile,Biblioteca Central UACh,4.6,29.0,0.29,1001,4.3
+930,The National University of Science and Technology MISIS,MISIS,4.5,429.0,0.29,487,4.2
+930,Universiti Teknologi Brunei,UTB Library,4.0,2.0,0.29,344,4.1
+930,Siksha 'O' Anusandhan (Deemed to be University),Siksha 'O' Anusandhan (Deemed to be University),4.4,692.0,0.29,801,4.0
+930,Don State Technical University,Biblioteka Asa Dgtu,4.0,4.0,0.29,1201,4.0
+930,Southern Federal University,Biblioteka Asa Dgtu,4.0,4.0,0.29,531,4.0
+930,German University in Cairo,GUC Library,4.0,3.0,0.29,1201,4.0
+930,Academician Y.A. Buketov Karaganda University,Karagandy State University,4.4,319.0,0.29,801,4.0
+930,University of Bahrain,"Central Library, University of Bahrain",3.0,2.0,0.29,801,3.9
+945,University of Pardubice,University of Pardubice - University Library,4.8,28.0,0.28,1001,4.6
+945,Universidad Nacional de San Luis,San Luis Library,4.8,35.0,0.28,801,4.6
+945,Kyrgyz-Turkish Manas University,КТМУ Чет тилдер жогорку мектеби,4.7,173.0,0.28,?,4.6
+945,Karl-Franzens-Universitaet Graz,University of Graz Library,4.7,43.0,0.28,651,4.5
+945,Washington State University,Washington State University Libraries,4.7,15.0,0.28,427,4.4
+945,Pontificia Universidad Católica de Valparaíso,Pontifical Catholic University of Valparaíso,4.4,308.0,0.28,751,4.0
+945,Universidad Latinoamericana de Ciencia y Tecnología Costa Rica (ULACIT),University of Science and Technology,4.4,206.0,0.28,?,4.0
+945,Università Cattolica del Sacro Cuore,Università Cattolica del Sacro Cuore Library,3.7,3.0,0.28,551,4.0
+945,University of Brescia,Università Cattolica del Sacro Cuore Library,3.7,3.0,0.28,751,4.0
+945,Université de Nantes,Nantes Université - BU Santé,4.1,37.0,0.28,801,3.6
+945,"National Technical University ""Kharkiv Polytechnic Institute""","NTU ""KhPI""",4.2,904.0,0.28,651,3.5
+945,Université Claude Bernard Lyon 1,Claude Bernard University Lyon 1,4.1,231.0,0.28,651,3.4
+945,National Technical University of Athens,Βιβλιοθήκη Κτιρίου Αβέρωφ,,,0.28,421,
+958,Ecole des Ponts ParisTech,École des ponts ParisTech,4.7,119.0,0.27,245,4.6
+958,Novosibirsk State Technical University,Nauchnaya Biblioteka Ngtu Im. G.p. Lyshchinskogo,4.8,42.0,0.27,801,4.6
+958,KAIST - Korea Advanced Institute of Science & Technology,"Korea Advanced Institute of Science & Technology (KAIST), Daejeon",4.7,448.0,0.27,41,4.6
+958,Gwangju Institute of Science and Technology (GIST),GIST | Gwangju Institute of Science and Technology,4.7,163.0,0.27,305,4.6
+958,National University of Kyiv-Mohyla Academy (NaUKMA),"Naukova Biblioteka Natsionalʹnoho Universytetu ""Kyyevo-Mohylyansʹka Akademiya""",4.9,15.0,0.27,1001,4.6
+958,Peter the Great St. Petersburg Polytechnic University,Informatsionno-Bibliotechnyy Kompleks Sankt-Peterburgskogo Politekhnicheskogo Universiteta Petra Velikogo,4.9,12.0,0.27,393,4.5
+958,USI - Università della Svizzera italiana,Biblioteca universitaria Lugano,4.7,28.0,0.27,240,4.5
+958,Universidad de Tarapaca,Biblioteca Central Universidad de Tarapacá,4.7,35.0,0.27,?,4.5
+958,Freie Universitaet Berlin,Library of the Free University Berlin,4.7,35.0,0.27,127,4.5
+958,Chonnam National University,Chonnam National University Central Library,4.7,33.0,0.27,751,4.5
+958,Massachusetts Institute of Technology (MIT),Hayden Library,4.7,43.0,0.27,1,4.5
+958,University of Dubai,American University in Dubai (AUD) Library,5.0,5.0,0.27,?,4.4
+958,Université Grenoble Alpes,Bibliothèque Universitaire Joseph-Fourier,4.6,126.0,0.27,314,4.4
+958,Université de Tunis,Tunis University,5.0,4.0,0.27,1201,4.4
+958,Chungbuk National University,Chungbuk National University Gaesin Campus,4.6,289.0,0.27,1001,4.4
+958,Universiti Sains Malaysia (USM),"University of Science, Malaysia",4.6,592.0,0.27,147,4.4
+958,American University in Dubai,American University in Dubai (AUD) Library,5.0,5.0,0.27,601,4.4
+958,Óbuda University,Óbudai Egyetem - Doberdó úti könyvtár,4.8,9.0,0.27,?,4.4
+958,Universidad Austral,Edificio de Grado - Universidad Austral,4.6,185.0,0.27,400,4.4
+958,Pukyong National University,Pukyong National University (PKNU) - Daeyeon Campus,4.6,399.0,0.27,1001,4.4
+958,Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),Moskovskiy Fiziko-Tekhnicheskiy Institut,4.6,691.0,0.27,290,4.4
+958,Universiti Teknologi Malaysia,"Raja Zarith Sofiah Library Building, UTM Library, UTM Johor Bahru",4.6,190.0,0.27,191,4.4
+958,Hanyang University,Hanyang University,4.6,852.0,0.27,156,4.4
+958,Universidad de La Habana,Biblioteca Central de la Universidad de La Habana,5.0,3.0,0.27,501,4.3
+958,University of Oulu,Oulun yliopiston kirjasto,4.6,25.0,0.27,377,4.3
+958,Universidade Federal Fluminense,Law School Library UFF,5.0,3.0,0.27,1001,4.3
+958,Missouri University of Science and Technology,Curtis Laws Wilson Library,4.6,38.0,0.27,511,4.3
+958,Brock University,Brock University Library,5.0,1.0,0.27,1001,4.3
+958,University of Witwatersrand,GeoMaths Library,4.7,3.0,0.27,424,4.3
+958,National University of Ireland Galway,"James Hardiman Library, NUI Galway",4.5,44.0,0.27,258,4.2
+958,University of Lausanne,BCUL website Unithèque,4.5,43.0,0.27,176,4.2
+958,Pontificia Universidad Católica del Ecuador (PUCE),Biblioteca General Puce,4.5,17.0,0.27,1001,4.2
+958,"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",Igor Sikorsky Kyiv Polytechnic Institute,4.5,2848.0,0.27,701,4.2
+958,Universidade Federal de Santa Maria,Sector Library CT,4.3,6.0,0.27,1201,4.1
+958,Universidad del Salvador,Biblioteca Central - Universidad del Salvador (USAL),4.4,9.0,0.27,1201,4.1
+958,California State University - Los Angeles,Cal State LA University Library,4.4,50.0,0.27,?,4.0
+958,Hallym University,Hallym University,4.4,194.0,0.27,561,4.0
+958,"Queen Margaret University , Edinburgh",Queen Margaret University,4.4,107.0,0.27,801,4.0
+958,Almaty Technological University,Almaty Technological University,4.4,518.0,0.27,?,4.0
+958,Universidad del Zulia,University of Zulia,4.4,80.0,0.27,?,4.0
+958,Kazan National Research Technological University,Библиотека Казанского Государственного Медицинского Университета,4.0,3.0,0.27,801,4.0
+958,National University of Life and Environmental Sciences of Ukraine,National University of Life and Environmental Sciences of Ukraine,4.4,917.0,0.27,?,4.0
+958,Université PSL,PSL Research University,4.2,18.0,0.27,44,3.9
+958,Abai Kazakh National Pedagogical University,The National Pedagogical University named after Abai,4.3,316.0,0.27,551,3.8
+958,Irkutsk State University,Nauchno-Tekhnicheskaya Biblioteka Irkutskogo Natsional'nogo Issledovatel'skogo Tekhnicheskogo Universiteta,4.3,246.0,0.27,1001,3.8
+958,Ankara Üniversitesi,Ankara Üniversitesi Kütüphane ve Dokümantasyon Daire Başkanlığı,3.8,6.0,0.27,801,3.8
+958,Management and Science University,Management & Science University,4.3,897.0,0.27,601,3.8
+958,Kazakh Ablai Khan University of International Relations and World Languages,Kazakh Ablai Khan University of International Relations and World Languages,4.3,265.0,0.27,801,3.8
+958,The Catholic University of Korea,Catholic University of Korea Songsin Campus,4.2,57.0,0.27,482,3.7
+958,Sechenov University,Фундаментальная учебная библиотека Первого МГМУ им. И.М. Сеченова,4.2,44.0,0.27,651,3.7
+958,Immanuel Kant Baltic Federal University,Балтийский федеральный университет имени Иммануила Канта,4.2,292.0,0.27,651,3.6
+958,University of Toronto,Engineering & Computer Science Library,3.7,11.0,0.27,26,3.6
+958,Taras Shevchenko National University of Kyiv,"M. Maksymovych Scientific Library, Taras Shevchenko National University of Kyiv",4.1,48.0,0.27,601,3.6
+958,Satbayev University,Satbayev University,4.2,608.0,0.27,501,3.5
+958,Université Paris 1 Panthéon-Sorbonne,Cujas Library,4.0,31.0,0.27,290,3.5
+958,Sorbonne University,Cujas Library,4.0,31.0,0.27,72,3.5
+958,Université Jean Moulin Lyon 3,Bibliothèque de la Manufacture des Tabacs - Université Jean Moulin Lyon 3,4.0,54.0,0.27,1001,3.4
+958,University of Naples Parthenope,Università degli Studi di Napoli Parthenope,4.0,79.0,0.27,801,3.3
+958,Université de Tunis El Manar,Université de Tunis El Manar,3.9,92.0,0.27,1201,3.1
+958,University of Parma,Biblioteca Centrale di Giurisprudenza - UniPr,,,0.27,801,
+1018,University of Washington,Suzzallo and Allen Libraries,4.8,208.0,0.26,85,4.8
+1018,Gadjah Mada University,Gadjah Mada University Library,4.8,635.0,0.26,254,4.8
+1018,Universiti Tun Hussein Onn University of Malaysia (UTHM),UTHM Tunku Tun Aminah Library,4.8,94.0,0.26,?,4.7
+1018,Palacký University Olomouc,Knihovna Univerzity Palackého Zbrojnice,4.7,57.0,0.26,601,4.5
+1018,Sumy State University,Library SSU,4.7,29.0,0.26,701,4.5
+1018,University of Tyumen,Biblioteka Tyumgu,4.8,20.0,0.26,801,4.5
+1018,Universiti Malaysia Sabah (UMS),Universiti Malaysia Sabah Library,4.7,82.0,0.26,1001,4.5
+1018,Universitat Politècnica de Catalunya · BarcelonaTech (UPC),"Universitat Politècnica de Catalunya. Servei de Biblioteques, Publicacions i Arxius",5.0,1.0,0.26,319,4.3
+1018,Abo Akademi University,Boktornet,4.8,4.0,0.26,601,4.3
+1018,University of Tulsa,McFarlin Library,4.5,11.0,0.26,801,4.2
+1018,Russian State Agrarian University - Moscow Timiryazev Agricultural Academy,Russian State Agricultural University,4.4,558.0,0.26,1201,4.0
+1018,Tokyo University of Agriculture and Technology,Tokyo University of Agriculture and Technology,4.4,123.0,0.26,601,4.0
+1018,Kharkiv National University of Radio Electronics,Kharkiv National University of Radio Electronics,4.4,996.0,0.26,?,4.0
+1018,Bauman Moscow State Technical University,Bauman Moscow State Technical University,4.3,834.0,0.26,281,3.8
+1018,Perm State National Research University,Perm National Research Polytechnic University,4.3,259.0,0.26,801,3.8
+1018,University of British Columbia,Woodward Library,4.0,10.0,0.26,46,3.8
+1018,Université Paris Cité,Library of the International City,3.9,46.0,0.26,261,3.3
+1018,Université Paris-Nanterre,BUFR DSP - Bibliothèque de l'UFR Droit et Science politique de l'Université Paris-Nanterre,,,0.26,1001,
+1036,Institut Teknologi Sepuluh Nopember (ITS Surabaya),ITS Library,4.8,195.0,0.25,751,4.8
+1036,Kyung Hee University,Kyung Hee University Global Campus Library,4.8,95.0,0.25,264,4.7
+1036,University of Brighton,"St Peter's House Library, University of Brighton",4.9,11.0,0.25,801,4.5
+1036,Universidad del Valle,East Travis Gateway Library District Offices,4.8,17.0,0.25,801,4.5
+1036,Sookmyung Women's University,Sookmyung Women's University,4.6,304.0,0.25,1001,4.4
+1036,Uppsala University,"Carolina Rediviva, Uppsala University Library",4.6,96.0,0.25,124,4.4
+1036,Université de Poitiers,Bibliothèque universitaire Michel Foucault,4.7,15.0,0.25,1001,4.4
+1036,University at Buffalo SUNY,University at Buffalo Library Administration,4.7,16.0,0.25,388,4.4
+1036,Université catholique de Louvain (UCLouvain),Bibliothèque de philosophie (UCLouvain),4.7,3.0,0.25,188,4.3
+1036,Vanderbilt University,Central Library,4.7,10.0,0.25,218,4.3
+1036,Central Queensland University (CQUniversity Australia),CQUni Library Rockhampton North Campus,4.6,7.0,0.25,601,4.3
+1036,Khalifa University of Science and Technology,Khalifa University,4.5,374.0,0.25,183,4.2
+1036,Slovak University of Agriculture in Nitra,Slovak Agricultural Library,4.3,7.0,0.25,1001,4.1
+1036,University of Reading,University of Reading Library,4.4,67.0,0.25,202,4.0
+1036,Maastricht University,Maastricht University Inner City Library,4.4,87.0,0.25,233,4.0
+1036,Sejong University,Sejong University,4.4,447.0,0.25,601,4.0
+1036,University of Antwerp,UAntwerpen - Bibliotheek Stadscampus,4.3,32.0,0.25,233,3.9
+1036,University of Tasmania,Morris Miller Library,4.3,32.0,0.25,303,3.9
+1036,Universidad Autónoma de Chile,Autonomous University of Chile,4.3,275.0,0.25,1201,3.8
+1036,"Siberian Federal University, SibFU",Sibirskiy Federal'nyy Universitet,4.3,414.0,0.25,1001,3.8
+1036,University of Debrecen,"Kenézy Life Sciences Library and National Library, University Of Debrecen",4.2,25.0,0.25,591,3.8
+1036,Canadian University Dubai,Canadian University Dubai,4.2,271.0,0.25,601,3.6
+1036,King Faisal University,Gothenburg University,4.1,335.0,0.25,801,3.4
+1036,University of Mumbai,Jawaharlal Nehru Library - Mumbai University,3.6,70.0,0.25,1001,2.6
+1036,Belarusian National Technical University (BNTU),Belarusian National Technical University,3.4,918.0,0.25,751,1.8
+1061,Universiti Pendidikan Sultan Idris (UPSI),Perpustakaan Tuanku Bainun,4.9,60.0,0.24,?,4.9
+1061,Technical University of Kosice,Univerzitná knižnica Technickej univerzity v Košiciach,4.9,38.0,0.24,801,4.8
+1061,Clark University,Robert Hutchings Goddard Library,5.0,21.0,0.24,601,4.8
+1061,University of Sarajevo,National and University Library of Bosnia and Herzegovina,4.9,33.0,0.24,1201,4.7
+1061,University of the Sunshine Coast,USC Sunshine Coast Library,4.9,22.0,0.24,1001,4.7
+1061,University of Khartoum,University of Khartoum Main Library,4.9,25.0,0.24,1201,4.7
+1061,Universidad Tecnológica de Panamá (UTP),Technological University of Panama,4.7,532.0,0.24,801,4.6
+1061,University of Limerick,"Glucksman Library, University of Limerick",4.8,39.0,0.24,501,4.6
+1061,University of Oradea,Biblioteca Universității din Oradea,4.8,40.0,0.24,?,4.6
+1061,Telkom University,Perpustakaan Universitas Telkom (Telkom University Open Library),4.7,123.0,0.24,1001,4.6
+1061,Aalborg University,Aalborg University Library (AUB),4.7,41.0,0.24,326,4.5
+1061,Universitas Sumatera Utara,University of Sumatera Utara Library,4.6,317.0,0.24,1201,4.4
+1061,Heriot-Watt University,Cameron Smail Library,4.9,7.0,0.24,270,4.4
+1061,Lviv Polytechnic National University,Scientific Library Lviv Polytechnic National University,4.7,17.0,0.24,801,4.4
+1061,University of Wisconsin-Madison,Steenbock Memorial Library,4.7,24.0,0.24,75,4.4
+1061,Universitas Hasanuddin,Karaeng Pattingalloang Perpustakaan Pusat Universitas Hasanuddin,4.6,110.0,0.24,1001,4.4
+1061,University of Aberdeen,Taylor Library,5.0,5.0,0.24,205,4.4
+1061,Aarhus University,Royal Danish Library - Aarhus,4.6,84.0,0.24,155,4.4
+1061,Bangor University,"Deiniol Library, Bangor University",4.7,14.0,0.24,601,4.4
+1061,Flinders University,Flinders University Central Library,4.6,7.0,0.24,407,4.3
+1061,Université de Rennes 1,University Library Law-Economics-Management - Rennes 1,4.6,35.0,0.24,801,4.3
+1061,University of Szeged,SZTE Klebelsberg Library,4.6,39.0,0.24,551,4.3
+1061,Tampere University,Tampere University Library LINNA,4.6,8.0,0.24,414,4.3
+1061,Universitat Autònoma de Barcelona,UAB Servei de Biblioteques,5.0,1.0,0.24,209,4.3
+1061,Odessa I.I. Mechnikov National University,Odesa National University Scientific Library,4.6,34.0,0.24,?,4.3
+1061,The University of Adelaide,Barr Smith Library,4.6,51.0,0.24,108,4.3
+1061,Worcester Polytechnic Institute,George C. Gordon Library,4.6,26.0,0.24,751,4.3
+1061,University of Southern Denmark (SDU),University Library of Southern Denmark,4.7,6.0,0.24,309,4.3
+1061,University of Novi Sad,University of Novi Sad,4.5,457.0,0.24,1001,4.2
+1061,Pakistan Institute of Engineering and Applied Sciences (PIEAS),Pakistan Institute of Engineering & Applied Sciences (PIEAS),4.5,594.0,0.24,398,4.2
+1061,Istanbul Bilgi Üniversitesi,Latif Mutlu Library,4.5,22.0,0.24,1001,4.2
+1061,Rutgers University–New Brunswick,Rutgers Art Library,4.5,14.0,0.24,264,4.2
+1061,University of Copenhagen,"Copenhagen University Library, South Campus",4.5,11.0,0.24,79,4.2
+1061,University of Ostrava,University of Ostrava - Main Library,4.5,11.0,0.24,1001,4.2
+1061,Queen's University at Kingston,Douglas Library,4.5,14.0,0.24,240,4.2
+1061,Universite libre de Bruxelles,Université Libre de Bruxelles - Archives & Bibliothèques,4.2,5.0,0.24,207,4.1
+1061,Paris Lodron University of Salzburg,University library Salzburg,4.4,29.0,0.24,801,4.1
+1061,Gunma University,Central Library,4.3,3.0,0.24,701,4.1
+1061,Yokohama City University,Yokohama City University Library and Information Center,4.0,1.0,0.24,487,4.1
+1061,Ghent University,Universiteit Gent Universiteitsbibliotheek,4.4,12.0,0.24,141,4.1
+1061,Qassim University,Prince Faisal Library,4.4,30.0,0.24,801,4.1
+1061,University of Turku,Educarium Library,4.4,5.0,0.24,295,4.1
+1061,Kyushu University,Medical Library of Kyushu University,4.4,5.0,0.24,137,4.1
+1061,Universitas Padjadjaran,Kandaga Unpad,4.4,60.0,0.24,801,4.0
+1061,University of Kansas,Anschutz Library,4.3,11.0,0.24,387,4.0
+1061,Thapar Institute of Engineering & Technology,"Thapar Institute of Engineering & Technology (TIET), Patiala",4.4,1751.0,0.24,1001,4.0
+1061,Jordan University of Science & Technology,Jordan University of Science & Technology,4.4,1950.0,0.24,801,4.0
+1061,Universidad de Guadalajara (UDG),Coordination of Libraries,4.3,38.0,0.24,801,3.9
+1061,Technological University Dublin,TU Dublin Grangegorman Library,3.8,4.0,0.24,801,3.9
+1061,The University of Northampton,University of Northampton,4.3,394.0,0.24,1001,3.8
+1061,Université Lumière Lyon 2,Chevreul University LIbrary,4.3,82.0,0.24,1001,3.8
+1061,Christian-Albrechts-University zu Kiel,University of Kiel,4.3,325.0,0.24,494,3.8
+1061,University of Derby,University of Derby,4.3,336.0,0.24,1001,3.8
+1061,Gebze Yüksek Teknoloji Enstitüsü (GYTE),Gebze Teknik Üniversitesi Kütüphanesi,4.2,56.0,0.24,?,3.7
+1061,Pavol Jozef Šafárik University in Košice,Košice Medical University,4.2,560.0,0.24,601,3.6
+1061,Future University in Egypt,Future University in Egypt,4.2,355.0,0.24,?,3.6
+1061,Altai State University,Altai State University,4.2,257.0,0.24,561,3.6
+1061,Dublin City University,DCU - John & Aileen O'Reilly Library,4.1,35.0,0.24,490,3.6
+1061,Multimedia University (MMU),Siti Hasmah Digital Library Multimedia University,3.9,18.0,0.24,1001,3.6
+1061,German Jordanian University,German Jordanian University,4.2,325.0,0.24,801,3.6
+1061,University of Peshawar,"Central Library, University of Peshawar, Khyber Pakhtunkhwa",4.1,57.0,0.24,?,3.5
+1061,Beirut Arab University,Beirut Arab University,4.1,87.0,0.24,801,3.5
+1061,Boston University,Michael D. Papagiannis Astronomy Library,,,0.24,112,
+1124,Universitas Sebelas Maret,University Library,4.6,251.0,0.23,1201,4.4
+1124,University of Žilina,University Library of the University of Žilina,4.8,11.0,0.23,801,4.4
+1124,Savitribai Phule Pune University,Jayakar Library,4.5,131.0,0.23,591,4.2
+1124,Russian Presidential Academy of National Economy and Public Administration,РАНХиГС,4.4,600.0,0.23,801,4.0
+1124,University of Modena and Reggio Emilia,Biblioteca Umanistica,3.0,1.0,0.23,701,4.0
+1129,Aalto University,Harald Herlin Learning Centre,4.9,29.0,0.22,112,4.7
+1129,Universidad de Guanajuato,Biblioteca Armando Olivares,4.9,17.0,0.22,1201,4.6
+1129,University of Maribor,University Library Maribor,4.7,44.0,0.22,801,4.5
+1129,National and Kapodistrian University of Athens,Library of the School of Philosophy (National and Kapodistrian University of Athens),4.7,77.0,0.22,651,4.5
+1129,Chung Yuan Christian University,"Chang Ching Yu Memorial Library, CYCU",4.6,72.0,0.22,1001,4.4
+1129,University POLITEHNICA of Bucharest,UPB Central Library,4.6,63.0,0.22,1201,4.4
+1129,Universidad Católica del Norte,Professionshøjskolen UCN,4.5,11.0,0.22,1201,4.2
+1129,Cracow University of Technology (Politechnika Krakowska),Library of the Cracow University of Technology,4.4,18.0,0.22,801,4.1
+1129,Université Côte d\'Azur,Bibliothèque universitaire STAPS - Université Côte d'Azur,4.0,3.0,0.22,701,4.0
+1129,University of Tehran,Central Library of University of Tehran,4.4,46.0,0.22,521,4.0
+1129,Texas A&M University,Texas A/S,4.0,36.0,0.22,168,3.5
+1140,Lodz University of Technology,Library of Technical University of Lodz,4.8,57.0,0.21,801,4.7
+1140,Bandung Institute of Technology (ITB),Central Library,4.7,159.0,0.21,303,4.6
+1140,AGH University of Science and Technology,Main Library of the AGH University of Science and Technology,4.7,115.0,0.21,801,4.6
+1140,Universidad de Santander - UDES,University of Santander,4.7,376.0,0.21,?,4.6
+1140,Szent Istvan University,Kosary Domokos Library and Archives,4.9,8.0,0.21,801,4.5
+1140,Vancouver Island University,Vancouver Island University (VIU) Library,4.7,39.0,0.21,?,4.5
+1140,Lebanese American University,Riyad Nassar Library (LAU),5.0,7.0,0.21,581,4.5
+1140,Tallinn University,Tallinn University Academic Library,4.7,48.0,0.21,1001,4.5
+1140,Universitas Indonesia,Universitas Indonesia Library,4.6,771.0,0.21,290,4.4
+1140,Nicolaus Copernicus University,Nicolaus Copernicus University Library,4.6,79.0,0.21,801,4.4
+1140,Universiti Malaysia Terengganu (UMT),PSNZ - Perpustakaan Sultanah Nur Zahirah,4.6,45.0,0.21,1001,4.3
+1140,University of Illinois at Urbana-Champaign,Univ Illinois Library Urbana-Chmp,5.0,2.0,0.21,82,4.3
+1140,Universitas Muhammadiyah Surakarta,UMS Central Library,4.5,88.0,0.21,1201,4.2
+1140,Universidad de Belgrano,Biblioteca Leopoldo Lugones,4.5,57.0,0.21,465,4.2
+1140,Princess Sumaya University for Technology,Princess Sumaya University for Technology,4.5,442.0,0.21,801,4.2
+1140,University of Zagreb,National and University Library in Zagreb,4.5,350.0,0.21,751,4.2
+1140,University of Lodz,University of Lodz Library,4.4,148.0,0.21,801,4.0
+1140,CUNY The City College of New York,Morris Raphael Cohen Library,4.1,12.0,0.21,?,3.9
+1140,"The ""Gheorghe Asachi"" Technical University of Iasi",Technical University Library,4.3,33.0,0.21,1201,3.9
+1140,Alexandru Ioan Cuza University,Technical University Library,4.3,33.0,0.21,1201,3.9
+1140,Mutah University,جامعة مؤتة,4.2,987.0,0.21,1001,3.5
+1140,Stockholm University,Stockholm University Library,4.1,86.0,0.21,148,3.5
+1140,Al Quds University The Arab University in Jerusalem,Al-Quds University,4.1,204.0,0.21,1001,3.4
+1140,The Hashemite University,Hashemite University Library,4.0,43.0,0.21,1201,3.4
+1140,Imam Mohammad Ibn Saud Islamic University – IMSIU,Imam Mohammad Ibn Saud Islamic University,3.8,717.0,0.21,1001,2.7
+1140,King Khalid University,King Khalid University,3.7,1186.0,0.21,651,2.5
+1166,National Research Saratov State University,Lund University Library,4.7,125.0,0.20,531,4.6
+1166,Lund University,Lund University Library,4.7,125.0,0.20,87,4.6
+1166,"University Politehnica of Timisoara, UPT",Central Library of the University Politehnica Timisoara,4.7,62.0,0.20,1201,4.5
+1166,University of Ljubljana,National and University Library,4.2,111.0,0.20,591,3.6
+1166,Helwan University,Helwan University central library,4.0,26.0,0.20,1201,3.6
+1171,Universitat de Barcelona,CRAI Biblioteca de Fons Antic - CRAI de la Universitat de Barcelona UB,4.8,25.0,0.19,168,4.6
+1171,Verona University,Biblioteca Centrale Arturo Frinzi - Università degli studi di Verona,4.6,67.0,0.19,801,4.4
+1171,Diponegoro University,Library of the Faculty of Engineering of Diponegoro University,4.0,4.0,0.19,1001,4.0
+1171,Voronezh State University,Zonal'naya Nauchnaya Biblioteka Vgu,4.0,4.0,0.19,1001,4.0
+1171,Northern Borders University,Northern Border University,3.9,119.0,0.19,?,3.1
+1171,Jagiellonian University,Jagiellonian Library,3.8,254.0,0.19,309,2.8
+1177,Tallinn University of Technology (TalTech),TalTech Raamatukogu,4.9,95.0,0.18,751,4.9
+1177,University of Tartu,University of Tartu Library,4.8,112.0,0.18,300,4.7
+1177,Universitas Brawijaya,Central Library,4.7,338.0,0.18,1001,4.6
+1177,University of Hradec Kralove,The Research Library in Hradec Králové,4.7,99.0,0.18,801,4.6
+1177,Jouf University,Dar Al Uloom Al-Jouf Library,4.7,32.0,0.18,701,4.5
+1177,Poznań University of Technology,Poznan University of Technology Library,4.6,36.0,0.18,801,4.3
+1177,Friedrich-Alexander-Universität Erlangen-Nürnberg,University Library of Erlangen-Nürnberg,4.6,12.0,0.18,322,4.3
+1177,Bahauddin Zakariya University,Central Library,4.5,22.0,0.18,1201,4.2
+1177,University of Patras,Library & Information Centre,4.4,25.0,0.18,801,4.1
+1177,Nagoya Institute of Technology (NIT),Nagoya Institute of Technology Library,4.0,5.0,0.18,1001,4.0
+1177,University of Canberra,University of Canberra Library,4.3,46.0,0.18,436,3.9
+1177,Universitat Rovira i Virgili,URV CRAI campus Catalunya,4.3,45.0,0.18,701,3.9
+1177,Ajman University,Library,1.0,1.0,0.18,701,3.8
+1177,Al-Azhar University,Central Library - Al Azhar University,4.2,34.0,0.18,1001,3.8
+1177,University of Hawaii at Hilo,Edwin H. Mookini Library,4.1,18.0,0.18,?,3.8
+1177,Poznan University of Life Sciences,"Biblioteka i Centrum Informacji Naukowej, Uniwersytet Przyrodniczy",3.7,28.0,0.18,?,3.1
+1193,Catania University,Biblioteca Regionale Universitaria,4.6,12.0,0.16,801,4.3
+1193,Universidad de Oviedo,Biblioteca Central de la Universidad de Oviedo,4.6,7.0,0.16,801,4.3
+1193,Università degli Studi di Perugia,Biblioteca del Dipartimento di Filosofia FISSUF - UNIPG,4.3,3.0,0.16,751,4.1
+1193,Mustansiriyah University,Mustansiriya University - Central Library and the National Library,4.3,10.0,0.16,1001,4.0
+1193,Ain Shams University,المكتبة المركزية جامعة عين شمس,4.1,15.0,0.16,801,3.8
+1198,University of Granada,Biblioteca de la Facultad de Filosofía y Letras de la Universidad de Granada,5.0,4.0,0.15,492,4.4
+1198,University of Oslo,UiO Science Library,4.6,27.0,0.15,102,4.3
+1198,Comenius University in Bratislava,Academic Library FM CU Academic Library Faculty of Medicine Comenius University in Bratislava,4.7,3.0,0.15,651,4.3
+1198,University of Siena,Biblioteca di Area Umanistica,4.0,4.0,0.15,601,4.0
+1198,Alexandria University,Central Library Alexandria University,4.2,27.0,0.15,1001,3.8
+1198,University of Salerno,"Biblioteca centrale del polo umanistico, giuridico ed economico ""Eduardo Renato Caianiello""",4.1,24.0,0.15,801,3.7
+1204,Mahidol University,Library and Knowledge Center,4.5,41.0,0.14,255,4.2
+1204,University of Pisa,The UNIVERSITY LIBRARY SYSTEM,4.0,2.0,0.14,388,4.1
+1204,Eötvös Loránd University,Eötvös Loránd University Institute of Art History and Library,,,0.14,651,
+1207,Corvinus University of Budapest,Budapesti Corvinus Egyetem Egyetemi Könyvtár,4.7,56.0,0.13,801,4.5
+1207,CY Cergy Paris University,CY Bibliothèque universitaire - Site des Chênes,5.0,5.0,0.13,801,4.4
+1207,Graz University of Technology,University Library of the Technical University of Graz,4.6,10.0,0.13,277,4.3
+1207,Universita' degli Studi di Ferrara,"Biblioteca di Lettere e Filosofia ""Amleto Bassi"" dell'Università degli Studi di Ferrara",4.0,2.0,0.13,801,4.1
+1211,Linköping University,Linköping University Library,4.6,29.0,0.12,329,4.3
+1211,University of Genoa,University Library of Genoa,3.6,23.0,0.12,601,3.1
+1213,University of Klagenfurt,Klagenfurt University Library,4.5,25.0,0.10,501,4.2
+1214,Chalmers University of Technology,Chalmers bibliotek,4.8,52.0,0.09,121,4.7
+1215,Southwest University,Los Angeles Southwest College Library,4.5,12.0,0.06,1201,4.2
+1216,VSB - Technical University of Ostrava,Central library - VSB-TUO,4.6,23.0,0.04,1001,4.3
+1216,Silesian University of Technology,Biblioteka Główna Politechniki Śląskiej,4.5,22.0,0.04,801,4.2
