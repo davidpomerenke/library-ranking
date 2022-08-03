@@ -1,5 +1,6 @@
 import json
 import pandas as pd
+import re
 
 
 with open("data_out/data.json") as f:
@@ -45,7 +46,7 @@ for uni in unis:
     times = [(library["name"], calc_times(library)) for library in libraries]
     times = [t for t in times if t[1] is not None]
     lib, time = max(times, key=lambda x: x[1], default=("-", 0))  # type: ignore
-    ranking.append({"uni": uni.strip(), "library": lib, "open_time": time})
+    ranking.append({"uni": uni, "library": lib, "open_time": time})
 
 # library open time ranking
 
@@ -57,4 +58,22 @@ df["open_time"] = df["open_time"].apply(lambda s: f"{round(s*100)/100:.2f}")
 cols = df.columns.to_list()
 df = df[[cols[-1], *cols[:-1]]]
 
+
+def get_rank(uni):
+    rank = qs[qs["Institution Name"] == uni].iloc[0]["RANK"]
+    if isinstance(rank, float):
+        if pd.isna(rank):
+            print(uni, rank)
+            return None
+        rank = int(rank)
+    if isinstance(rank, str):
+        rank = rank.strip(" =")
+        if "-" in rank:
+            rank = rank.split("-")[0]
+    return str(int(rank))
+
+
+qs = pd.read_excel("data_in/2023 QS World University Rankings V2.1.xlsx")
+df["qs_rank"] = df["uni"].apply(get_rank)
+df["uni"] = df["uni"].apply(lambda s: s.strip())
 df.to_csv("data_out/ranking.csv", index=False)
