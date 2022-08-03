@@ -1,6 +1,5 @@
 import dotenv
 import json
-import logging
 import pandas as pd
 import os
 import requests
@@ -11,11 +10,11 @@ GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 payload = {}
 headers = {}
 
-with open("data.json") as f:
+with open("data_out/data.json") as f:
     data = json.load(f)
 
 
-def get_details(place_id, query):
+def get_details(place_id, uni):
     fields = ",".join(
         [
             "name",
@@ -28,31 +27,35 @@ def get_details(place_id, query):
         ]
     )
     url = f"https://maps.googleapis.com/maps/api/place/details/json?place_id={place_id}&fields={fields}&key={GOOGLE_API_KEY}&language=en"
-    response = requests.request("GET", url, headers=headers, data=payload).json()
-    response["query"] = query
+    response = requests.request("GET", url, headers=headers, data=payload).json()[
+        "result"
+    ]
+    response["uni"] = uni
     data.append(response)
 
 
-def get_info(query):
+def get_info(uni):
+    query = f"{uni} Library"
     fields = ",".join(["name", "user_ratings_total", "place_id"])
 
     url = f"https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input={query}&inputtype=textquery&fields={fields}&key={GOOGLE_API_KEY}&language=en"
 
     response = requests.request("GET", url, headers=headers, data=payload).json()
+    print(uni)
     if len(response["candidates"]) == 0:
-        logging.warn(f"{query} had 0 results")
+        print(f"\t0 results!")
     elif len(response["candidates"]) > 0:
         if len(response["candidates"]) > 1:
-            logging.warn(f"{query} had {len(response['candidates'])} results")
+            print(f"\t{len(response['candidates'])} results!")
         for candidate in response["candidates"]:
-            get_details(candidate["place_id"], query)
+            get_details(candidate["place_id"], uni)
 
 
-df = pd.read_csv("data/2023 QS World University Rankings V2.1.csv")
+df = pd.read_excel("data/2023 QS World University Rankings V2.1.xlsx")
 
-for query in list(df["Institution Name"])[:2]:
-    if query not in {d["query"] for d in data}:
-        get_info(query)
+for uni in list(df["Institution Name"])[:750]:
+    if uni not in {d["uni"] for d in data}:
+        get_info(uni)
 
-with open("data.json", "w") as f:
-    json.dump(data, f)
+with open("data_out/data.json", "w") as f:
+    json.dump(data, f, indent=2)
