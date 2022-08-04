@@ -50,5 +50,5 @@ from IPython.display import HTML
 pd.set_option('display.max_rows', None)
 df["opening_hours"] = df["opening_hours"].apply(lambda x: str(int(x*100))+"%")
 df.drop(columns=["gmaps_rating"])
-display(HTML(df[["rank", "uni", "library", "gmaps_rating", "opening_hours"]].to_html(index=False)))
+display(HTML(df[["rank", "opening_hours", "gmaps_rating", "library", "uni"]].to_html(index=False)))
 ```
