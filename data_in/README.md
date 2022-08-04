@@ -1,0 +1,1 @@
+The data can be requested at the [QS World University Ranking site](https://www.topuniversities.com/university-rankings/world-university-rankings/2023). If you cannot access the data and have trouble reproducing the ranking, please contact me or create an issue.
