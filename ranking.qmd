@@ -45,6 +45,7 @@ Use `CTRL` + `F` to search.
 
 ```{python}
 #| echo: false
+#| column: page
 from IPython.display import HTML
 pd.set_option('display.max_rows', None)
 df["opening_hours"] = df["opening_hours"].apply(lambda x: str(int(x*100))+"%")
