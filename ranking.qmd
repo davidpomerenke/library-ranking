@@ -4,15 +4,19 @@ author: David Pomerenke
 date: "2022-08-03"
 reference-location: margin
 citation-location: margin
+comments:
+  hypothesis: 
+    theme: clean
 ---
 
 With the exception of the [Nando's Excellence Framework](https://bantshire.github.io/blog-nandos.html), university ratings tend to be bullshit. Nonetheless, I give it another shot and rank universities by how long their library is open. -- It turns out that 70% of "universities" have their libraries closed more than half of the time, and a mere 6% are open all the time.
 
 ## Method
 
-Opening times are retrieved via Google Maps for all universities in the racist list of BS World University Ratings^[Officially, [_QS_ World University Rankings](https://www.topuniversities.com/university-rankings/world-university-rankings/2023).] and converted to percentages. Where there are multiple libraries, the one with the longest opening hours is selected. User ratings are also retrieved via Google Maps and reranked using [Bayesian averaging](https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/how-to/bayesian-average/). The table is sorted by opening hours first, and by ratings second.
+Opening times are retrieved via Google Maps for all universities in the racist list of BS World University Ratings^[Officially, [_QS_ World University Rankings](https://www.topuniversities.com/university-rankings/world-university-rankings/2023).] and converted to percentages. Where there are multiple libraries, the one with the longest opening hours is selected. User ratings
+ are also retrieved via Google Maps and reranked using [Bayesian averaging](https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/how-to/bayesian-average/). The table is sorted by opening hours first, and by ratings second.
 
-There are limitations, and they seem acceptable: Arguably, most opening hours on Google Maps are accurate. The main problem is the retrieval of all relevant libraries. Faculties may have additional subject-specific libraries and in some fancy collegiate unis the dormitories may have their own libraries, and neither may be found on Google Maps by searching for "\<university name\> Library", as done here. Google Maps ratings are not very reliable, but at least there is little reason to assume they are manipulated like other online ratings, and they are only used for seconday sorting.
+There are limitations, and they seem acceptable: Arguably, most opening hours on Google Maps are accurate. The main problem is the retrieval of relevant libraries matching the universities. Please point out any mistakes by selecting the text and commenting on it. One issue is that faculties may have subject-specific libraries and in some fancy collegiate unis the dormitories may have their own libraries, and neither may be found on Google Maps by searching for "\<university name\> Library", as done here. Google Maps ratings are not very reliable, but at least there is little reason to assume they are manipulated like other online ratings, and they are only used for seconday sorting.
 
 Code and data are available [on Github](https://github.com/davidpomerenke/library-ranking).
 
