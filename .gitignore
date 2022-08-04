@@ -1,5 +1,6 @@
 ranking.html
 ranking_files/
+data_in/*.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
