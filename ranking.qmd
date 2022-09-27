@@ -8,17 +8,16 @@ listing:
   id: ranking-listing
   type: table
   contents: data_out/ranking.yml
-  fields: [rank, opening_hours_percent, gmaps_rating, uni, library]
+  fields: [rank, opening_hours_percent, uni, library]
   field-display-names:
     rank: "#"
     opening_hours_percent: "<nobr>Open</nobr>"
-    gmaps_rating: "<nobr>gMaps★</nobr>"
     uni: University
     library: Library
   page-size: 250
   table-striped: true
 abstract: >
-  University ratings tend to be bullshit [@bowdenFantasyHigherEducation2000; @saisanaHigherEducationRankings2008; @kehmGlobalUniversityRankings2014].^[With the exception of the [Nando's Excellence Framework](https://bantshire.github.io/blog-nandos.html), of course.] Nonetheless, I give it another shot and rank universities by how long their library is open. -- It turns out that 70% of universities have their libraries closed more than half of the time, and a mere 6% are open all the time.
+  University ratings tend to be bullshit [@bowdenFantasyHigherEducation2000; @saisanaHigherEducationRankings2008; @kehmGlobalUniversityRankings2014].^[An exception is the [Nando's Excellence Framework](https://bantshire.github.io/blog-nandos.html).] Nonetheless, I give it another shot and rank universities by how long their library is open. -- It turns out that 70% of universities have their libraries closed more than half of the time, and a mere 6% are open all the time.
 ---
 
 ## Method
@@ -26,6 +25,8 @@ abstract: >
 Opening times are retrieved via Google Maps for all universities in the racist list of [QS World University Rankings](https://www.topuniversities.com/university-rankings/world-university-rankings/2023) and converted to percentages. Where there are multiple libraries, the one with the longest opening hours is selected. User ratings are also retrieved via Google Maps and reranked using [Bayesian averaging](https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/how-to/bayesian-average/). The table is sorted by opening hours first, and by ratings second.
 
 The main limitation is finding the right libraries for the universities. The approach is to simply use "\<university name\> Library" as a query and let Google Maps figure it out, and it works surprisingly well, but not perfectly. Especially smaller libraries (pertaining to single faculties or colleges) may not be properly represented.
+
+An important piece of information that is missing is whether the libraries are open to the public. For example, most libraries in Germany are open to everyone, but in the UK, they tend to be restricted to students and staff.
 
 Code and data are available [on Github](https://github.com/davidpomerenke/library-ranking).
 
@@ -43,18 +44,12 @@ df = pd.read_csv("data_out/ranking.csv")
 df1 = df.copy()
 df1 = df1[df1["qs_rank"] != "?"]
 df1["qs_rank"] = df1["qs_rank"].astype(float)
-fig, ax = plt.subplots()
-sns.regplot(data=df1, x="opening_hours", y="qs_rank", ax=ax)
-ax.set(ylim=(len(df), 0))
-plt.show()
-```
-
-```{python}
-#| echo: false
-#| label: fig-2
-#| fig-cap: "Opening hours (1.0 = always) vs Google Maps rating of the university libraries."
-#| fig-cap-location: margin
-sns.regplot(data=df1, x="opening_hours", y="gmaps_rating")
+df1 = df1[df1["qs_rank"] < 500]
+# fig, ax = plt.subplots()
+# sns.regplot(data=df1, x="opening_hours", y="qs_rank", ax=ax)
+# ax.set(ylim=(len(df), 0))
+g = sns.jointplot(data=df1, x="opening_hours", y="qs_rank", kind="reg", ylim=(len(df1), 0))
+g.ax_marg_y.remove()
 plt.show()
 ```
 
