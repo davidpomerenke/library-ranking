@@ -1,6 +1,6 @@
 import json
-from statistics import mean
 import pandas as pd
+import yaml
 
 
 with open("data_out/data.json") as f:
@@ -50,7 +50,8 @@ for uni in unis:
             "gmaps_rating_count": d["user_ratings_total"]
             if "user_ratings_total" in d
             else None,
-            "opening_hours": calc_times(d),
+            "opening_hours": round(calc_times(d) * 100) / 100,
+            "opening_hours_percent": str(round(calc_times(d) * 100)) + "%",
         }
         for d in data
         if d["uni"] == uni and calc_times(d) is not None
@@ -63,12 +64,12 @@ for uni in unis:
 
 df = pd.DataFrame(ranking)
 
-df["opening_hours"] = df["opening_hours"].apply(lambda s: f"{round(s*100)/100:.2f}")
-
 df["rank"] = df["opening_hours"].rank(ascending=False, method="min")
 df["rank"] = df["rank"].apply(round)
 cols = df.columns.to_list()
 df = df[[cols[-1], *cols[:-1]]]
+
+# add qs ranks
 
 
 def get_rank(uni):
@@ -85,8 +86,6 @@ def get_rank(uni):
             rank = rank.split("-")[0]
     return str(int(rank))
 
-
-# add qs ranks
 
 qs = pd.read_excel("data_in/2023 QS World University Rankings V2.1.xlsx")
 df["qs_rank"] = df["uni"].apply(get_rank)
@@ -119,10 +118,5 @@ df["gmaps_rating"] = df["gmaps_rating"].apply(stretch)
 
 df = df.sort_values(by=["opening_hours", "gmaps_rating"], ascending=[False, False])
 df.to_csv("data_out/ranking.csv", index=False)
-
-df = df[df["qs_rank"] != "?"]
-df["qs_rank"] = df["qs_rank"].astype(float)
-df["qs_rank"].hist()
-import matplotlib.pyplot as plt
-
-plt.show()
+with open("data_out/ranking.yml", "w") as f:
+    yaml.dump(df.to_dict(orient="records"), f)
