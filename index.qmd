@@ -17,7 +17,7 @@ listing:
   page-size: 100
   table-striped: true
 abstract: >
-  University ratings tend to be bullshit [@bowdenFantasyHigherEducation2000; @saisanaHigherEducationRankings2008; @kehmGlobalUniversityRankings2014].^[An exception is the [Nando's Excellence Framework](https://bantshire.github.io/blog-nandos.html).] Nonetheless, I give it another shot and rank universities by how long their library is open. -- It turns out that 70% of universities have their libraries closed more than half of the time, and a mere 6% are open all the time.
+  University rankings tend to be bullshit [@bowdenFantasyHigherEducation2000; @saisanaHigherEducationRankings2008; @kehmGlobalUniversityRankings2014].^[An exception is the [Nando's Excellence Framework](https://bantshire.github.io/blog-nandos.html).] Nonetheless, I give it another shot and rank universities by how long their library is open. -- It turns out that 70% of universities have their libraries closed more than half of the time, and a mere 6% are open all the time.
 ---
 
 ## Method
