@@ -3,7 +3,7 @@ title: "World University Library Ranking"
 author: David Pomerenke
 date: "2022-08-03"
 bibliography: references.bib
-csl: ../ieee.csl
+csl: ieee.csl
 listing:
   id: ranking-listing
   type: table
@@ -48,7 +48,7 @@ df1 = df1[df1["qs_rank"] < 500]
 # fig, ax = plt.subplots()
 # sns.regplot(data=df1, x="opening_hours", y="qs_rank", ax=ax)
 # ax.set(ylim=(len(df), 0))
-g = sns.jointplot(data=df1, x="opening_hours", y="qs_rank", kind="reg", ylim=(len(df1), 0))
+g = sns.jointplot(data=df1, x="opening_hours", y="qs_rank", ylim=(len(df1), 0))
 g.ax_marg_y.remove()
 plt.show()
 ```
